@@ -1,5 +1,5 @@
-=========================
-LMD Editor - Monster Hunter 4 Ultimate Text Translator
+=========================\n
+LMD Editor - Monster Hunter 4 Ultimate Text Translator\n
 ========================
 
 LMDTool is a C# utility designed to extract, edit, and rebuild .lmd text files,
@@ -28,14 +28,14 @@ FEATURES
 PROJECT STRUCTURE
 -----------------------
 
-LMDEditor/
-│
-├─ LMDParser.cs        -> Core parser
-├─ Program.cs         -> Command-line entry point
-├─ MainForm.cs        -> (optional GUI)
-├─ README.txt
-└─ /bin
-   └─ /Release
+LMDEditor/\n
+│\n
+├─ LMDParser.cs        -> Core parser\n
+├─ Program.cs         -> Command-line entry point\n
+├─ MainForm.cs        -> (optional GUI)\n
+├─ README.txt\n
+└─ /bin\n
+   └─ /Release\n
 
 
 -----------------------
