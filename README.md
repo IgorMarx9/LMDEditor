@@ -155,4 +155,3 @@ The tool automatically converts this into Monster Hunter 4 Ultimate internal opc
 - Some internal opcodes exist between characters  
 - Red text is controlled by embedded binary commands  
 - The parser dynamically detects real string boundaries
-```
