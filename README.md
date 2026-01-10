@@ -24,3 +24,135 @@ specifically, support is not available for other games (yet).
 
 ## PROJECT STRUCTURE
 
+```
+LMDEditor/
+│
+├─ LMDParser.cs        -> Core parser
+├─ Program.cs         -> Command-line entry point
+├─ MainForm.cs        -> (optional GUI)
+├─ README.txt
+└─ /bin
+   └─ /Release
+```
+
+---
+
+## REQUIREMENTS
+
+- Windows  
+- .NET SDK 8.0 or higher  
+
+**Download:**  
+[https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
+
+**Check installation:**  
+```bash
+dotnet --version
+```
+
+---
+
+## HOW TO BUILD
+
+Open a terminal inside the project folder and run:
+
+```bash
+dotnet build -c Release
+```
+
+The executable will be generated in:  
+`bin/Release/net8.0-windows/`
+
+---
+
+## HOW TO USE
+
+Place the .exe in the same folder as your .lmd files.
+
+### EXPORT TEXT
+
+```
+LMDTool.exe export
+```
+
+- All .lmd files will be dumped to .txt files
+- Each string will be numbered
+
+### IMPORT TEXT
+
+```
+LMDTool.exe import
+```
+
+- Reads edited .txt files
+- Rebuilds new .lmd files automatically
+
+### VERIFY FILES
+
+```
+LMDTool.exe verify
+```
+
+- Checks if the number of strings matches
+- Prevents broken rebuilds
+
+---
+
+## TXT FORMAT
+
+Each string starts with an index:
+
+```
+ First dialog line
+still the same dialog
+
+ Another string
+```
+
+**Rules:**
+- Line breaks are made using ENTER
+- Do not remove the [0000] indices
+- Do not change the order
+- Do not merge different strings
+- Do not create new indices manually
+
+---
+
+## RED TEXT SUPPORT
+
+Use tags to mark colored text:
+
+```
+<RED>Red text here</RED>
+```
+
+**Example:**
+
+```
+ You must obtain a
+<RED>rare material</RED>
+to continue.
+```
+
+The tool automatically converts this into Monster Hunter 4 Ultimate internal opcode.
+
+---
+
+## IMPORTANT RULES FOR TRANSLATORS
+
+- Do NOT delete string numbers  
+- Do NOT change string order  
+- Do NOT merge separate entries  
+- Do NOT remove `<RED>` or `</RED>`  
+- Do NOT create new [000X] blocks  
+
+---
+
+## TECHNICAL NOTES
+
+- LMD files use UTF-16 encoding  
+- 00 00 is NOT always end of string  
+- Some internal opcodes exist between characters  
+- Red text is controlled by embedded binary commands  
+- The parser dynamically detects real string boundaries
+```
