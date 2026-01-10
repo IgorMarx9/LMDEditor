@@ -57,7 +57,7 @@ dotnet --version
 Open a terminal inside the project folder and run:
 
 ```bash
-dotnet build -c Release
+dotnet publish -c Release -r win-x64 --self-contained true -o build
 ```
 
 The executable will be generated in:  
