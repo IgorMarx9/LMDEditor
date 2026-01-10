@@ -1,6 +1,6 @@
-==================================================
+=========================
 LMD Editor - Monster Hunter 4 Ultimate Text Translator
-==================================================
+========================
 
 LMDTool is a C# utility designed to extract, edit, and rebuild .lmd text files,
 with full support for multi-line dialogs and in-game formatting such as red text.
@@ -24,9 +24,9 @@ FEATURES
 • Handles internal control codes correctly  
 
 
---------------------------------------------------
+-----------------------
 PROJECT STRUCTURE
---------------------------------------------------
+-----------------------
 
 LMDEditor/
 │
@@ -38,9 +38,9 @@ LMDEditor/
    └─ /Release
 
 
---------------------------------------------------
+-----------------------
 REQUIREMENTS
---------------------------------------------------
+-----------------------
 
 • Windows  
 • .NET SDK 8.0 or higher  
@@ -53,9 +53,9 @@ Check installation:
 dotnet --version
 
 
---------------------------------------------------
+-----------------------
 HOW TO BUILD
---------------------------------------------------
+-----------------------
 
 Open a terminal inside the project folder and run:
 
@@ -66,9 +66,9 @@ The executable will be generated in:
 bin/Release/net8.0-windows/
 
 
---------------------------------------------------
+----------------------
 HOW TO USE
---------------------------------------------------
+----------------------
 
 Place the .exe in the same folder as your .lmd files.
 
@@ -103,9 +103,9 @@ LMDTool.exe verify
 • Prevents broken rebuilds
 
 
---------------------------------------------------
+------------------------
 TXT FORMAT
---------------------------------------------------
+------------------------
 
 Each string starts with an index:
 
@@ -122,9 +122,9 @@ Rules:
 • Do not create new indices manually
 
 
---------------------------------------------------
+-----------------------
 RED TEXT SUPPORT
---------------------------------------------------
+-----------------------
 
 Use tags to mark colored text:
 
@@ -139,9 +139,9 @@ to continue.
 The tool automatically converts this into Monster Hunter 4 Ultimate internal opcode.
 
 
---------------------------------------------------
+----------------------
 IMPORTANT RULES FOR TRANSLATORS
---------------------------------------------------
+----------------------
 
 • Do NOT delete string numbers  
 • Do NOT change string order  
@@ -150,9 +150,9 @@ IMPORTANT RULES FOR TRANSLATORS
 • Do NOT create new [000X] blocks  
 
 
---------------------------------------------------
+--------------------
 TECHNICAL NOTES
---------------------------------------------------
+--------------------
 
 • LMD files use UTF-16 encoding  
 • 00 00 is NOT always end of string  
