@@ -27,17 +27,14 @@ public static class LMDParser
 
         long tableOffset = FindTableOffset(data, out int entryCount);
         if (tableOffset < 0)
-            throw new Exception("Tabela de strings não encontrada.");
+            throw new Exception("String table not found.");
 
         var entries = ReadEntries(data, tableOffset, entryCount);
 
         using StreamWriter sw = new StreamWriter(txtPath, false, Encoding.UTF8);
 
         for (int i = 0; i < entries.Count; i++)
-        {
             sw.WriteLine($"[{i:D4}] {entries[i].Text}");
-
-        }
     }
 
     public static void ImportFromTxt(string originalLmd, string txtPath, string outLmd)
@@ -46,18 +43,17 @@ public static class LMDParser
 
         long tableOffset = FindTableOffset(original, out int entryCount);
         if (tableOffset < 0)
-            throw new Exception("Tabela de strings não encontrada.");
+            throw new Exception("String table not found.");
 
         var originalEntries = ReadRawEntries(original, tableOffset, entryCount);
         var newStrings = ReadTxt(txtPath);
 
         if (newStrings.Count != entryCount)
-            throw new Exception($"Quantidade de linhas no TXT ({newStrings.Count}) não bate com o esperado ({entryCount}).");
+            throw new Exception($"TXT line count ({newStrings.Count}) does not match expected ({entryCount}).");
 
         using var fs = new FileStream(outLmd, FileMode.Create, FileAccess.Write);
         using var bw = new BinaryWriter(fs);
 
-        // copia cabeçalho
         bw.Write(original, 0, (int)tableOffset);
 
         long newTablePos = fs.Position;
@@ -68,7 +64,6 @@ public static class LMDParser
         for (int i = 0; i < entryCount; i++)
         {
             long pos = fs.Position;
-
             byte[] block = BuildBinaryBlock(newStrings[i]);
             bw.Write(block);
 
@@ -81,7 +76,6 @@ public static class LMDParser
             });
         }
 
-        // escreve tabela nova
         fs.Seek(newTablePos, SeekOrigin.Begin);
 
         foreach (var e in newEntries)
@@ -91,13 +85,26 @@ public static class LMDParser
             bw.Write(e.Length2);
         }
 
-        // copia tail
         long oldTextEnd = FindTextBlockEnd(originalEntries);
         if (oldTextEnd < original.Length)
         {
             fs.Seek(0, SeekOrigin.End);
             bw.Write(original, (int)oldTextEnd, original.Length - (int)oldTextEnd);
         }
+    }
+
+    public static void Verify(string originalLmd, string txtPath)
+    {
+        byte[] original = File.ReadAllBytes(originalLmd);
+
+        long tableOffset = FindTableOffset(original, out int entryCount);
+        if (tableOffset < 0)
+            throw new Exception("String table not found.");
+
+        var newStrings = ReadTxt(txtPath);
+
+        if (newStrings.Count != entryCount)
+            throw new Exception($"TXT line count ({newStrings.Count}) does not match expected ({entryCount}).");
     }
 
     // =========================
@@ -111,10 +118,7 @@ public static class LMDParser
         for (int i = 0; i < raw.Count; i++)
         {
             int start = (int)raw[i].Offset;
-            int end = (i + 1 < raw.Count)
-                ? (int)raw[i + 1].Offset
-                : data.Length;
-
+            int end = (i + 1 < raw.Count) ? (int)raw[i + 1].Offset : data.Length;
             raw[i].Text = ReadScriptBlock(data, start, end);
         }
 
@@ -143,94 +147,71 @@ public static class LMDParser
     {
         StringBuilder sb = new();
         bool red = false;
-
         int i = start;
 
         while (i + 1 < end)
         {
-            // fim real da string
             if (data[i] == 0x00 && data[i + 1] == 0x00)
-                break;
+            {
+                bool onlyZero = true;
+                for (int k = i; k < end; k++)
+                {
+                    if (data[k] != 0x00) { onlyZero = false; break; }
+                }
+                if (onlyZero) break;
+                i += 2;
+                continue;
+            }
 
-            // possível opcode especial
             if (i + 3 < end &&
                 data[i] == 0x00 && data[i + 1] == 0x00 &&
                 data[i + 2] == 0x00 && data[i + 3] == 0x00)
             {
-                // olha o que vem depois
                 if (i + 5 < end && !(data[i + 4] == 0x00 && data[i + 5] == 0x00))
                 {
-                    // só aqui é cor de verdade
                     sb.Append(red ? "</RED>" : "<RED>");
                     red = !red;
-                    i += 4;
-                    continue;
                 }
-                else
-                {
-                    // separador / padding → ignora
-                    i += 4;
-                    continue;
-                }
+                i += 4;
+                continue;
             }
 
             sb.Append(Encoding.Unicode.GetString(data, i, 2));
             i += 2;
         }
 
-        if (red)
-            sb.Append("</RED>");
-
+        if (red) sb.Append("</RED>");
         return sb.ToString();
     }
-
 
     static byte[] BuildBinaryBlock(string txt)
     {
         List<byte> buf = new();
-
         int i = 0;
+
         while (i < txt.Length)
         {
-            if (txt.Substring(i).StartsWith("<RED>"))
-            {
-                buf.AddRange(RED_OPCODE);
-                i += 5;
-                continue;
-            }
+            if (txt.Substring(i).StartsWith("<RED>")) { buf.AddRange(RED_OPCODE); i += 5; continue; }
+            if (txt.Substring(i).StartsWith("</RED>")) { buf.AddRange(RED_OPCODE); i += 6; continue; }
 
-            if (txt.Substring(i).StartsWith("</RED>"))
-            {
-                buf.AddRange(RED_OPCODE);
-                i += 6;
-                continue;
-            }
-
-            byte[] ch = Encoding.Unicode.GetBytes(txt[i].ToString());
-            buf.AddRange(ch);
+            buf.AddRange(Encoding.Unicode.GetBytes(txt[i].ToString()));
             i++;
         }
 
         buf.Add(0x00);
         buf.Add(0x00);
-
         return buf.ToArray();
     }
 
     // =========================
-    // AUTO DETECTION
+    // AUTO DETECT
     // =========================
 
     static long FindTableOffset(byte[] data, out int entryCount)
     {
         for (int i = 0; i < data.Length - 0x1000; i += 4)
-        {
-            if (TryReadTable(data, i, out entryCount))
-            {
-                if (entryCount > 10)
-                    return i;
-            }
-        }
+            if (TryReadTable(data, i, out entryCount) && entryCount > 10)
+                return i;
 
         entryCount = 0;
         return -1;
@@ -244,8 +225,7 @@ public static class LMDParser
         for (int i = 0; i < 10000; i++)
         {
             int p = start + i * EntrySize;
-            if (p + EntrySize >= data.Length)
-                break;
+            if (p + EntrySize >= data.Length) break;
 
             uint off = BitConverter.ToUInt32(data, p);
             uint len1 = BitConverter.ToUInt32(data, p + 4);
@@ -264,13 +244,8 @@ public static class LMDParser
     static long FindTextBlockEnd(List<LMDEntry> entries)
     {
         uint max = 0;
-
         foreach (var e in entries)
-        {
-            if (e.Offset > max)
-                max = e.Offset;
-        }
-
+            if (e.Offset > max) max = e.Offset;
         return max;
     }
 
@@ -282,7 +257,6 @@ public static class LMDParser
     {
         var lines = File.ReadAllLines(path, Encoding.UTF8);
         List<string> list = new();
-
         StringBuilder current = null;
 
         foreach (var raw in lines)
@@ -291,38 +265,18 @@ public static class LMDParser
 
             if (m.Success)
             {
-                if (current != null)
-                    list.Add(current.ToString());
-
+                if (current != null) list.Add(current.ToString());
                 current = new StringBuilder();
                 current.Append(m.Groups[2].Value);
             }
-            else
+            else if (current != null)
             {
-                if (current == null) continue;
                 current.Append("\n");
                 current.Append(raw);
             }
         }
 
-        if (current != null)
-            list.Add(current.ToString());
-
+        if (current != null) list.Add(current.ToString());
         return list;
     }
-
-    public static void Verify(string originalLmd, string txtPath)
-    {
-        byte[] original = File.ReadAllBytes(originalLmd);
-
-        long tableOffset = FindTableOffset(original, out int entryCount);
-        if (tableOffset < 0)
-            throw new Exception("Tabela de strings não encontrada.");
-
-        var newStrings = ReadTxt(txtPath);
-
-        if (newStrings.Count != entryCount)
-            throw new Exception($"Quantidade de linhas no TXT ({newStrings.Count}) não bate com o esperado ({entryCount}).");
-    }
-
 }

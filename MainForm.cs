@@ -1,130 +1,351 @@
 using System;
 using System.IO;
-using System.Linq;
-using System.Text;
+using System.Drawing;
 using System.Windows.Forms;
 
-public class MainForm : Form
+namespace LMDTool
 {
-    ProgressBar bar;
-    TextBox log;
-
-    public MainForm()
+    public partial class MainForm : Form
     {
-        BuildUI();
-    }
+        enum TaskMode { Export, Import, Verify }
 
+        // =========================
+        // THEME
+        // =========================
 
-    void BuildUI()
-    {
-        Text = "Extrator de LMD - Dodogama Team";
-        Width = 640;
-        Height = 480;
-        FormBorderStyle = FormBorderStyle.FixedDialog;
-        MaximizeBox = false;
+        Color DarkBlue = Color.FromArgb(18, 28, 44);
+        Color DarkBluePanel = Color.FromArgb(22, 34, 56);
+        Color ButtonBlue = Color.FromArgb(30, 50, 80);
+        Color Fore = Color.WhiteSmoke;
 
-        Button export = new Button() { Text = "Extrair LMD → TXT", Left = 20, Top = 20, Width = 200 };
-        Button import = new Button() { Text = "Gerar TXT → LMD", Left = 20, Top = 60, Width = 200 };
-        Button verify = new Button() { Text = "Verificar TXT", Left = 20, Top = 100, Width = 200 };
+        // =========================
+        // CORE
+        // =========================
 
-        bar = new ProgressBar() { Left = 20, Top = 150, Width = 200, Height = 25 };
-        log = new TextBox()
+        string gameRoot = "";
+        string extension = "";
+        bool isGMD = false;
+
+        Panel menuPanel = null!;
+        Panel mainPanel = null!;
+
+        Button btn3G = null!;
+        Button btn4G = null!;
+        Button btnBack = null!;
+
+        Button btnExport = null!;
+        Button btnImport = null!;
+        Button btnVerify = null!;
+
+        TextBox logBox = null!;
+
+        public MainForm()
         {
-            Left = 20,
-            Top = 190,
-            Width = 200,
-            Height = 230,
-            Multiline = true,
-            ScrollBars = ScrollBars.Vertical
-        };
-
-        export.Click += (s, e) => RunTask(TaskMode.Export);
-        import.Click += (s, e) => RunTask(TaskMode.Import);
-        verify.Click += (s, e) => RunTask(TaskMode.Verify);
-
-        Controls.Add(export);
-        Controls.Add(import);
-        Controls.Add(verify);
-        Controls.Add(bar);
-        Controls.Add(log);
-
-        Directory.CreateDirectory("original");
-        Directory.CreateDirectory("txt");
-        Directory.CreateDirectory("output");
-        Directory.CreateDirectory("backup");
-        Directory.CreateDirectory("logs");
-    }
-
-    enum TaskMode { Export, Import, Verify }
-
-    void RunTask(TaskMode mode)
-    {
-        log.Clear();
-
-        string[] files = Directory.GetFiles("original", "*.lmd");
-        if (files.Length == 0)
-        {
-            MessageBox.Show("Nenhum .lmd encontrado na pasta /original");
-            return;
+            InitializeForm();
+            BuildMenu();
+            BuildMainUI();
+            ShowMenu();
         }
 
-        bar.Value = 0;
-        bar.Maximum = files.Length;
-
-        foreach (var file in files)
+        void InitializeForm()
         {
-            string name = Path.GetFileName(file);
-            Log("Processando: " + name);
+            Text = "Monster Hunter String Tool";
+            Width = 900;
+            Height = 600;
+            StartPosition = FormStartPosition.CenterScreen;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            BackColor = DarkBlue;
+        }
 
+        // =========================================================
+        // MENU
+        // =========================================================
+
+        void BuildMenu()
+        {
+            menuPanel = new Panel()
+            {
+                Dock = DockStyle.Fill,
+                BackColor = DarkBluePanel
+            };
+
+            Label title = new Label()
+            {
+                Text = "Select Game",
+                Dock = DockStyle.Top,
+                Height = 80,
+                Font = new Font("Segoe UI", 26, FontStyle.Bold),
+                TextAlign = ContentAlignment.MiddleCenter,
+                ForeColor = Fore,
+                BackColor = DarkBluePanel
+            };
+
+            btn3G = new Button()
+            {
+                Text = "MH 3G / 3U",
+                Width = 260,
+                Height = 220,
+                Font = new Font("Segoe UI", 14, FontStyle.Bold),
+                ImageAlign = ContentAlignment.TopCenter,
+                TextAlign = ContentAlignment.BottomCenter,
+                Left = 170,
+                Top = 150
+            };
+
+            btn4G = new Button()
+            {
+                Text = "MH 4G / 4U",
+                Width = 260,
+                Height = 220,
+                Font = new Font("Segoe UI", 14, FontStyle.Bold),
+                ImageAlign = ContentAlignment.TopCenter,
+                TextAlign = ContentAlignment.BottomCenter,
+                Left = 450,
+                Top = 150
+            };
+
+            StyleButton(btn3G);
+            StyleButton(btn4G);
+
+            string baseDir = AppDomain.CurrentDomain.BaseDirectory;
+            LoadButtonImage(btn3G, Path.Combine(baseDir, "assets", "LAGGY.ico"));
+            LoadButtonImage(btn4G, Path.Combine(baseDir, "assets", "SERGIO.ico"));
+
+            btn3G.Click += (s, e) => Select3G();
+            btn4G.Click += (s, e) => Select4G();
+
+            menuPanel.Controls.Add(title);
+            menuPanel.Controls.Add(btn3G);
+            menuPanel.Controls.Add(btn4G);
+
+            Controls.Add(menuPanel);
+        }
+
+        void ShowMenu()
+        {
+            menuPanel.Visible = true;
+            mainPanel.Visible = false;
+            Text = "Monster Hunter Text Tool";
+        }
+
+        // =========================================================
+        // MAIN UI
+        // =========================================================
+
+        void BuildMainUI()
+        {
+            mainPanel = new Panel()
+            {
+                Dock = DockStyle.Fill,
+                Visible = false,
+                BackColor = DarkBluePanel
+            };
+
+            btnBack = new Button()
+            {
+                Text = "← Back to menu",
+                Width = 150,
+                Height = 32,
+                Left = 10,
+                Top = 10
+            };
+
+            btnExport = new Button()
+            {
+                Text = "Export → TXT",
+                Width = 180,
+                Height = 44,
+                Left = 30,
+                Top = 70
+            };
+
+            btnImport = new Button()
+            {
+                Text = "Import → BIN",
+                Width = 180,
+                Height = 44,
+                Left = 30,
+                Top = 125
+            };
+
+            btnVerify = new Button()
+            {
+                Text = "Verify TXT",
+                Width = 180,
+                Height = 44,
+                Left = 30,
+                Top = 180
+            };
+
+            logBox = new TextBox()
+            {
+                Multiline = true,
+                ScrollBars = ScrollBars.Vertical,
+                Left = 230,
+                Top = 60,
+                Width = 630,
+                Height = 480,
+                Font = new Font("Consolas", 10),
+                ReadOnly = true,
+                BackColor = Color.FromArgb(12, 20, 34),
+                ForeColor = Fore,
+                BorderStyle = BorderStyle.FixedSingle
+            };
+
+            StyleButton(btnBack);
+            StyleButton(btnExport);
+            StyleButton(btnImport);
+            StyleButton(btnVerify);
+
+            btnBack.Click += (s, e) => ShowMenu();
+            btnExport.Click += (s, e) => RunTask(TaskMode.Export);
+            btnImport.Click += (s, e) => RunTask(TaskMode.Import);
+            btnVerify.Click += (s, e) => RunTask(TaskMode.Verify);
+
+            mainPanel.Controls.Add(btnBack);
+            mainPanel.Controls.Add(btnExport);
+            mainPanel.Controls.Add(btnImport);
+            mainPanel.Controls.Add(btnVerify);
+            mainPanel.Controls.Add(logBox);
+
+            Controls.Add(mainPanel);
+        }
+
+        void ShowMainUI(string title)
+        {
+            Text = title;
+            menuPanel.Visible = false;
+            mainPanel.Visible = true;
+            logBox.Clear();
+            Log("Ready.");
+        }
+
+        // =========================================================
+        // GAME SELECT
+        // =========================================================
+
+        void Select3G()
+        {
+            gameRoot = "MH3G";
+            extension = "*.gmd";
+            isGMD = true;
+
+            PrepareFolders();
+            ShowMainUI("GMD Tool - Monster Hunter 3G / 3U");
+        }
+
+        void Select4G()
+        {
+            gameRoot = "MH4G";
+            extension = "*.lmd";
+            isGMD = false;
+
+            PrepareFolders();
+            ShowMainUI("LMD Tool - Monster Hunter 4G / 4U");
+        }
+
+        void PrepareFolders()
+        {
+            Directory.CreateDirectory(gameRoot);
+            Directory.CreateDirectory(Path.Combine(gameRoot, "original"));
+            Directory.CreateDirectory(Path.Combine(gameRoot, "txt"));
+            Directory.CreateDirectory(Path.Combine(gameRoot, "output"));
+            Directory.CreateDirectory(Path.Combine(gameRoot, "backup"));
+            Directory.CreateDirectory(Path.Combine(gameRoot, "logs"));
+        }
+
+        // =========================================================
+        // CORE
+        // =========================================================
+
+        void RunTask(TaskMode mode)
+        {
             try
             {
-                if (mode == TaskMode.Export)
+                string originalDir = Path.Combine(gameRoot, "original");
+                string[] files = Directory.GetFiles(originalDir, extension);
+
+                if (files.Length == 0)
                 {
-                    string outTxt = Path.Combine("txt", Path.ChangeExtension(name, ".txt"));
-                    LMDParser.ExportToTxt(file, outTxt);
+                    Log("No files found in /original.");
+                    return;
                 }
-                else
+
+                foreach (string file in files)
                 {
-                    string txt = Path.Combine("txt", Path.ChangeExtension(name, ".txt"));
-                    if (!File.Exists(txt))
+                    string name = Path.GetFileName(file);
+                    Log("Processing: " + name);
+
+                    string txt = Path.Combine(gameRoot, "txt", Path.ChangeExtension(name, ".txt"));
+                    string outBin = Path.Combine(gameRoot, "output", name);
+                    string backup = Path.Combine(gameRoot, "backup", name);
+
+                    if (mode != TaskMode.Export && !File.Exists(txt))
                     {
-                        Log("⚠ TXT não encontrado, pulando.");
+                        Log("❌ Missing TXT.");
                         continue;
                     }
 
-                    if (mode == TaskMode.Verify)
+                    if (mode != TaskMode.Export && !File.Exists(backup))
+                        File.Copy(file, backup, true);
+
+                    if (mode == TaskMode.Export)
                     {
-                        LMDParser.Verify(file, txt);
-                        Log("✔ Verificação OK.");
+                        if (isGMD) GMDParser.ExportToTxt(file, txt);
+                        else LMDParser.ExportToTxt(file, txt);
+                    }
+                    else if (mode == TaskMode.Verify)
+                    {
+                        if (isGMD) GMDParser.Verify(file, txt);
+                        else LMDParser.Verify(file, txt);
                     }
                     else
                     {
-                        string backup = Path.Combine("backup", name);
-                        File.Copy(file, backup, true);
-
-                        string outLmd = Path.Combine("output", name);
-                        LMDParser.ImportFromTxt(file, txt, outLmd);
-                        Log("✔ Gerado com sucesso.");
+                        if (isGMD) GMDParser.ImportFromTxt(file, txt, outBin);
+                        else LMDParser.ImportFromTxt(file, txt, outBin);
                     }
+
+                    Log("✔ Done");
                 }
+
+                Log("Finished.");
             }
             catch (Exception ex)
             {
-                Log("❌ ERRO: " + ex.Message);
-                File.AppendAllText("logs\\errors.log",
-                    $"[{DateTime.Now}] {name}: {ex}\n");
-            }
+                File.AppendAllText(Path.Combine(gameRoot, "logs", "errors.log"),
+                    DateTime.Now + " - " + ex + Environment.NewLine);
 
-            bar.Value++;
-            Application.DoEvents();
+                Log("❌ ERROR: " + ex.Message);
+            }
         }
 
-        Log("\nConcluído.");
-        MessageBox.Show("Processo finalizado.");
-    }
+        // =========================================================
+        // UTILS
+        // =========================================================
 
-    void Log(string msg)
-    {
-        log.AppendText(msg + Environment.NewLine);
+        void StyleButton(Button btn)
+        {
+            btn.BackColor = ButtonBlue;
+            btn.ForeColor = Fore;
+            btn.FlatStyle = FlatStyle.Flat;
+            btn.FlatAppearance.BorderSize = 0;
+            btn.Cursor = Cursors.Hand;
+        }
+
+        void LoadButtonImage(Button btn, string file)
+        {
+            try
+            {
+                if (File.Exists(file))
+                    btn.Image = new Icon(file, 96, 96).ToBitmap();
+            }
+            catch { }
+        }
+
+        void Log(string msg)
+        {
+            logBox.AppendText(msg + Environment.NewLine);
+        }
     }
 }
