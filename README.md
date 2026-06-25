@@ -65,7 +65,7 @@ dotnet --version
 Open a terminal inside the project folder and run:
 
 ```
-dotnet publish -c Release -r win-x64 --self-contained true -o build
+dotnet publish .\LMDFileEditor.csproj -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:IncludeNativeLibrariesForSelfExtract=true /p:EnableCompressionInSingleFile=true
 ```
 
 The executable will be generated in:
