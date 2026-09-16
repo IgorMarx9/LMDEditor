@@ -206,12 +206,16 @@ public static class LMDParser
     // =========================
     // AUTO DETECT
     // =========================
-
     static long FindTableOffset(byte[] data, out int entryCount)
     {
-        for (int i = 0; i < data.Length - 0x1000; i += 4)
-            if (TryReadTable(data, i, out entryCount) && entryCount > 10)
-                return i;
+        for (int i = 0; i < data.Length - 0x40; i += 4)
+        {
+            if (TryReadTable(data, i, out entryCount))
+            {
+                if (entryCount >= 5)
+                    return i;
+            }
+        }
 
         entryCount = 0;
         return -1;
@@ -220,26 +224,40 @@ public static class LMDParser
     static bool TryReadTable(byte[] data, int start, out int count)
     {
         count = 0;
-        uint lastOff = 0;
 
-        for (int i = 0; i < 10000; i++)
+        uint lastOff = 0;
+        int valid = 0;
+
+        for (int i = 0; i < 5000; i++)
         {
             int p = start + i * EntrySize;
-            if (p + EntrySize >= data.Length) break;
+            if (p + EntrySize >= data.Length)
+                break;
 
             uint off = BitConverter.ToUInt32(data, p);
             uint len1 = BitConverter.ToUInt32(data, p + 4);
             uint len2 = BitConverter.ToUInt32(data, p + 8);
 
-            if (off <= lastOff || off >= data.Length || off % 2 != 0 || len1 != len2)
+            if (off >= data.Length || off < 0x20)
+                break;
+
+            if (off < lastOff)
+                break;
+
+            if (off % 2 != 0)
+                break;
+
+            if (len1 == 0 || len1 > 0x10000)
                 break;
 
             lastOff = off;
+            valid++;
             count++;
         }
 
-        return count > 0;
+        return valid >= 5;
     }
+
 
     static long FindTextBlockEnd(List<LMDEntry> entries)
     {
