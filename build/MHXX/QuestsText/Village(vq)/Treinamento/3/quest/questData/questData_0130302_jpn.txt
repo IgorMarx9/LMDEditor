@@ -1,0 +1,10 @@
+[0000]	Treino de Gatuno ≪Coleta e Combinação≫
+[0001]	Instrutor Calista
+[0002]	Desta vez, colete itens e faça combinações!
+Combinar é unir dois itens para criar outro.
+Conseguir materiais no campo será muito útil!
+[0003]	Larinoth
+[0004]	Entregue 1 Mega Poção
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Nenhuma

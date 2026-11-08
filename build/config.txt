@@ -1,0 +1,1 @@
+﻿QuestsFolder=C:\Users\Igor Marques\AppData\Roaming\Azahar\load\mods\quest

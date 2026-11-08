@@ -1,0 +1,15 @@
+[0000]	Treino de Caçador: Transporte
+[0001]	Instrutor
+[0002]	Sou eu, o instrutor. Desta vez,
+leve um Ovo de Serpe Carnívora
+até o acampamento sem quebrá-lo.
+Mesmo impactos leves quebram o ovo,
+então tome cuidado ao transportá-lo.
+É melhor eliminar os Maccao
+perto do ninho antes de começar.
+[0003]	Larinoth
+Maccao
+[0004]	Entregue 1 Ovo de Serpe Carnívora
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

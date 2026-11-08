@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo Atacante
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor. Nesta missão,
+você treinará com o Fuzilarco Leve!
+Sua especialidade é alternar entre
+vários tipos de munição enquanto
+mantém grande mobilidade.
+Use-o com o Estilo Atacante,
+especializado em Artes de Caça!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

@@ -1,0 +1,14 @@
+[0000]	Treino de Caçador: Mineração
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor. Desta vez,
+você praticará coleta com ferramentas.
+Seu objetivo é entregar Minério de Ferro.
+Muitos materiais obtidos com ferramentas
+são essenciais para aprimorar equipamentos.
+Picaretas podem ser caras para novatos,
+mas vale a pena sempre levar algumas.
+[0003]	Larinoth
+[0004]	Entregue 1 Minério de Ferro
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

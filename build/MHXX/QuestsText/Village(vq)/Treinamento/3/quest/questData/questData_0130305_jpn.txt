@@ -1,0 +1,11 @@
+[0000]	Treino de Gatuno ≪Transporte≫
+[0001]	Instrutor Calista
+[0002]	Leve um Ovo de Carnívoro ao acampamento
+sem quebrá-lo. Até pequenos impactos o quebram!
+Abata os Maccao perto do ninho antes de levar.
+[0003]	Larinoth
+Maccao
+[0004]	Entregue 1 Ovo de Carnívoro
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Nenhuma

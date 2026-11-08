@@ -1,0 +1,10 @@
+[0000]	Treino de Gatuno ≪Pesca≫
+[0001]	Instrutor Calista
+[0002]	Desta vez, pesque e entregue um Atum Gourmet.
+Use a isca na água. Vou ensinar com cuidado
+até como fisgar peixes grandes! Antes da janta!
+[0003]	Larinoth
+[0004]	Entregue 1 Atum Gourmet
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Entregue 1 Peixushi

@@ -1,0 +1,1846 @@
+﻿[0000] Certo, aqui está a Missão.
+[0001] Visite a qualquer hora!
+[0002] Desculpa, Projeto. Odeio dizer isso, mas
+você tem zenny suficiente.
+[0003] Hm, Projeto... Está tentando trapacear?
+Porque você não atende aos requisitos
+para esta Missão.
+[0004] bobo
+[0005] Parece que você já aceitou uma Missão.
+Eu deveria cancelar ela, então?
+[0006] Está feito. Um cancelamento de Missão
+entregue.
+[0007] Certo! Eu entendi! Tirei as mãos! Sim. 
+Você pode continuar com a mesma Missão.
+[0008] Aqui está o cardápio de missões.
+[0009] Uau! Uma Missão sem taxa. Eu adoro as
+gratuitas, e você?
+[0010] Isso custará
+[0011]  zenny.
+[0012] Boa Caçada! Volte com tudo no lugar, 
+por favor.
+[0013] Irei cuidar do cancelamento.
+É pra isso que Guildocentes servem!
+[0014] Hein? Está com medo?
+[0015] Ah! Oie, Projeto.
+Poderia dar uma passada na sua casa?
+Seu Amigato está esperando por você
+lá dentro.
+[0016] Vou dar uma ajeitada aqui e preparar
+o Balcão Missões pra ti.
+[0017] bobo
+[0018] Mistérios! Enigmas! Gore Magalas!
+Uma vida de Caçador cheia de emoção!
+... E cheia de apavoros.
+[0019] Boa jornada, Projeto.
+Estarei aqui torcendo por ti.
+[0020] Gravios... precisa ser espancado!
+[0021] Diga a ele que eu mandei um beijo!
+Não, espera, isso parece muito idiota...
+*resmungo* Eu odeio o amor.
+[0022] Já se passou meia caçada de tempo,
+melhor ir se ajeitar, Projeto.
+[0023] Dê tudo de si, Projeto!
+Pelas recompensas!
+[0024] Ah, eu queria poder ir junto...
+[0025] Fico imaginando que tipo de monstro seja.
+Faça várias anotações para mim!
+[0026] Estarei torcendo por você! Escute minha
+notável risada no vento!
+[0027] Mostre quem é que manda aqui!
+Eu o manterei sóbrio o suficiente para ver.
+[0028] Eu apenas SEI que hoje será um dia cheio
+de vitórias! Pelo menos eu acho que sei.
+[0029] Deixe sua vida no verde e seu vigor 
+sempre alta
+[0030] Que suas Recompensas seja prósperas
+e a sua carcaça nunca levada até o 
+acampamento!
+[0031] Me conte os detalhes minuciosos
+quando você voltar!
+[0032] Me traga um bom brinde!
+... Sério, é melhor trazer.
+[0033] Aproveite o dia! E mais importante,
+aproveite aquelas Recompensas raras!
+[0034] *Psiu* Posso ter uma parte da 
+Recompensa?
+[0035] Vai lá pegá-las Projeto!
+[0036] Me leve contigo! Me coloca no seu bolso.
+[0037] Me leve contigo! Me coloca no seu bolso!
+... Como assim "EU NÃO CAIBO"?!
+[0038] Ahh, quanta dedicação!
+[0039] Isso é tão legal!
+Se eu amasse caçadas de monstros ainda
+mais, eu iria explodir.
+[0040]	Que seus golpes críticos sejam ardentes.
+[0041] A vida é dura, dura, dura!
+[0042] Tudo pronto? Então faça como meu 
+lápis e descreva... ai, digo, desbrave!
+...Entendeu? ...Não?
+[0043] Você é quem vai conseguir
+[0044] Como o chefe provavelmente diria - -
+Você é quem vai conseguir
+[0045] Pegue está mecha do meu cabelo, vai te
+proteger -- Ei! Onde você ta indo?!
+[0046] Boa sorte! Estaremos torcendo para você
+voltar inteiro(a).
+[0047] Boa caçada! Estaremos discutando a 
+melhor forma de cozinha uma Carne crua.
+[0048] Tchau! Tente voltar antes do jantar.
+[0049] Certo. Tome cuidado lá fora.
+[0050] Tome cuidado. 
+É sério! Para de me olhar assim.
+[0051] Até depois, Projeto!
+[0052] Lembre-se, beba Bebidas Geladas 
+com moderação!
+[0053] Estarei esperando pelo retorno de nosso
+Herói
+[0054] Calma, não surta.
+... Ah! Desculpa, estava falando sozinha.
+[0055] Você é quem vai conseguir!
+[0056] Esteja de corpo afiado, Projeto!
+Você é nossa chama da esperança!
+[0057] Não se preocupe, o chefe me informou.
+Eu tenho a Missão perfeita se quiser 
+completar o Desafio Nº1.
+[0058] Admita, tenho algo no ponto pra ti.
+... Entendeu? É uma piada, porque vc vai
+cozinhar uma carne.
+[0059] Ei Projeto. Você tem que admitir, o
+Dah'ren Mohran foi uma visão magniífica.
+Meu coração ainda ta palpitando!
+[0060] Então, para onde? Cozinhar alguma carne?
+[0061] Ah! Não diga nada. Vai precisar de uma 
+boa Missão para o Desafio nº2 do Chefe,
+não é?
+[0062] Bom, trago boas notícias, já que eu 
+tenho a "combinação" perfeita.
+[0063] ... Isso foi uma singela referência ao
+que terá que fazer.
+[0064] Ei, Projeto. Você tem que admitir que o
+Dah'ren Mohran é bem persistente. Ele estava
+bem focado em te matar! Rawr!
+[0065] Então, para onde? Combinar alguma Mega
+Poção?
+[0066] Eu arrumo o Balcão de Missões.
+[0067] Meu trabalho é viajar o mundo, acompanhar
+pedidos de cada vila, e confiá-las para
+caçadores como você.
+[0068] Mas viajar o mundo é uma terefa perigosa
+-- portante, como pode ver, me enturmei
+com a Caravana.
+[0069] Ah, Olá, Projeto. Eu logo terei algumas
+ Missões de 2-Estrelas prontinhas para
+você. Aguento só mais um pouco, ok?
+[0070] Projeto, você percebeu as Missões de 
+"Treinamento" de 1-Estrela?
+... Não me diga.
+[0071] Bom, é uma ótima oportunidade para
+se familiarizar com alguma arma.
+[0072] Pelo que soube separaram algums caçadores
+Classe-A como professores, então pode 
+esperar instruções de ótima qualidade.
+[0073] Eu sei, eu sei. Não bem Missões incrivelmente
+legais, mas são as melhores que tenho por
+agora, Projeto.
+[0074] Infelizmente, não há muitos locais com boas
+instalações da Guilda.
+[0075] A Guilda contrata mulheres como eu para
+visitar vilas, anotar as necessidades locais
+como Missões, e então confiá-las à caçadores.
+[0076] Ei, Projeto. Chegou a falar com o Chefe?
+Eu acho que ele quer trocar uma ideia com
+você.
+[0077] Seja lá o que for, ele precisa da permissão
+da Guilda para por em prática. Misterioso!
+[0078] Ficou sabendo, Projeto? Você obteve lincença
+para Expedições.
+Não acha isso animador?
+[0079] Se quiser dar uma experimentada, abra o 
+Mapa do Mundo e clique no ícone de 
+Expedição.
+[0080] Projetil! ...Digo, Projeto! Ficou sabendo?
+Um monstro grande foi avistado em uma 
+Expedição!
+[0081] Se quiser dar uma experimentada, abra o 
+Mapa do Mundo e clique no ícone de 
+Expedição.
+[0082] Oi, Projeto! Pode me dar uma mão?
+Estou organizando uma festa para dar as 
+boas vindas ao Cozinheiro de rua à Caravana.
+[0083] ... Seria grosseria pedir a ele fazer a comida 
+da própria festa?
+[0084] Aah! Projeto! Você ouviu?
+O Atacadista acabou se juntando
+a Caravana.
+[0085] Soube que ele vende todo tipo de material,
+até de monstros que normalmente não
+se encontra por aqui. Uau!
+[0086] Bom, está na hora de navegarmos para 
+Harth. Está pronto para partir?
+Porque eu estou.
+[0087] Eu sou campeã em embalar. Veja eu 
+arrumar todo o Balcão de Missões em 
+dez segundinhos.
+[0088] Você achou o Chefe de Harth?
+Sério, Projeto, para onde será que ele foi?
+[0089] E mais importante, por todos os moradores
+estão abatidos no chão?
+[0090] Bem, eu também fico cansada as vezes, mas 
+não me veem dormindo durante o trabalho...
+*Uaaaah!*
+[0091] Oi, Projeto. Está planejando caçar o 
+Tetsucabr?... Não me diga.
+[0092] Pelo que parece a caçada será na Cavernas
+Subterrâneas, então lembre-se de levar
+uma picareta. Sinto que vai poder minerar!
+[0093] Acredito? Os moradores não estavam 
+dormindo no fim das contas!
+[0094] Eu estava prepara para jogar a culpa toda
+na Erva Sonífera.
+[0095] Bom trabalho cançando o Tetsucabra, 
+Projeto!
+[0096] Agora os moradores voltaram a suas versões
+normais. Final feliz!
+[0097] Agora vamos conversar com o Chefe de 
+Harth sobre nosso navio.
+[0098] Ah! Ai está você, Projeto.
+O Cara queria falar com você. Já foi lá
+checar? ...Não me diga.
+[0099] De qualquer forma, creio que seja sobre
+materiais para o navio.
+[0100] Ah! Ai está você, Projeto. O Cozinheiro de 
+Rua queria falar com você. Já foi lá checar?
+...Não me diga.
+[0101] Oi, Projeto. Vai partir capturar um 
+Gendrome?
+[0102] Para capturar um monstro, vai querer ter 
+certeza de levar
+[0103] Bombas Tranquilizantes
+[0104] ...
+E, o que mais...
+[0105]  Armadilhas de Choque
+[0106]  ou
+[0107]  Armadilha de Poço
+[0108]  são
+essênciais também.
+[0109] Projeto, já ouviu falar do campo de caça
+chamado Floresta Primordial?
+... Não me diga.
+[0110] Eu preparei uma Missão lá caso queria 
+dar uma olhada.
+[0111] Oh, olá Projeto! Por algum acaso chegou 
+a conversar com os Caçadores de Elite?
+... Não me diga.
+[0112] Os Caçadores de Elite são a Elite dos caçadores
+que cuidam das missões mais perigosas
+da Guilda.
+[0113] Advinha só, Projeto! Parece que o Chefe de 
+Harth chegou ao fundo do mistério da lava
+do vulcão.
+[0114] Nosso chefe está indo lá para saber da fofoca
+quentinha,
+[0115] A Caravana está ficando maior emaior.
+Devo dizer, Projeto, minha animação como
+Guildocente está altíssima!
+[0116] Já que nunca tivemos um grupo com tanta
+energia. É contagioso!
+[0117] Projeto, posso pedir sua opinião sobre
+uma coisa?
+[0118] É estranho eu ter ajudado a construir
+uma barco desse tamanho e meus braços
+não doerem? Tem algo de errado comigo?
+[0119] Está ainda para chegar uma onda de dor
+horrível nos braços?
+[0120] Está tudo bem, Projeto? Como está
+seu baço? O meu está bom, obrigada.
+[0121] O que diabos era aquele monstro?
+Digo, eu anotei sobre todo tipo de monstro,
+de Akanto até Zinogre, mas o que era aquilo?!
+[0122] Eu não acho que vou conseguir dormir
+de noite...
+[0123] Ei, Projeto. Aproveitou a natação?
+Ha Ha! Era uma piada, porque você caiu
+no mar.
+[0124] Ah! Eu queria te contar: Há uma dama na
+Vila Poka Poka da Vila Poka Poka com algo
+incomodando ela.
+[0125] Ela está segunrando uma vassou para
+tentar varreus seus problemas...
+[0126] Ok, Projeto, hora de salvar o Amigato
+Selvagem!
+[0127]	O nome da Missão é... rufem os tambores...
+"Pânico dos Amigatos Selvagens"!
+Você precisará caçar um Congalala.
+[0128] Meu coração saltou quando você pulou 
+para nos proteger daquele monstro!
+Somos tão sortudos por ter você, Projeto.
+[0129] Sabe, eu nunca fico com medo com você
+por perto.
+[0130] Projeto, a Chefe Bigodinhos quer falar com
+você lá na Vila Poka Poka.
+[0131] Baseado em como ela está balançando a 
+vassoura e miando agradecimentos,
+eu diria que ela está grata de você ter salvo
+os Amigatos Selvagens.
+[0132] Projeto, eu soube que os Miaucenários 
+chegaram à Vila Poka Poka.
+[0133] Mas que grupo destemido, ir a lugares que
+nenhum Felyno jamais foi! Bom, alguns 
+foram... mas você me entendeu.
+[0134] Ficou sabendo que a Chefe da Vila Poka Poka
+está te procurando? Chegou a falar com ele?
+... Não me diga.
+[0135] *Suspiro* Me pergunto que cor uma Najarala
+é... Que gritos estranhos saem de uma boca
+monstruosa?
+[0136] Ah! Projeto, você falou com o Chefe?
+[0137] Eles está agora dizendo que quer construir
+um
+[0138]  dirigível
+[0139]  para voar até Cathar.
+[0140] Consegue acreditar? A Caravana indo aos
+céus. Seremos como pde Elitesaros -- ou como
+um VÍRUS!
+[0141] Espere, é, pde Elitesaros estava melhor.
+[0142] Projeto, um pequeno Jaggi me contou que
+você consegue se segurar nas brinículas
+no Mar Congelado. É verdade?
+[0143] Também ouvi que você pode pular dessas
+brinículas nos monstros que escalaram o teto.
+[0144] *Suspiro* Queria *eu* conseguir grudar em 
+monstros que escalam o teto. Não que eu seja
+grudenta nem nada.
+[0145] Bom trabalho caçando aquela Najarala, 
+Projeto.
+[0146] Você viu a nova cozinha espaçosa?
+[0147] Deveríamos todos ir lá agradecer o 
+Cozinheiro assim que tivermos chance.
+[0148] O pde Elitesaro do Chefe retornou com uma carta
+que o assustou.
+[0149] Será que nós também deveriamos nos 
+preocupar? Porque eu sinto que 
+deveríamos.
+[0150] Ai meu doce!
+.... Digo, seu doce!
+........ Digo, AÍ MEU DEUS!!
+[0151] Dois Caçadores de Elite estão desaparecidos
+juntos do Amigato de Elite?
+[0152] Nós precisamos organizar uma
+[0153]  Expedição
+[0154]  para
+ajudar eles imediatamente! Ok, respire
+fundo.... *suspiro*
+[0155] Você acha que os Caçadores de Elite e seus 
+Amigatos estão bem? É uma tristeza
+desaparecer durante missões.
+[0156] Mas ao menos você está dentro!
+... Você ESTÁ dentro, não é?
+[0157] Ai, caramba! Eu ao menos lembrei de
+te PASSAR a missão? Desculpa, estou surtando!
+AQUI ESTÁ A MISSÃO!
+[0158] Projeto, só quero que saiba que irei junto
+de ti! Estarei lá, anotando tudo no caderno!
+[0159] ... Bom, não literalmente, mas é claro,
+estarei em espírito ajudando vocês.
+[0160] Acredite, Projeto, não é apenas você que 
+tem contas a pagar com aquele Gore Magala.
+Não mesmo!
+[0161] A Arluq deve estar bem chateada.
+Consegue escutar?
+[0162] "Como ouse tentar me derrubar!
+Eu vou te descer o cascudo!"
+[0163] ...Desculpa, foi mais forte do que eu.
+[0164] Você se lembra da vez que te disse que
+um dia a Guilda te respeitaria? Que eu te ajudaria
+a este dia chegar?
+[0165] Bom, eu estava sendo educada, mas você
+REALMENTE CONSEGUIU. Eles nos confiaram 
+Missões de gente grande! *suspiro*
+[0166]	Bem, pode me pintar de rosa, Projeto!
+Graças a você, meu caderno está
+recheado de informações monstruosas.
+[0274]	Ouvi dizer que o Visco Nebuloso
+do Monte Celestial é um remédio
+consagrado para dores nas costas.
+[0167] Uuuhuul! Eu sinto como se eu estivesse
+à quilometros do chão, e nem construimos o 
+dirigível ainda!
+[0168] Projeto, como está indo a conversa sobre
+o dirigível com o Chefe de Harth?
+[0169] Eu nunca imaginei que eu iria voar. 
+Não consigo parar de pensar nisso!
+Dirigível, dirigível, dirigível!
+[0170] Veja como chegamos longe, Projeto. Voaremos
+para Cathar num dirigível; Estaremos subindo.
+Assim como sua reputação.
+[0171] Estou tão animada que estou até 
+esquecendo de respirar. Mal consigo me aguentar
+ACREDITA NISSO?! Ahh!
+[0172] O Chefe está empolgado, os outros
+estão empolgados, e EU? *puff* Tem uma
+bebida gelada pra me resfriar?
+[0173] Na verdade, melhor você ficar com ela
+porque -- repita comigo -- Gravios...
+precisa ser erradicado!
+[0174] Está pronto! O dirigível FINALMENTE
+está pronto! Hora de zarpar para Cathar!
+[0175] Aposto que a vista lá de cima é de
+outro mundo. Rathian, melhor se cuidar,
+você nem chega nem em nosso casco!
+[0176] Projeto, eu acabei de ajudar a
+construir um DIRIGÍVEL inteiro e meus
+braços ainda não doem... Será que sou
+anormal?
+[0177] E se meus braços morrerem? Se 
+cairem fora? Nunca mais poderei rabiscar!
+[0178] Trabalho, trabalho, tra-trabalho!
+Ah! Projeto! Estou tão elétrica hoje.
+[0179] Eu acho que a vista do dirigível
+recarregou um pouco meus fracos, sacou?
+[0180] Uhul! Mas posso esperar para ver quais
+tipos de monstros estão se escondendo nesta
+imensa montanha! Logo terei missões para ti.
+[0181] Projeto! Voltou com vida! Que surpresa --
+uma boa surpresa!
+[0182] O que deram para aquele Congalala, hein?
+[0183] Nós precisamos de mais informações...
+Talvez o Ancião de Cathar saiba nos responder?
+[0184] Olá, Projeto! Imagino que tenha reparado
+que o Chefe decolou no dirigível da Guilda.
+[0185] Ele estava com uma cara franzida e disse,
+"Logo voltarei!".
+[0186] Espero que ele traga-me uma lembrancinha.
+Seria pedir muito?
+[0187] Não se preocupe com o Chefe. Ele estará
+de volta antes que consiga dizer "investigando."
+Já que provavelmente é o que ele está fazendo.
+[0188] Ele tende a sumir e reaparecer desse
+jeito. Não se encuque muito com isso.
+[0189] Enquanto o Chefe está fora, continuarei
+pendurando suas Missões e te mandando para o
+Monte Celestial.
+[0190] Então, como estaá o Monte Celestia, Projeto?
+[0191] ...Não me diga. Pel visto os monstros
+estavam agindo normalmente.
+[0192] Talvez seja bom você reportar ao Ancião
+de Cathar para relaxar a mente dele.
+[0193] Boa notícias, Projeto! O Fan Club do
+Projeot nunca teve tantos membros!
+[0194] Cada um de nós está torcendo por ti
+enquant você caça aquele Tigrex travesso.
+[0195] E quando digo "cada um de nós", me 
+refiro a mim mesma, já que sou a única membra
+do Fan Club do Projeto.
+[0196] Eu me lembro quando você era só um rascunho
+e ninguem confiaria em ti para caçar um Tigrex.
+[0197] Mas olha só como você cresceu! *choro*
+Me sinto como uma mãe Qurupeco que parou de dar
+comida na boca de seu filhote.
+[0198] Truqes baratos não serão o bastante
+contra o Tigrex, Projeto.
+[0199] Você precisará pensar em tudo que já
+caçou e planejar uma estratégia exemplar.
+[0200] Projeto! É horrível!
+[0201] O Chefe voltou e Monstros Frenéticos
+apareceram no Monte Celestial e o mensageiro
+da Guilda está em Cathar e AAAAAHHH!
+[0202] Isso é tão estressante!
+[0203] Projeto, o Grande Guru está te esperando
+no Santuário de Cathar.
+[0204] Vamos cruzar os dedos para ele não ser
+algum velho caprichoso que ama falar em 
+provérbios. Eu odeio clichês!
+[0205] Hoje está um dia bem corriqueiro, huh,
+Projeto?
+[0206] Eu esperarei aqui, Projeto. Nós estaremos
+torcendo por você, como sempre.
+[0207] E eu sei que você irá superar isso,
+como sempre conseguiu!
+[0208] Tome cuidado, Projeto. Retorne se você se
+ferir. Não é vergonha ser alguém cauteloso...
+[0209] Aproveitou o tempo de descanço, Projeto?
+... não me diga.
+[0210] Eu passei minhas férias alfabetizando
+meus livros. E penso agora que talvez não
+tenha sido uma boa ideia...
+[0211] Mas que Dragão Ancião estranho é
+aquele Shagaru Magala. E que marca indelével
+ele deixou em meu coração!
+[0212] O resto do mundo talvez esqueça de 
+você, Shagaru Magala, mas meu fogo continuará
+a queimar em meu coração.
+[0213] Projeto, você NÃO vai acreditar.
+[0214] Eu dei uma longa visita na Guilda e 
+ao Mestre da Guilda meu caderno, e ele disse...
+[0215] "Você realmente rascunha muito aqui."
+ELE ME ELOGIOU. Hi hii!
+[0216] Então projeto, hoje será um passei com
+cogumelos e Kelbi, ou teremos uma caçada
+de verdade?
+[0217] As Anotações de Caçador estão sendo úteis?
+... Não me diga.
+[0218] Bem, sabe, tem muita informação útil
+nelas, então se sentir travado(a), só dar uma 
+lida nas Anotações de Caçador!
+[0219] Quando você começar a caçada, Projeto,
+não se esqueça de encher sua Bolsa de Itens
+a cada viagem.
+[0220] Os materias quase sempre vão servir
+durante a estrada. Ao menos é isso que o 
+Chefe sempre diz.
+[0221] Projeto, já ouviu sobre o Great Jaggi,
+já sim, né? É o cabeça do bando de Jaggis.
+[0222] Dizem que você se torna um(a) 
+Caçador(a) de verdade ao caçar um desses
+com suas mãos, o que acha? ...Não me diga.
+[0223] Ah, projeto! Que bom que está aqui,
+O Cara deixou uma mensagem para ti.
+[0224] "Se seus golpes estão rebatendo, ou 
+suas caçadas levando muito tempo, é hora 
+de melhorar suas armas."
+[0225] ...Bem, ele tem razão. Se você quiser
+continuar avançando, precisará melhorar suas 
+peças.
+[0226] Ah, projeto! Que bom que está aqui,
+O Cara deixou uma mensagem para ti.
+[0227] "Se você sentir que está recebendo muito
+dano, é hora de melhorar sua armadura."
+[0228] ...É uma bela dica, na minha opinião.
+Melhore suas peças, e não corras às pressas!
+[0229] Eu queria dizer que o Chefe estava 
+ajudando enquanto você caçava, mas nove em
+cada dez vezes ele está lá bebendo...
+[0230] Creio que isso melhore a resistência também.
+... Algo assim?
+[0231] Sinceramente, não há muitos locais com
+estabelecimentos da Guilda por aí.
+[0232] A Guilda contrata mulheres como eu
+para visitar cada vila, anotar as necessidades
+do local como Missões, e confiá-las a caçadores.
+[0233] Olá, hábil caçador(a). Parece que não
+precisa de mais preparos para soltar armadilhas de 
+choque aqui e ali. Mas tenha cuidado!
+[0234] Usar armadilhas de choque no mesmo monstro
+mais de uma vez diminui o efeito delas.
+Caçadores não são so únicos que se adaptam.
+[0235] Já viu aquele ícone com um ponto de
+interrogação e "PERIGO" no formulário
+das Missões? ... Não me diga.
+[0236] Bom, monstros inexperados pode surgir
+nessas Missões. Mas agora você sabe se preparar,
+certo?
+[0237] O pde Elitesaro com o Chefe é um pde Elitesaro carteiro.
+Já viu o Chefe amarrando uma carta nele?
+[0238] É um pde Elitesaro inteligente! Até ajuda
+na busca de achar os próximos destinos e também
+reconhecer monstros à frente.
+[0239]  Eu queria dizer que o Chefe estava 
+ajudando enquanto você caçava, mas nove em
+cada dez vezes ele está lá bebendo...
+[0240] Ele provalmente precisa disso, 
+considerando que o Chefe de Harth está 
+toda hora se gabando de sua filha para ele...
+[0241] Seja lá o que o Chefe guarde naquele 
+chapéu deve ser bem importante para ele.
+[0242] Dá para ver uma brilho no olhar dele,
+que nem de Nargacuga, toda vez ele retira
+para olhar.
+[0243] Projeto, você não estaria indo para o 
+Mar Congelado, está? Se lembrou de estocar
+Bebidas Quente?
+[0244] Assim que o frio bater e você começar 
+a tremer, seu Vigor decairá. Não se esqueça
+de parar e tomar um gole. 
+[0245] Já esteve andando pela Floresta Primordial,
+cuidando das suas coisas, e se Envenenou? Eu já.
+[0246] As toxinas de algumas partes da Floresta
+Primordial atravessam a pele. É bom cuidar
+por onde pisa.
+[0247] Só tome cuidado para não pisar 
+na pata do seu Amigato sem querer. O
+Amigo de Elite nunca me deixou esquecer aquela vez...
+[0248] Eu queria dizer que o Chefe estava 
+ajudando enquanto você caçava, mas nove em
+cada dez vezes ele está lá bebendo...
+[0249] Última vez, ele e os moradores da
+Vila Poka Poka se reuniram e montaram uma
+fogueira para beberem juntos!
+[0250] Projeto, você notou a espada incrustada
+na pedra na Vila Poka Poka?
+[0251] Há muito tempo, me contaram, que ela 
+pertencia ao marido da Chefe da Vila Poka Poka.
+[0252] Projeto, você já foi caçar na Montanha
+Celestial?
+[0253] É como se você estivesse pisando em 
+cascas de ovos divinos por lá, não é? Como
+se alguma divindidade antiga quisesse deste
+jeito.
+[0254] Indo até o Vulcão Subterrâneo, Projeto?
+Não se esqueça de levar Bebidas Geladas.
+[0255] A lava quente vai derreter sua saúde
+em minutos. Não se esqueça de parar para 
+tomar um gole!
+[0256] Aposto que você e seus companheiros de 
+caça estão arrasando por ai, né?
+...Não me diga.
+[0257] Bom, alguns monstros também são ótimos
+em formar times, como um certo inseto que tem
+seu marido na palma de suas garras...
+[0258] Alguns pedidos estranhos estão rodando
+pela Guilda recentemente.
+[0259] E sem surpresa! Os Monstros Frenéticos
+estão atacando tudo que se mexe por ai, e algumas
+coisas que não se mexem...
+[0260] Oi, Projeto. Quer um doce?
+[0261] A Mocinha da Forja e eu enchemos os bolsos 
+quando fomos ao mercado de Cathar.
+[0262] O que achou do Estepe Ancestral?
+Um lugar mavarilhoso, não é? Eu amo.
+[0263] Eu fico apreciando as ruinas em pedaços
+e imagino como era antes dos ventos varrerem
+junto ao tempo.
+[0264] Toda vez que vejo a revoada de pde Elitesaros 
+na Floresta Primordial eu começo a chorar.
+*sniff*
+[0265] ... Sim, eu sei que provavelmente é o 
+gde Elite dos Conga. Aquela coisa gruda nos olhos,
+não é?
+[0266] Você já esteve no Mar Congelado,
+Projeto? É uma linda terra de gelo, mas 
+aterrorizante.
+[0267] Os relatos dos Acadêmicos diz que 
+lá costumava ser um oceano, mas que congelou
+de uma hora para outra por conta de alguma
+bizarrice climática. 
+[0268] O Mar Congelado é tão frio que congela
+a sua vontade de viver. Você pode contrair
+Flagelo de Gelo só de caminhar por alguns 
+locais.
+[0269] Mas que eu lembre, o Cozinheiro de Rua
+tem uma receita que vai manter seus pés 
+um pouco mais aquecidos.
+[0270] Você já foi até a Montanha Celestial, 
+Proejeto?
+[0271] É realmente de tirar o fôlego --
+Como se o tempo parasse, e você fica com medo
+de respirar e bagunçar alguma coisa.
+[0272] Indo até o Vulcão Subterrâneo, Projeto?
+Não se esqueça de levar Bebidas Geladas.
+[0273] A lava quente vai derreter sua saúde
+em minutos. Não se esqueça de parar para 
+tomar um gole!
+[0274]	Ouvi dizer que as Brumiáceas
+do Monte Celestial é um remédio
+consagrado para dores nas costas.
+[0275] Obviamente eu não sei disso porque
+fico sentada com a bunda na cedeira o dia
+todo e tive que testar por conta pópria.
+... Não me olhe deste jeito, Projeto.
+[0276] Bom te ver, Projeto.
+... O que foi? Continua derrubando os 
+ovos que tenta carregar? Hm...
+[0277] Fale com o cozinheiro. Creio que ele
+saiba de algo que te ajude a não quebrar
+seus ovos.
+[0278] Já se perguntou para vão suas 
+taxas de Missões?
+[0279] Uma dica: O que tem rodas e te
+leva para o acampamento? As vezes só
+nos resta aceitar a verdade!
+[0280] Projeto, algumas vez um Zamite
+já te dei a famosa mordidinha?
+... Não me diga.
+[0281] Apenas pergunto porque gostaria de 
+desenhar as marcas da mordida. Pela ciência,
+é claro.
+[0282] Já viu aquele ícone com um ponto de
+interrogação e "PERIGO" no formulário
+das Missões? ... Não me diga.
+[0283] Bom, monstros inexperados pode surgir
+nessas Missões. Mas agora você sabe se 
+preparar, certo?
+[0284] Já viu aquele ponto de interrogação
+com uma icone na cabeça? 
+... Espera, desculpa.
+[0285] Eu quis dizer, "Já viu aquele ícone
+com um ponto de interrogação no formulário
+das Missões?"
+[0286] E eu já esqueci o que eu iria dizer,
+então, pode só caminhar lentamente para longe
+fingindo que nada aconteceu.
+[0287] Quando você aceita uma missão, já 
+imaginou um ticket colorido voando acima
+de ti? Eu já.
+[0288] Eu finjo que cada cor significa um
+tipo de missão: Vermelho é caça, verde é 
+coleta, e assim vai.
+[0289] Iscas tornam a pesca mais fácil.
+Com isca, é muito maior a chance de pescar 
+o peixe que você deseja. Queria pode usar
+iscas na minha vida amorosa
+[0290] Enfim, amo pescar. Eu poderia ficar
+o dia todo assistindo O Cara lançando
+a linha.
+[0291] ... Como assim nunca pegarei nada
+deste jeito? Oh meu deus, e se você tiver
+razão?!
+[0292] Ei, Projeto! Eu estava conversando com 
+o de Elite Amigato.
+[0293] Ele disse que, cá entre nós, VOCÊ é
+o verdadeiro Mestre dele. Um doce, não é?
+[0294] O Cara é muito mais forte do que parece.
+Sabia disso? ... Não me diga.
+[0295] Ele sempre me ajuda a carregar meus
+livros, e mesa, e cadeira, e guarda-sol
+quando viajamos. Até recolhe meu Balcão 
+de Missões.
+[0296] As vezes ele até me carrega, enquanto
+eu bebo chá e levo um chicote. ... Brincadeira!
+... Sério, eu to brincando.
+[0297] Projeto, eu queria pode desver
+o que acabei de presenciar.
+[0298]	Aquele olhar malicioso que o Atacadista
+faz quando você pede para ele
+multiplicar itens... É indecente!
+[0300]	Ontem, o Atacadista bateu dois ovos
+um contra o outro e disse: "Olha!
+Descobri a Fusão!" Que figura.
+[0301]	Depois o Chefe mandou o Cozinheiro
+abrir a bebida para comemorar,
+e daí foi tudo ladeira abaixo...
+[0302]	O Atacadista e o Maximeld XIV
+de Cathar são farinha
+do mesmo saco.
+[0303]	Quando não estão falando de Fusão,
+estão falando de negócios.
+Ouvi "explorar preços" e "dominar o mercado"...
+[0304]	Projeto, queria poder desver
+o que acabei de ver.
+[0305]	Pde Elitesaros de todas as cores acabaram
+de entregar um pacote ao Atacadista,
+e ACHO que começaram um musical.
+[0306]	Projeto, tem algo me incomodando.
+[0307]	Aquele garotinho de Cathar fica
+SEMPRE me encarando enquanto rabisco.
+Não consigo me concentrar.
+[0308]	E se ele for algum espião tentando
+roubar minhas descobertas importantes?
+Preciso ficar alerta.
+[0309]	O Chefe ainda serve uma bebida
+toda vez que você sai para caçar.
+[0310]	Da última vez, ele e O Cara
+cochichavam sobre alguma coisa.
+Não sei o quê, mas riam sem parar.
+[0311]	Eu queria dizer que o Chefe ajuda
+enquanto você caça, mas nove em dez vezes
+ele está lá cuidando de uma bebida...
+[0312]	Da última vez, reuniu a vila inteira
+para falar de como você é incrível
+e da sorte que teve ao conhecer você...
+[0313]	Sim, ele realmente usou as palavras
+"incrível" e "sorte".
+...Já falei que ele estava bebendo?
+[0314]	Projeto, queria poder desver
+o que acabei de ver!
+[0315]	O Cozinheiro Itinerante derrubou
+uma Cebola Cassetete, limpou no pelo
+e COZINHOU COM ELA MESMO ASSIM.
+[0316]	Ah, sim. Claro. Asas negras misteriosas.
+Mal que devora tudo. Omiwrog,
+é maravilhoso. ...Hã?
+[0319]	Ah! Desculpa, Projeto. Achei que fosse
+o Cadete de Elite. Meio que preciso entrar
+no modo de resposta automática perto dele...
+[0320]	Ah, sim. Claro. Monstros são demais.
+Eu amo monstros. Só de imaginar uma vida
+sem eles já me dá giggi-nojo. ...Hã?
+[0321]	Ah! Desculpa, Projeto. Achei que fosse
+o Cadete de Elite. Meio que preciso entrar
+no modo de resposta automática perto dele...
+[0322]	Oi, Projeto! Tchau, Projeto!
+Isso mesmo. O Balcão de Missões
+vai ficar fechado por enquanto.
+[0323]	Eu abro de novo quando você terminar
+de caçar com seus amigos. ...Ei, também
+preciso de um tempinho só para mim!
+[0324] Olá! Como posso ajudar?
+...Como é? Você se juntar à Caravana
+como um(a) Caçador(a)?
+[0325] Espera um pouco... O chefe mencionou
+de algum(a) caçador(a) nova? Eu poderia
+confirmar com ele, mas seria estranho...
+[0326] *aham* Sim. Eu estava te esperando.
+Bem vindo(a) ao
+[0327]  Balcão de Missões
+[0328] !
+[0329] Tenho certeza que iremos nos daremos
+bem. Então de volta ao trabalho, Projeto.
+... Posso te chamar de "Projeto"?
+[0330] No momento receio que posso apenas
+te oferecer os
+[0331]  Desafios das Caravana
+[0332] .
+[0333] Se conseguir passar por elas, poderei 
+então te passar Missões de verdade.
+Que é onde a graça começa!
+[0334] Vamos logo para seus Desafios. Dê
+uma olhada nas Missões de 1-estrela.
+[0335] Você deve achar uma chamada "
+[0336] Cozinhe
+seu Caminho
+[0337] ."
+[0338] Nesta Missão, você poderá conseguir o
+[0339] 
+Bife Bem-Passado
+[0340]  ou
+[0341]  Bife Mal-Passado
+[0342]  necessário para o Desafio do
+Chefe
+[0343] Assim que você aceitar a Missão, saia
+por aquele
+[0344]  Potão de Missões
+[0345]  ali.
+[0346] Bom Churrasco! Nhac nhac nhac.
+[0347] Posso te ajudar? Ah, olá de novo, Projeto.
+Pronto(a) para seu 2º Desafio?
+[0348] Mais uma vez, olhe as Missões de 1-estrela.
+[0349] Deve ter uma chamada "
+[0350] Uma Combinação
+de Sucesso
+[0351] ."
+[0352] Nesta Missão, você conseguirá os três
+ingredientes necessário para fazer uma
+Mega Poção: uma
+[0353]  Erva
+[0354] , um
+[0355]  Cogumelo Azul
+[0356] , e
+[0357]  Mel
+[0358] .
+[0359] Prepare sua arma. A previsão do tempo
+diz ser muito sol e possibilidade de 
+carnivoros.
+[0360] Se você se machucar, não espere. Use
+uma Erva para se recuperar antes que 
+as coisas piorem.
+[0361] Não que você vá se machucar...
+Não vai, né, Projeto?
+[0362] Bem Vindo(a) à Caravana, Projeto!
+Você passou! Pa-para-pa-pá!
+[0363] Então, os Desafios eram desafiantes?
+...Não me diga.
+[0364] Bom, pelo visto iremos trabalhar lado
+a lado. Já me adiantei e abri oficialmente
+o Balcão de Missões.
+[0365] Agora você pode tentar
+[0366] Missões de 2-estrelas
+[0367] --
+A verdadeira aventura! Eu consigo ver
+a emoção na sua cara suada.
+[0368] Muito bem, Projeto. Eu sei que é muita
+coisa, mas dê uma olhada na lista.
+[0369]	É claro que precisamos de pelo menos
+uma Missão de "buscar Cogumelos Únicos".
+Não abandonamos tradições na Guilda.
+[0370] Temos também uma Missão de Jaggia, que são
+Jaggis, só que maiores.
+[0371] E por fim, uma de entrega de Chifres de Kelbi.
+Você terá que apagá-los para pegar o chifre.
+[0372] Então, é, sim... Essas Missões parecem bem desafiantes,
+Projeto. Tome cuidado pra não tropeçar lá fora.
+[0373] Ei, Projeto. Dá uma olhada nisso:
+Aquele Cozinheiro de Rua -- O que usa uma panela
+como chapéu -- Preencheu uma Missão comigo.
+[0374] Ele pediu especificamente para "Caçador(a) com
+os cílios" fazer. Eu chuto que seja você.
+[0375] De Quaaaalquer forma, a Missão se chama
+[0376] 
+"
+[0377] Se Livrando do Velho Bloqueio
+[0378] ", caso queria dar
+uma olhada.
+[0379] Então, Projeto, já que está aqui, posso te dar
+uma dica adorável? ...Não, Adorável, não "adulável"!
+Enfim...
+[0380] Se você não tomar a iniciativas, vai ficar
+caçando cogumelos e Kelvis pro resto da 
+vida.
+[0381] Que tal, fazer alguns pedidos e aumentar 
+sua
+[0382]  Classificação de Guilda
+[0383] ?
+[0384] Uma Classificação de Guilda Melhor aumenta suas
+chances de receber Missões importantes.
+[0385] Froça bruta, equipamentos majestosos, e um
+pilha de monstros mortos não bastam pra te 
+tornar Mestre em Caçadas.
+[0386] Apenas quando você tiver aprendido a ler a 
+natureza, se tornar um com ela, e enfim controlá-la,
+que vai ter a fama entre os melhores.
+[0387] Eu adoraria poder te ajudar a alcançar tal fama, 
+Projeto. O que acha da ideia?
+[0388] ... Aha! Eu sabia. Você não consegue 
+me enganar com esses seus olhos. Maravilha!
+[0389] Agora, vá lá fora e pegue aqueles
+[0390] Konchu
+[0391] ! Mostre a eles
+do que você é capaz!
+[0392] Projeto, a hora chegou!
+Temos nossa primeira
+[0393]  Missão Urgente
+[0394] !
+Sua tarefa: Caçar um 
+[0395] Kecha Wacha
+[0396] .
+[0397] Parabéns!! De fato o evangelismo diligente
+do Fan Club do Projeto rendeu frutos.
+[0398] Então... Estávamos falando do que 
+mesmo? Ah, sim, da Missão Urgente.
+[0399] Creio que preciso ainda te explicar
+como que funcionam.
+[0400] Depois de trabalhar duro em caçadas
+e atender várias Missões...
+[0401] A Guilda irá reconhecer seus esforços
+e te dar uma oportunidade especial
+de atender a uma Missão Urgente.
+[0402] Caso consiga superar a Missão Urgente,
+você ganhará acesso ao
+[0403]  próximo
+Nível de Missões
+[0404] .
+[0405] Quando quiser fazer uma Missão Urgente,
+terá que escolher o
+[0406]  Caderno Vermelho
+[0407] 
+no Balcão de Missões.
+[0408] E isso é tudo!
+[0409] Ah, mais uma coisa. Tenha mais algumas
+Missões para você se aventurar em
+novas terras.
+[0410] Então agrupadas como Missões de 
+2-estrelas se quiser olhar.
+[0411] Ok! Cara, eu to feliz que acabou a explicação.
+Então o que acha da Missão Urgente?
+Parece divertida?
+[0412] Se alguem consegue impressionar a 
+Guilda. Esse alguém é você. Hi hi hi!
+[0413] Eu estava te procurando, Projeto.
+Eu tenho uma Missão que deve 
+agitar os moradores de Harth.
+[0414] Você terá que caçar um
+[0415] Tetsucabra
+[0416] , 
+mas é claro. É um tipo de sapo venenoso,
+que poucos caçaram com sucesso.
+[0417] Tão longe quanto o povo vai...
+Ah, você irá para o Vulcão Subterrâneo,
+uma terra vulcânica natural.
+[0418] O Tetsucabra se desenvolve ao fundo
+de vastas cavernas, com apenas algumas
+frestas para a superfície.
+[0419] É uma aventura arriscada, mas as pessoas
+de Harth estão contando com você
+para suas vidas voltarem ao normal.
+[0420] You'll save the village, but you'll also
+gain clout in the eyes of the Guild --
+two Gargwa with one stone for you.
+[0421] Oh, and if you're looking for Harth's
+Quest Gate, it's next to the
+Open-air Kitchen. Don't get lost!
+[0422] The folks of Harth are back to
+normal. It feels good to do a good deed!
+Vicariously, I mean.
+[0423] Now we just need the villagers to figure
+out why the lava stopped in the first
+place.
+[0424] By the way, The Man filed a Quest, if
+you're interested in helping him out.
+He needs materials to build our ship.
+[0425] Here's the one. It's called:
+
+[0426] "
+[0427] Shipshape Skin
+[0428] ."
+[0429] The rubbery hides are handy
+for waterproofing. How clever!
+Good luck hunting that Gypceros, Doodle!
+[0430] Hi, Doodle. I heard the story.
+The Street Cook needs your help.
+[0431] The relevant Quest is called
+"
+[0432] Road Work
+[0433] ."
+So you need to capture a monster this time.
+[0434] To do it, Doodle, you'll need to have 
+
+[0435] Tranq Bombs
+[0436] , and a 
+[0437] Shock Trap
+[0438]  or 
+[0439] Pitfall
+Trap
+[0440]  as well.
+[0441] The Supply Items will cover you to some
+extent, but you can always bring your
+own just to be extra safe.
+[0442] You can also buy materials at the Market to
+build your own traps, if you want to have
+a look.
+[0443] Any questions? Of course you have
+questions...
+[0444] Oh, you want to know about that hunter with
+the lance the boss was talking to.
+[0445] That's right, you don't know the story...
+[0446] Those four hunters are known as the
+
+[0447] Ace Hunters
+[0448] .
+[0449] The Guild sends them out with important,
+sometimes top secret missions.
+[0450] The one with the lance was a member of our
+caravan until recently.
+[0451] When the mission from the Guild came in,
+however, he left.
+[0452] Not that there are any hard feelings.
+I, for one, am happy to see him in such
+good health.
+[0453] I know all about it, Doodle. The culprit
+behind the lava stoppage is none other
+than a monster...
+[0454] The grim, and yet strangely groovy,
+
+[0455] Nerscylla
+[0456] !
+[0457] It uses status afflictions of all kinds to
+corner its prey.
+[0458] Take it down and Harth will get its
+lava flow back. Which means
+WE can get our ship!
+[0459] While you're at it, Doodle, I'd also like
+to ask a tiny favor. Very tiny.
+Microscopic, really.
+[0460] It can wait until you get back, but could
+you reenact how the Nerscylla uses
+its pincers? Science wants to know.
+[0461] You know, just flail your arms around so
+I get the picture. *huff, huff* Like this!
+I'll have my notebook ready to sketch it.
+[0462] ...Are those daggers I see in your eyes?
+What's the matter?
+[0463] Oh, I know! You want credit. Don't worry,
+I'll put your name below the sketch.
+[0464] Happy Urgent Questing, Doodle!
+[0465] Whew! That was an ordeal and a half.
+[0466] I'm glad no one was hurt. The Arluq made
+it through unscathed, too.
+[0467] Doodle, I've never seen a monster like
+that in ANY of my books. Seriously.
+It looked downright ominous, huh?
+[0468] Its wings spread in front of us like a
+tumultuous storm cloud trying to swallow
+the very sun.
+[0469] ...Too dramatic? Anyway, you saved our
+hides, and for that I say THANK YOU.
+[0470] Plus, we accidentally washed up in the
+secret location of Cheeko Sands.
+What are the odds?!
+[0471] Cheeko Sands isn't your everyday
+village. It's entirely Felynes plus one
+Wyverian chief. Ooh, high fantasy!
+[0472] Let's break out our D20s... I mean, let's
+decide what we want to do here.
+[0473] ...What's that? A Wild Palico wants
+you to deal with a 
+[0474] Congalala
+[0475] ?
+Fair enough. I'm sold!
+[0476] Let's call the Quest "
+[0477] Wild
+Palico Panic
+[0478] ." To hunt the Congalala,
+you'll need to go to the Primal Forest.
+[0479] Some call it the Cradle of Life, which
+explains the abundant flora and fauna.
+[0480] And it also explains why a giant monster
+like your mark would want to move in.
+[0481] I kind of wish I could see the ecosystem
+first hand... Gah! I digress.
+[0482] Let's get you on your way, Doodle.
+The Congalala awaits!
+[0483] Oh, and if you're wondering, Cheeko Sands's
+Quest Gate is right next to me.
+[0484] Don't get lost!
+[0485] Oh! Doodle, you'll never guess what I
+just saw. A shooting star!
+[0486] Two, actually. They fell toward
+Sunsnug Isle like arrows carrying
+some important message.
+[0487] ...Huh? You mean they actually WERE
+carrying a message from the Meowster
+Hunters? They had a run in with a 
+[0488] Zamtrios
+[0489] ?
+[0490] Wow... Does this mean my wish that I
+wake up tomorrow with a notebook jam-
+packed with monster info won't come true?
+[0491] Well, moving on. It sounds like you
+need to help the Meownster Hunters and
+hunt that Zamtrios down.
+[0492] That will take you to...
+The Frozen Seaway.
+[0493] As you might have guessed from the name,
+the Frozen Seaway is a teeth-
+chatteringly cold hunting ground.
+[0494] You absolutely need to take along some
+Hot Drinks.
+[0495] Monsters can't afford to skip a meal in
+such cold climes, so only creatures with
+specialized organs make evolution's cut.
+[0496] Make sure you don't get chomped from
+behind and digested by one of said organs,
+okay, Doodle?
+[0497] Although if you do, remember to show me
+the bite marks on your hiney so I can
+make a sketch of them. For science.
+[0498] Hey Doodle, I have a Quest for you from
+the Cheeko Sands Chief. She needs you to
+hunt a 
+[0499] Najarala
+[0500] .
+[0501] As I understand it, the Najarala is
+a cunning monster that doggedly chases
+down its prey. Yikes!
+[0502] The Chief says it has started to prowl
+just a little too close to the edge of
+the village.
+[0503] As you know, the villagers helped us
+drag home the Arluq and pick up our
+cargo when we had trouble at sea.
+[0504] The least we can do to pay them back --
+and by "we," I mean you -- is hunt down
+one itty bitty monster, right?
+[0505] Oh, I should also mention that hunting
+the Najarala will allow us to expand
+our kitchen and level up its ingredients.
+[0506] Plus you'll score points with the Guild.
+Three Gargwas with one stone!
+[0507] Doodle, this is it. You knew this moment
+would come. Or I did, at least.
+[0508] It's time to confront the mysterious
+
+[0509] Gore Magala
+[0510] , the monster the Guild
+was tracking...
+[0511] And the same son of a Gunlance who
+knocked our beloved ship for a loop.
+[0512] The Ace Hunters did everything in
+their power, but now... Now!
+[0513] This vital mission has been placed
+squarely in your squarish hands.
+[0514] Behold my notebook! See how its pages
+twitch and its binding burns for
+scribblings of a higher caliber!
+[0515] I chose to travel the world to know
+every last thing there is to know about
+monsters, and you know what?
+[0516] I picked a couple of winners when I
+set my sights on the boss and then you.
+[0517] Doodle... DOODLE! I am COMPLETE!
+*huff, huff*
+[0518] Or at least I will be once you nail that
+sucker and give me all the deets.
+[0519] Anyway, as the boss would say...
+*deep breath*
+[0520] You're the one to get it done!
+[0521] Hi, Doodle. The boss told me what's up.
+In fact, I jotted down the name of the
+operation. Let's see... Ah, here it is.
+[0522] "Operation Kindred Hunter is Gonna Mine
+Us Some Coal so We Can Make Our Airship,
+but Don't Get Ate by a 
+[0523] Gravios
+[0524] ."
+[0525] ...Yup. I'm really glad I wrote that down.
+[0526] Looks like you'll be heading for the
+Volcanic Hollow. Exciting!
+[0527] I mean, who doesn't like active volcanic
+regions that bake you alive and spew magma
+all over the place?
+[0528] Anyway, remember to pack some Cold Drinks
+to stave off the heat and prevent your
+Health from draining.
+[0529] Keep an eye out for large, magma-loving
+monsters on the prowl.
+[0530] Oh, and while you're at it, Doodle,
+I'd also like to ask a tiny favor.
+Very tiny. Microscopic, really.
+[0531] It can wait until you get back, but could
+you reenact how the Gravios
+shoots its thermic rays? For science.
+[0532] If you could do the roar, too, that would
+be a hundred times better. I'll have my
+notebook ready to scribble it all down.
+[0533] ...Are those daggers I see in your eyes?
+What's the matter this time?
+[0534] Oh no, I did it again! You want credit.
+Don't worry, I'll put your name below
+the sketch. Better? Of course it is!
+[0535] Now go stabbios that Gravios!
+[0536] Doodle, I know it took a while, but I
+have a Quest for you that's different from
+anything else you've ever done.
+[0537] ...Huh? What's on your mind? You look
+stressed out.
+[0538] Ohh. The boss's Article. It's an ill omen?
+You don't say.
+[0539] Well, maybe my Quest will take your mind
+off it. Can I give it to you? Can I, can I?
+Good.
+[0540] It's called "
+[0541] Advanced: Odd Ape
+Out
+[0542] ." Hmm... This one looks like
+it's a tough one.
+[0543] You need to hunt a 
+[0544] Congalala
+[0545] , but the
+Guild sent along some unnerving
+fine print...
+[0546] "This Congalala does not exhibit
+normal behavior. Use extreme caution."
+[0547] Well that sounds...interesting!
+[0548] You'll be hunting at Heaven's Mount.
+Have you been yet?
+[0549] As the name suggests, the mountain's peak
+juts above the clouds, so it almost looks 
+like it's floating in midair.
+[0550] Of course, there's a tradeoff for all
+that scenic beauty. You have to watch
+for falling rubble and tricky terrain.
+[0551] And let's not even get into the weird
+ruins from who-knows-when or all the
+vicious monsters... Yikes!
+[0552] And by "yikes," I mean yay! Aren't you
+excited to check it out, Doodle?
+[0553] What better reason to visit Heaven's
+Mount than to hunt a Congalala?
+[0554] Oh, right. Cathar's Quest Gate is next to
+the Open-air Kitchen, if you're
+wondering. Don't get lost!
+[0555] Doodle, the boss has been acting very
+strangely lately.
+[0556] I think he wants answers about the
+frenzied monsters and is frustrated
+that he can't just go find them.
+[0557] Don't be surprised if he ups and vanishes
+all of a sudden like some bird you
+scared away. That's just how he is.
+[0558] But enough about him. What's this look of
+determination on your face?
+[0559] Oh, the Elder wants you to go to the
+Heaven's Mount to investigate?
+[0560] Ha-hah! I am so way ahead of you, Doodle.
+Check out all these nice, shiny new
+Quests I've written up!
+[0561] Number one, a 
+[0562] Zinogre
+[0563] !
+Number two, a 
+[0564] Seltas Queen
+[0565] !
+And lastly, a 
+[0566] Rathalos
+[0567] !
+[0568] A Peerless Hunter, a Weighty Empress,
+and a King of the Skies. Wow!
+[0569] Any one of these would be a challenge.
+Do I know how to pick 'em or what?
+[0570] ...What? D-don't be silly. Why would I
+pick only the monsters I want to sketch?
+[0571] H-how selfish do you think I am?
+Heh heh... Heh.
+[0572] Hi, Doodle. I guess you already know,
+but the boss hopped a Guild airship and
+
+[0573] went who-knows-where
+[0574] .
+[0575] Surprisingly, he left a message this time.
+Let me read it aloud and fake the accent
+as best I can. *ahem*
+[0576] "If you're readin' this, Kindred Hunter,
+then y'ain't dead yet -- and that's grand.
+I'll be at the Academy for a spell.
+[0577] "Somebody's got to get to the bottom of
+this frenzied monster business.
+[0578] "I'll be back faster'n a pack of Jaggi
+at the meat market, so hang tight.
+[0579] "Whilst I'm gone, you keep explorin'
+Heaven's Mount and figger out what you
+can on your end. Take care of the others.
+[0580] "You're the one to get it done!"
+[0581] ...And that's all he wrote. Sounds
+like the boss is putting in work, too.
+[0582] Well, you heard him! Looks like you're
+on Heaven's Mount duty. You're the
+only one qualified, after all! Heh heh.
+[0583] Hold on to your britches, Doodle!
+[0584] The Guild has just issued a mission of
+the highest importance to every hunter.
+[0585] ...Okay, I'll admit I'm a little excited.
+Hee! Are you ready?
+[0586] We get to go hunt the 
+[0587] Tigrex
+[0588]  --
+the bane of every hunter!
+[0589] The unwritten page in my notebook!
+The monstrous hole in the monsterpedia
+that is my heart! *huff, huff*
+[0590] Sorry... Got a little carried away there.
+[0591] According to the Guildmaster, the
+Guild will pile accolades upon the hunter
+who pulls this mission off.
+[0592] However, it calls for more caution than
+other hunts. "EXTREEEME caution."
+They wrote it in caps with three E's...
+[0593] I wonder what all the fuss is about.
+Well, until the boss gets back, I say we
+all do our dangest.
+[0594] Lead us by example, Doodle!
+[0595] Doodle... Doodle... Whew. Listen.
+[0596] The Guild just issued the most incredible
+Quest...and they specifically asked for
+you to do it.
+[0597] That's right. They want you to hunt down
+the 
+[0598] Shagaru Magala
+[0599] .
+[0600] It says, "Proceed immediately to the
+Sanctuary and eliminate the elder
+dragon."
+[0601] I...I can barely breathe here. I never,
+ever dreamed my notebook would be worthy
+of elder dragons. But here we are.
+[0602] Because of you and the boss, a new
+dream of mine seems to come true every
+other day.
+[0603] ...Listen, Doodle. This is just another
+day and another hunt.
+[0604] I'll be here doing my usual job and
+reading my usual books.
+[0605] So just...do me a favor and come back
+safe like you usually do. Usual is good.
+Okay?
+[0606] I want to hear all about that elder
+dragon. My scribbling fingers are ready!
+[0607] Just promise you'll come back, Doodle.
+[0608] Big news, Doodle! Happy news, at that!
+[0609] You just got clearance to take on
+
+[0610] Guild Quests
+[0611] ! Bravo!
+[0612] Guild Quests are 
+[0613] Quests with a twist
+[0614] 
+issued by the Quest Bureau.
+[0615] Once you've investigated monsters while on
+Expeditions and received clearance
+for a Guild Quest...
+[0616] Well, then the Quest will be temporarily
+added to 
+[0617] Guild Quests
+[0618]  in the menu.
+[0619] Careful, though. You need to do one more
+step before you can attempt the Quest.
+[0620] You have to 
+[0621] register the Quest
+[0622]  using
+Manage Lists. This is important!
+[0623] Only registered Guild Quests can be
+
+[0624] attempted at any time from the
+Gathering Hall
+[0625] , so don't forget!
+[0626] As for the Guild Quests themselves,
+they have unique rules.
+[0627] Rule #1: Completing them raises the
+difficulty level, Rewards, and more.
+[0628] Rule #2: You can exchange Guild Quests
+using StreetPass.
+[0629] Talk to the Courier in the red
+cap if you want to change your StreetPass
+settings.
+[0630] Also, keep in mind that when you exchange
+a Guild Quest, the level will be what
+it was when you 
+[0631] first received it
+[0632] .
+[0633] Anyway, that's the gist of it.
+[0634] The Everwood sure is lovely, though...
+I wish I could go on Expeditions.
+Be sure to stay safe and have fun out there.
+[0635] Woohoo! The time has come!
+[0636] Proud hunters from across the land
+are gathering in Val Habar, ready
+to prove they've got what it takes!
+[0637] I don't know about you, but I'm curious.
+...Ah! You look like you want to take
+them on, too.
+[0638] Don't worry, I won't stop you. The Quest
+is called 
+[0639] "
+[0640] Advanced: Order of Magnitude
+[0641] ."
+[0642] Now get out there and snatch the glory
+and honor from right under those other
+hunter-wannabes' noses!
+[0643] Can no one complete this stupid Quest?
+[0644] Oh, hi, Doodle! I bet YOU can handle this.
+[0645] Congrats, by the way, on being the talk
+of pretty much all of Val Habar.
+You tabloid fodder, you!
+[0646] Your hunterly physique graces almost
+every page of today's edition.
+[0647] I know, because I drew the pictures.
+I mean, who doesn't need a second job
+these days?
+[0648] Anyway, you look like you need a
+challenge, so take this: not one, but
+TWO 
+[0649] frenzied Tigrex
+[0650] !
+[0651] They've been tearing apart villages
+across the land and NO one has been able
+to stop them.
+[0652] But you're not "no one," are you?
+I can see it on your face.
+[0653] Well, the Quest you want to check out is
+called 
+[0654] "
+[0655] Advanced: Hell Hunters
+[0656] ."
+[0657] Go out there and wring the glory right
+out of those monsters' necks! Yeehah!
+[0658] Here comes the main event you've been
+waiting for, Doodle!
+[0659] Enter...the 
+[0660] Dah'ren Mohran
+[0661] ! Woohoo!
+Huzzah! Bacachickazaw!
+[0662] *Huff, huff* Sorry. Got carried away
+again.
+[0663] To be honest, I didn't get a really good
+look at the Dah'ren Mohran that day we
+first met.
+[0664] The boss said to hide below deck for my
+own safety, and by the time I crawled out,
+it was already a speck in the distance.
+[0665] Well, now that we have another stab at
+this, I say we knock that monster for a
+loop-de-loop! It's time to rise above!
+[0666] And time to add another page to my
+increasingly spectacular notebook.
+[0667] Interested? Good. The Quest is called
+
+[0668] "
+[0669] Advanced: Fleet Action
+[0670] ."
+[0671] Now get out there and wrangle us up
+a little glory!
+[0672] *Sigh* To go, or not to go?
+What is a Guildmarm to do?
+[0673] ...What? Oh, hello, Doodle. No, no, pay
+my life crises no mind.
+[0674] ...Huh? You want me to tell you what's
+on my mind? Oh, but I COULDN'T.
+...OK, I will.
+[0675] Have I ever told you about my 
+[0676] first love
+[0677] ?
+[0678] Once, I visited Tanzia, a port famed for
+trade and commerce. Maybe you've heard
+of it?
+[0679] While scouring the mountain for the
+legendary Hercudrome, I met this guy.
+[0680] He was tall and brave, his stride gallant.
+We exchanged one fiery glance before I
+knew I had been smitten. *sigh*
+[0681] ...What? Did I TELL him? Are you crazy?
+I would have died of shame! Oh my
+gosh, no! I could never do it myself.
+[0682] But YOU could... I don't suppose you
+would go track him down and tell him how
+I feel?
+[0683] ...You will? Oh, THANK you. I hear he's
+in the Volcanic Hollow as we speak.
+[0684] I'll go ahead and write up a completely
+selfish Quest called 
+[0685] "
+[0686] Whole Lava Love
+[0687] ."
+[0688] If you see him, tell him how much I love
+him and that he has a nice tail.
+That last part is optional.
+[0689] Doodle, where have you been? I've been
+on pins and needles since you left!
+[0690] So...how did it go? Did you tell my
+love how I feel?
+[0691] ...Huh? All you saw was a Brachydios?
+[0692] Oh, Doodle, you're such a kidder!
+Surely you knew?
+[0693] Brachydios
+[0694]  is exactly the hunk
+of burning love I'm talking about! Did you
+SEE that tail?
+[0695] How did he react when you told him
+my feelings? Did he blush? Gosh.
+[0696] I wrote this while you were gone.
+It's a 
+[0697] passionate love letter
+[0698] .
+Carry it like a badge of honor!
+[0699] Sorry I used so much pink.
+[0700] I heard all about "Operation Pophammer,"
+and I think it's swell. You heard me --
+swell!
+[0701] But what is it with Harth and the
+
+[0702] Tetsucabras
+[0703] ? Are they bound by
+fate or something?
+[0704] I mean, first the whole village disaster
+thing, and now the diggers manage to dig
+up ANOTHER one?
+[0705] Behind all those jolly smiles, the
+villagers must be really hurting from
+the hikes in their insurance premiums.
+[0706] Anyway, you came here for a Quest, so
+here's the Quest: 
+[0707] "
+[0708] Hammer It Out
+[0709] ."
+[0710] Now, go out there and hammer out a...
+well, a hammer, I guess.
+[0711] I heard all about "Operation Pophammer,
+Part Deux."
+[0712] So this time the diggers ran into a
+
+[0713] Gravios
+[0714] ? The people of Harth
+can pretty much forget about insurance.
+[0715] Anyway, the Quest is 
+[0716] "
+[0717] Hammer It Home
+[0718] ."
+[0719] May this all come to a happy,
+hammerly end.
+[0720] Doodle! What in the heck is going on?!
+[0721] I know the villagers of Harth reeeally
+want to whip up a new hammer, but WHAT?
+[0722] They dug up a 
+[0723] Teostra's
+[0724]  lair?!
+Getting struck by lightning would be less
+of a surprise. Ugh... AGH! *huff, huff*
+[0725] Sorry, I'm just overwhelmed.
+[0726] Understandably, the Teostra is
+not happy about the holes dug in its turf.
+It's tearing the Volcanic Hollow apart!
+[0727] You'd better get going on a little Quest
+that I like to call 
+[0728] "
+[0729] Advanced: Deep Trouble
+[0730] ."
+[0731] Don't be shocked if the villagers may have
+all been hauled off for insurance fraud.
+"Peace has been restored," my hide!
+[0732] Anyway, may your hammer-making be
+hammerful and all that.
+[0733] What's up, Doodle? A Cowardly Palico?
+You don't say.
+[0734] I suppose it's not easy to go on Quests
+when your courage has been swayed.
+[0735] Personally, I would kill for the chance
+to run headlong into danger if it meant
+I got to see monsters up close.
+[0736] Of course, they'd probably rip my head
+off my shoulders... But I really did dream
+of becoming a hunter once. Anyway.
+[0737] The 
+[0738] Nerscylla
+[0739]  hunt you're looking
+for is called 
+[0740] "
+[0741] Arachnophobia
+[0742] ."
+[0743] No chickening out! Heh heh.
+[0744] Another request from that Cowardly
+Palico, Doodle? Got it covered.
+[0745] The 
+[0746] Najarala
+[0747]  hunt you're looking
+for is called 
+[0748] "
+[0749] Fear Factor
+[0750] ."
+[0751] You know, Doodle, the Cheeko Sands Chief
+has told me a few things.
+[0752] For example, did you know your cowardly
+Palico's father was the Chief's
+husband's Palico?
+[0753] A ways back, after they washed up in
+Cheeko Sands and her husband went
+missing...
+[0754] His Palico stayed behind and defended
+the village admirably.
+[0755] *Sniff* It's such a touching story.
+I can't help but... *honk* *sniff*
+[0756] Holy Felvyne! I can't believe the monster
+the Cowardly Palico was freaking out
+about is an A-ka-ka-
+[0757] Akantor
+[0758] !
+[0759] That would shake ANYONE's courage.
+Maybe even yours, Doodle.
+[0760] But I'll go ahead and give you the Quest
+anyway. It's called 
+[0761] "
+[0762] Advanced: Stand Tall
+[0763] ."
+[0764] If I could just wax poetic for
+a second...
+[0765] Maybe it's the act of confronting our
+fears that defines courage.
+[0766] And to see a chance to conquer it and
+not take it is what defines cowardice.
+[0767] Chew on that the next time you walk
+through the Quest Gate, eh, Doodle?
+[0768] Doodle, I have a Quest from the
+Cathar Elder. It's of the "hush hush"
+variety, if you know what I mean.
+[0769] Basically, he wants you to 
+[0770] capture a
+Seltas
+[0771] .
+[0772] And he wants you to do it without the
+Grand Guru finding out. Why ruffle
+any feathers, if you know what I mean.
+[0773] The Quest is filed as 
+[0774] "
+[0775] Catch and Release
+[0776] ."
+[0777] Remember! Hush hush. Lots of hushing.
+[0778] Doodle, I have a request from a boy in
+Cathar. It's of the "hush hush"
+variety, if you know what I mean.
+[0779] Basically, he wants you to 
+[0780] capture a
+Zinogre
+[0781] .
+[0782] And he wants you to do it without the
+Grand Guru finding out. I guess it's
+supposed to be a surprise.
+[0783] The Quest is filed as 
+[0784] "
+[0785] See the Lightning
+[0786] ."
+[0787] Remember! Hush hush. Lots of hushing.
+[0788] Doodle, the Grand Guru in Cathar
+has requested someone eliminate a
+
+[0789] Kushala Daora
+[0790] .
+[0791] Sightings of this elder dragon have
+already been reported in Pokke Village
+and Jumbo Village.
+[0792] The reports make specific note of weather
+disruptions whenever the Kushala Daora
+appears.
+[0793] The Quest is called
+"
+[0794] Advanced: Wicked Wings
+[0795] ,"
+if you want to take a look.
+[0796] I went ahead and reinforced my notebook's
+binding in case I have to jot anything
+down in the middle of a storm.
+[0797] Really? Uh-huh... Oh, that is so
+interesting. What a riot! You don't say.
+[0798] ...Huh? Oh, Doodle! Sorry about that.
+Here for some Quests?
+[0799] I'm sorry. The Ace Cadet keeps
+hounding me while I'm trying to work,
+so I went into auto-reply mode.
+[0800] But forget about that. I have some
+seriously spectacular news!
+[0801] That's right. The 
+[0802] Gore Magala
+[0803] !
+This Quest is sure to make you squeal.
+I squealed, like, twice already.
+[0804] The Quest! Is called!
+
+[0805] "
+[0806] Crazy Stupid Love
+[0807] ."
+[0808] I jokingly suggested the Ace Cadet
+give it a go, and he was all gung ho.
+[0809] I have to give him credit for his taste.
+While deadly, the Gore Magala is a
+very likable monster.
+[0810] ...What? Are you asking me if I care
+about the Gore Magala more than
+I do the Ace Cadet?
+[0811] I feel like this question may be a trap.
+Can I pretend to be busy with
+paperwork now?
+[0812] Wow! That is, like... You're such
+a kidder. Tell me another one!
+[0813] ...Huh? Oh, Doodle! Sorry about that.
+Here for some Quests?
+[0814] I'm sorry. The Ace Cadet won't
+stop hounding me while I'm trying to
+work, so I went into auto-reply mode.
+[0815] But forget about that. I have even
+more amazing news!
+[0816] That's right. The 
+[0817] Rajang
+[0818] !
+Once you get its mane bristling, the whole
+Primal Forest turns into a golden storm.
+[0819] This Quest is sure to make you squeal.
+I squealed, like, three times already.
+[0820] The Quest! Is called!
+
+[0821] "
+[0822] Advanced: Tough Love
+[0823] ."
+[0824] I jokingly suggested the Ace Cadet
+give it a go, and he was all gung ho.
+Again!
+[0825] If he gets totally hooked on
+Rajangs, am I allowed to
+take credit?
+[0826] ...What? Are you asking me if I'm
+starting to fall for him?
+[0827] Because the answer is yes. My heart
+absolutely belongs to the Rajang.
+[0828] Oh! Doodle. The Ace Cadet dropped
+by earlier to bother me. Again.
+[0829] He said he wants to get "cozy."
+[0830] When I asked for further clarification,
+he thrust a monster Gem into my hands and
+said, "A token of my affection."
+[0831] But I believe he meant "affliction."
+I believe he may be clinically insane.
+[0832] Oh! Wait. Maybe he wants to join my
+League of Monsterphiles. I mean, who
+wouldn't?
+[0833] You're interested, too, right? Any good
+League of Monsterphiles needs more than
+one member, after all...
+[0834] Why are you slowly edging away like that?
+[0835] Doodle! The Guild wants you to 
+[0836] investigate
+the Everwood
+[0837] .
+[0838] A rare monster has been sighted there,
+and I'm afraid there's no time to lose.
+[0839] Since this is direct from the Guild, I'll
+file it under 
+[0840] Urgent Quests
+[0841] .
+[0842] Be aware that the rules for this Quest
+are the same as those of standard Quests.
+[0843] For example, you will fail if your Health
+runs out three times.
+[0844] If you pull it off, though, the same
+monster may turn up during Expeditions.
+Just a hunch I have.
+[0845] Anyway, pack those Antidotes and
+let's get this show on the road!
+[0846] Doodle! The Guild wants you to 
+[0847] investigate
+the Everwood
+[0848] .
+[0849] A rowdy monster has been sighted there
+and I'm afraid there's no time to lose.
+[0850] Since this is direct from the Guild, I'll
+file it under 
+[0851] Urgent Quests
+[0852] .
+[0853] Be aware that the rules for this Quest
+are the same as those of standard Quests.
+[0854] For example, you will fail if your Health
+runs out three times.
+[0855] If you pull it off, though, the same
+monster may turn up during Expeditions.
+Just a hunch I have.
+[0856] Anyway, pack those Antidotes and get this
+show on the road!
+[0857] Doodle! The Guild wants you to 
+[0858] investigate
+the Everwood
+[0859] .
+[0860] A beautiful but dangerous monster has been
+sighted there, and I'm afraid there's no
+time to lose.
+[0861] Since this is direct from the Guild, I'll
+file it under 
+[0862] Urgent Quests
+[0863] .
+[0864] Be aware that the rules for this Quest
+are the same as those of standard Quests.
+[0865] For example, you will fail if your Health
+runs out three times.
+[0866] If you pull it off, though, the same
+monster may turn up during Expeditions.
+Just a hunch I have.
+[0867] You there! Doodle!
+...Yes, you. How many "Doodles" are there?
+[0868] How does it feel to take on Quest after
+Quest and say, "Pfft! I've spat out harder
+Quests for breakfast!"?
+[0869] You've completed them all. And, honestly,
+I'm grateful, as are all the people
+you've helped.
+[0870] I, the Guildmarm, sincerely thank
+you on behalf of the Guild.
+YOU DA HUNTER!
+[0871] ...Sorry, I was put up to saying that.
+[0872] Anyway, because no hunter's job is ever
+done, I've got a request here from the
+boss himself!
+[0873] It's called 
+[0874] "
+[0875] The Caravaneer's Challenge
+[0876] ."
+I like the sound of that!
+[0877] If that doesn't bust your hunter you-
+know-whats, then I don't know what will.
+[0878] Now get on out there, you show off! Git!
+[0879] Un...be...LIEVABLE, Doodle!
+How do you do it? How are you so
+gosh darned amazing?
+[0880] I can just picture you looking those
+Quests right in the eye and saying,
+"Pfft! Give me a REAL challenge!"
+[0881] Un...be...LIEVABLE!
+[0882] I can't even believe how unbelievable!
+I mean... AHH!
+[0883] Anyway, I'll stop kissing up, but
+seriously? You blow average hunters
+right out of the proverbial water, Doodle.
+[0884] Hey Doodle! Congrats!
+...What? You haven't heard yet?
+Well then, allow me to make your day!
+[0885] You've been given clearance to take on
+
+[0886] G-rank Expeditions
+[0887] !
+Hooray!
+[0888] If you wanna give 'em a go, just open
+the 
+[0889] World Map
+[0890]  and touch the
+G-rank Expedition icon.

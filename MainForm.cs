@@ -84,6 +84,7 @@ namespace LMDTool
 
         // Quests view controls
         Panel questsFolderRow = null!;
+        CheckBox chkQuestTraining = null!;
         readonly CheckBox[,] questChecks = new CheckBox[4, 3];
         readonly NumericUpDown[,] questRanges = new NumericUpDown[4, 2];
         Panel questsFilterPanel = null!;
@@ -658,6 +659,11 @@ namespace LMDTool
 
         void ShowQuestsView()
         {
+            bool mh4 = currentGame == GameKind.MH4G;
+            LoadRememberedQuestsFolder();
+            questsFilterPanel.Visible = !mh4;
+            mh4QuestPanel.Visible = mh4;
+            questFolderCaption.Text = Localization.T(mh4 ? "mh4QuestFolder" : "questsFolderLabel");
             showingQuestsView = true;
             statsRow.Visible = false;
             logHost.Visible = false;
@@ -833,6 +839,10 @@ namespace LMDTool
         // QUESTS VIEW
         // ============================================================
 
+        Panel mh4QuestPanel = null!;
+        Label questFolderCaption = null!;
+        readonly CheckBox[] mh4Languages = new CheckBox[5];
+
         Panel BuildQuestsView()
         {
             Panel root = new Panel()
@@ -851,7 +861,7 @@ namespace LMDTool
                 Margin = new Padding(0, 0, 0, 14),
             };
 
-            Label folderCaption = new Label()
+            Label folderCaption = questFolderCaption = new Label()
             {
                 Text = Localization.T("questsFolderLabel"),
                 AutoSize = false,
@@ -965,8 +975,16 @@ namespace LMDTool
                 }
                 panel.Controls.Add(range); columns.Controls.Add(panel, c, 0);
             }
-            questsFilterPanel.Height = 225;
+            // Training is selected independently of the ordinary star ranges.
+            chkQuestTraining = BuildFilterCheckbox(Localization.T("questCatGuildTraining"), 0, 0);
+            chkQuestTraining.AutoSize = true;
+            chkQuestTraining.Checked = true;
+            var trainingRow = new FlowLayoutPanel { Dock = DockStyle.Bottom, Height = 38,
+                Padding = new Padding(12, 4, 12, 4), BackColor = BgCard };
+            trainingRow.Controls.Add(chkQuestTraining);
+            questsFilterPanel.Height = 263;
             questsFilterPanel.Controls.Add(columns);
+            questsFilterPanel.Controls.Add(trainingRow);
 
             // ---- Action buttons row ----
 
@@ -1052,9 +1070,23 @@ namespace LMDTool
             };
             questsLogHost.Controls.Add(questsLogBox);
 
+            mh4QuestPanel = new FlowLayoutPanel { Dock = DockStyle.Top, Height = 110,
+                FlowDirection = FlowDirection.TopDown, WrapContents = false, AutoScroll = true,
+                Padding = new Padding(16, 8, 16, 8), BackColor = BgCard, Visible = false };
+            mh4QuestPanel.Controls.Add(new Label { Text = Localization.T("mh4QuestInfo"), AutoSize = true, ForeColor = TextSecondary });
+            var languageRow = new FlowLayoutPanel { AutoSize = true, WrapContents = true };
+            string[] languageKeys = { "mh4Eng", "mh4Fre", "mh4Spa", "mh4Ger", "mh4Ita" };
+            for (int l = 0; l < 5; l++)
+            {
+                mh4Languages[l] = new CheckBox { Text = Localization.T(languageKeys[l]), AutoSize = true,
+                    Checked = l == 0, ForeColor = TextPrimary };
+                languageRow.Controls.Add(mh4Languages[l]);
+            }
+            mh4QuestPanel.Controls.Add(languageRow);
             root.Controls.Add(questsLogHost);
             root.Controls.Add(questsActionsRow);
             root.Controls.Add(questsFilterPanel);
+            root.Controls.Add(mh4QuestPanel);
             root.Controls.Add(questsFolderRow);
 
             LoadRememberedQuestsFolder();
@@ -1136,7 +1168,9 @@ namespace LMDTool
 
         void LoadRememberedQuestsFolder()
         {
-            string? remembered = AppConfig.Get("QuestsFolder");
+            questsSourceFolder = "";
+            lblQuestsFolderValue.Text = Localization.T("questsFolderNotSet");
+            string? remembered = AppConfig.Get(currentGame == GameKind.MH4G ? "MH4QuestsFolder" : "QuestsFolder");
 
             if (!string.IsNullOrWhiteSpace(remembered) && Directory.Exists(remembered))
             {
@@ -1159,14 +1193,14 @@ namespace LMDTool
                 {
                     questsSourceFolder = dialog.SelectedPath;
                     lblQuestsFolderValue.Text = questsSourceFolder;
-                    AppConfig.Set("QuestsFolder", questsSourceFolder);
+                    AppConfig.Set(currentGame == GameKind.MH4G ? "MH4QuestsFolder" : "QuestsFolder", questsSourceFolder);
                 }
             }
         }
 
         QuestFilter BuildQuestFilterFromUI()
         {
-            var result = new QuestFilter();
+            var result = new QuestFilter { IncludeGuildTraining = chkQuestTraining.Checked };
             QuestColumn[] columns = { result.Village, result.Hub, result.Pub, result.Special };
             for (int c = 0; c < 4; c++)
             {
@@ -1179,8 +1213,16 @@ namespace LMDTool
             return result;
         }
 
+        bool PrepareQuestStorage(bool mh4)
+        {
+            try { QuestStorage.Migrate(AppDomain.CurrentDomain.BaseDirectory, mh4); return true; }
+            catch (Exception ex) { AppendLogLine(ex.Message, StatusFail); return false; }
+        }
+
         void RunQuestsExport()
         {
+            if (currentGame == GameKind.MH4G) { RunMH4Quests(false); return; }
+            if (!PrepareQuestStorage(false)) return;
             if (string.IsNullOrWhiteSpace(questsSourceFolder) || !Directory.Exists(questsSourceFolder))
             {
                 AppendLogLine(Localization.T("questsNoFolderSelected"), StatusFail);
@@ -1195,7 +1237,7 @@ namespace LMDTool
                 return;
             }
 
-            string destRoot = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "QuestsText");
+            string destRoot = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "MHXX", "QuestsText");
 
             AppendLogLine(Localization.T("logTaskLabel") + Localization.T("taskNameExport") + " (" + Localization.T("quests") + ")", null);
             AppendLogLine("", null);
@@ -1220,6 +1262,8 @@ namespace LMDTool
 
         void RunQuestsImport()
         {
+            if (currentGame == GameKind.MH4G) { RunMH4Quests(true); return; }
+            if (!PrepareQuestStorage(false)) return;
             if (string.IsNullOrWhiteSpace(questsSourceFolder) || !Directory.Exists(questsSourceFolder))
             {
                 AppendLogLine(Localization.T("questsNoFolderSelected"), StatusFail);
@@ -1235,14 +1279,14 @@ namespace LMDTool
             }
 
             string exeDir = AppDomain.CurrentDomain.BaseDirectory;
-            string outputRoot = Path.Combine(exeDir, "QuestsOutput");
+            string outputRoot = Path.Combine(exeDir, "MHXX", "QuestsOutput");
 
             AppendLogLine(Localization.T("logTaskLabel") + Localization.T("taskNameImport") + " (" + Localization.T("quests") + ")", null);
             AppendLogLine("", null);
 
             var result = QuestBatch.ImportFolder(
                 questsSourceFolder,
-                Path.Combine(exeDir, "QuestsText"),
+                Path.Combine(exeDir, "MHXX", "QuestsText"),
                 outputRoot,
                 filter,
                 (fileName, status, detail) => LogQuestEntry(fileName, status, detail)
@@ -1257,6 +1301,23 @@ namespace LMDTool
                 + "  " + Localization.T("statSkipped") + ": " + result.Skipped,
                 null
             );
+        }
+
+        void RunMH4Quests(bool import)
+        {
+            if (string.IsNullOrWhiteSpace(questsSourceFolder) || !Directory.Exists(questsSourceFolder))
+            { AppendLogLine(Localization.T("questsNoFolderSelected"), StatusFail); return; }
+            if (!PrepareQuestStorage(true)) return;
+            string root = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "MH4G");
+            AppendLogLine(Localization.T("logTaskLabel") + Localization.T(import ? "taskNameImport" : "taskNameExport") + " (MH4U)", null);
+            var result = MH4QuestBatch.Run(questsSourceFolder, Path.Combine(root, "QuestsText"),
+                import ? Path.Combine(root, "QuestsOutput") : null,
+                mh4Languages.Select(box => box.Checked).ToArray(), LogQuestEntry);
+            AppendLogLine(Localization.T("logFinished"), null);
+            AppendLogLine(Localization.T("statTotal") + ": " + result.Total + "  " +
+                Localization.T("statSuccess") + ": " + result.Success + "  " +
+                Localization.T("statFailed") + ": " + result.Failed + "  " +
+                Localization.T("statSkipped") + ": " + result.Skipped, null);
         }
 
         void LogQuestEntry(string fileName, QuestLogStatus status, string detail)
@@ -1359,8 +1420,8 @@ namespace LMDTool
                 ? Localization.T("importLmd")
                 : Localization.T("importGmd");
 
-            // Quest ARC management is MHXX-specific, including bundled archives.
-            btnQuests.Visible = currentGame == GameKind.MHXX;
+            // Each game uses its own quest workflow and output directories.
+            btnQuests.Visible = currentGame == GameKind.MHXX || currentGame == GameKind.MH4G;
 
             ShowStandardView(() =>
             {
@@ -1389,7 +1450,7 @@ namespace LMDTool
         void Select3G()
         {
             currentGame = GameKind.MH3G;
-            gameRoot = "MH3G";
+            gameRoot = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "MH3G");
             extension = "*.gmd";
 
             PrepareFolders();
@@ -1399,7 +1460,7 @@ namespace LMDTool
         void Select4G()
         {
             currentGame = GameKind.MH4G;
-            gameRoot = "MH4G";
+            gameRoot = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "MH4G");
             extension = "*.lmd";
 
             PrepareFolders();
@@ -1409,7 +1470,7 @@ namespace LMDTool
         void SelectXX()
         {
             currentGame = GameKind.MHXX;
-            gameRoot = "MHXX";
+            gameRoot = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "MHXX");
             extension = "*.gmd";
 
             PrepareFolders();

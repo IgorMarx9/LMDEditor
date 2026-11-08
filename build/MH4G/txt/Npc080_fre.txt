@@ -1,0 +1,789 @@
+﻿[0000] Primeiro, preciso que fale com o
+Cadete. Coloquei-o no comando do
+Quartel de Batalha.
+[0001] Se achar a explicação dele
+insuficiente, pode registrar uma queixa
+comigo.
+[0002] Você não seria o primeiro...
+[0003] Falou com o Cadete sobre o que
+ele precisa? Ótimo. Sua ajuda caçando o
+Hermitaur Daimyo será apreciada.
+[0004] ...Aliás, ele explicou os
+objetivos dele direito? Às vezes
+questiono suas habilidades de comunicação...
+[0005] Cuido dele desde que se tornou
+caçador pela primeira vez...
+[0006] O que significa que sei melhor que ninguém
+a dor de cabeça que ele dá quando
+se empolga. O que é quase sempre.
+[0007] O Cadete ficou feliz em saber que você
+viria à cidade -- assim como o Lanceiro
+e a Atiradora, claro.
+[0008] ...Sim? Havia mais alguma coisa
+de que precisava?
+[0009] Meu mentor logo retornará a Dondruma.
+[0010] Espero que ele esteja bem. Nosso reencontro
+já tarda há muito...
+[0011] Nem consigo lembrar a última vez
+que conversamos.
+[0012] Em seguida, gostaria que ajudasse
+a reforçar o Dragonseer.
+[0013] A Atiradora tem os detalhes.
+Consulte-a, por favor.
+[0014] Consultou a Atiradora?
+Ótimo.
+[0015] Sua associada da Guilda deve ter
+a Missão para caçar um Congalala Esmeralda
+registrada. Sua ajuda é apreciada.
+[0016] A Atiradora tem bons olhos e sentidos
+aguçados. Seus "palpites" já me salvaram
+mais de uma vez.
+[0017] Sou grato por ter treinado junto
+com ela, e por tê-la em minha equipe.
+[0018] Sempre que vê o Dragonseer, aquele
+tolo do Cadete insiste em acenar
+para ele.
+[0019] Poderíamos esperar em silêncio absoluto
+por uma emboscada, e ele ainda saltaria
+atrás daquela nave maldita.
+[0020] *Suspiro* Ser mentor pode ser cansativo...
+[0021] Em seguida, gostaria da sua ajuda nos preparativos
+para a construção do Dracolégio.
+[0022] O Lanceiro tem os detalhes.
+Consulte-o, por favor.
+[0023] Consultou o Lanceiro?
+Ótimo.
+[0024] A Guilda considera a construção
+do Dracolégio uma questão
+urgente. Sua ajuda é apreciada.
+[0025] Há poucos homens que respeito mais
+do que o Lanceiro.
+[0026] Além de suas conquistas como
+caçador, ele também é um
+biólogo talentoso.
+[0027] Muitos jovens caçadores o admiram.
+Fiquei surpreso que aceitasse ajudar
+em nossa investigação do Gore Magala.
+[0028] É verdade, as ordens vieram da Guilda,
+mas sua chegada ainda me encheu
+de imenso orgulho e gratidão.
+[0029] Jamais esquecerei a alegria
+daquele momento.
+[0030] Acabei de receber notícias do meu mentor.
+Ele chegará a Dondruma em breve.
+[0031] Quanto tempo faz? Espero que volte
+com saúde... e que eu evite
+me apresentar de forma vergonhosa.
+[0032] Ainda precisamos da sua ajuda nos preparativos
+para a construção do Dracolégio.
+[0033] Precisamos que um Cephadrome e
+uma Nerscylla sejam caçados em sequência.
+Tome cuidado lá fora.
+[0034] Será preciso um esforço conjunto para
+resgatar meu mentor. Conto com você
+para caçar aquele Monoblos!
+[0035] A Atiradora e o Cadete abrirão caminho
+até ele. O Lanceiro e
+eu ficaremos aqui defendendo a cidade.
+[0036] Não deixe de falar com a Atiradora;
+trabalho em equipe será vital!
+[0037] Será preciso um esforço conjunto para
+resgatar meu mentor. Conto com você
+para caçar aquele Monoblos!
+[0038] A Atiradora e o Cadete abrirão caminho
+até ele. O Lanceiro e
+eu ficaremos aqui defendendo a cidade!
+[0039] O Monoblos é um adversário
+cruel que representa grave perigo
+aos esquifes de areia.
+[0040] Você precisa caçá-lo. Salve os esquifes,
+e salve meu mentor.
+[0041] Ele é... caro demais para que
+o mundo o perca.
+[0042] Estes céus...
+[0043] Estas nuvens escuras...
+[0044] *Suspiro* E se acontecer de novo?
+[0045] O Mestre da Defesa voltou
+em segurança! Ah, isto É maravilhoso.
+[0046] Graças aos seus esforços diligentes,
+fui reunido ao meu mentor mais uma vez.
+Do fundo do coração, agradeço.
+[0047] Se puder incomodá-lo com outra tarefa:
+há um homem cansado do mundo que precisa
+da sua ajuda.
+[0048] Ele se refugiou na
+
+[0049] Assembleia
+[0050] .
+[0051] O Mestre da Defesa voltou
+em segurança! Ah, isto É maravilhoso.
+[0052] Graças aos seus esforços diligentes,
+fui reunido ao meu mentor mais uma vez.
+Do fundo do coração, agradeço.
+[0053] Meu mentor viaja por todo tipo de
+cidades e vilas, grandes e pequenas,
+para assumir o comando das defesas.
+[0054] Ele se esforça para não ser de lugar nenhum
+e de todos os lugares, e por isso muitas vezes
+se encontra na estrada.
+[0055] Tem sido assim desde seus dias
+de caça...
+[0056] Ele merece o respeito do mundo.
+Certamente tem o meu.
+[0057] Um cavalheiro cansado do mundo veio
+com uma questão urgente que exige
+sua atenção.
+[0058] Creio que era para caçar um
+Khezu, ou entregar uma Pedra-Pólvora...
+Sua escolha.
+[0059] Era justamente aquele Kushala Daora...
+[0060] ...Aquela ferida...
+[0061] ......
+[0062] Ah. Seu retorno seguro me alegra.
+Já teve chance de emprestar
+ouvidos ao Cozinheiro de Rua?
+[0063] Ele precisava que uma Rathian Rosa
+fosse caçada, creio.
+[0064] Malditas Rathians...
+Não suporto pensar nelas.
+[0065] O Professor do Dracolégio ficou
+muito aflito porque sua assistente
+ainda não chegou à cidade.
+[0066] Espero muito que a pobre moça não
+tenha sido atacada por monstros na estrada.
+[0067] ......
+[0068] Oh... Caçador. O quê? Sim, claro
+que estou bem. Por quê?
+[0069] ......
+[0070] Oh... Caçador. O Professor do
+Dracolégio me informou da
+situação da assistente.
+[0071] Isto é terrível.
+Atacada por uma Rainha Seltas!
+Devemos resgatá-la imediatamente!
+[0072] Disseram-me que o projeto foi concluído
+para a arma defensiva.
+[0073] Agora meu mentor diz que precisa de um
+combustível potente:
+[0074] Um que gere poder de fogo suficiente
+para cortar as tempestades do
+Kushala Daora sem se dissipar.
+[0075] ......
+[0076] Oh... Caçador. O quê? Sim, claro
+que estou bem. Por quê?
+[0077] ......
+[0078] Se precisa capturar aquela Rathian,
+prometa que terá cuidado.
+[0079] Um passo imprudente pode custar caro.
+Muito caro...
+[0080] Vá, então. Capture a Rathian.
+Rezarei pelo seu sucesso.
+[0081] Você está seguro? Q-quero dizer, está seguro!
+Eu... fico muito satisfeito.
+[0082] O Lorde Escriba estava procurando você.
+Ele tinha algo que queria lhe dar.
+[0083] Um Seregios...
+Nunca vi um com meus próprios olhos.
+Só imagens...
+[0084] Duvido que até o Lorde Escriba tenha visto
+um em carne e osso.
+[0085] A maioria dos moradores se abrigou
+dentro de casa. Deixe as defesas da cidade
+conosco.
+[0086] Você tem sua própria tarefa à frente.
+Fique alerta lá fora.
+[0087] Você está seguro, está seguro!
+Ah, as coisas que anseio dizer...
+[0088] Mas você deve falar com meu
+mentor primeiro. Posso guardar minhas longas
+palavras de gratidão para depois!
+[0089] Muito bem, Caçador. Como sempre, seu retorno
+seguro me traz alegria.
+[0090] Pois bem. Como os esquifes de areia
+estão operando novamente, a entrega dos
+materiais de que precisamos pode recomeçar já.
+[0091] A propósito, Mestre Ferramenta tinha um
+favor a pedir. Passe por lá,
+se puder.
+[0092] Belo trabalho caçando o Seregios.
+Você me lembrou tanto de...
+[0093] Er, nada.
+Nem vale a pena mencionar.
+[0094] Embora eu ainda tenha algumas dúvidas, ao menos
+a fortificação da cidade contra
+o Dragão Ancião está em andamento novamente.
+[0095] Porém, tanto meu mentor quanto o Lanceiro
+aconselham fortemente que permaneçamos vigilantes.
+E tendo a concordar.
+[0096] Algo pesa em minha mente...
+Mas acho problemático demais colocar
+em palavras, exatamente.
+[0097] Sabe onde a Atiradora foi?
+Procurei por ela em toda parte.
+[0098] Ela deve ter feito um passeio com o
+Dragonseer para avaliar o progresso.
+[0099] Terei de dar um vigoroso tapa
+nas costas dela quando voltar.
+[0100] A Atiradora ficou abalada pelo
+Rathalos Lazúli que viu...
+[0101] Sugiro que levemos isso a sério.
+Importa-se de investigar?
+[0102] No mínimo, prove que nossos temores
+eram infundados.
+[0103] Então, a Atiradora voltou. O trabalho dela
+a bordo do Dragonseer parece ter
+sido mais exaustivo que esperado...
+[0104] Preciso lembrar de dar um vigoroso tapa
+nas costas dela na próxima vez que falarmos.
+[0105] Por que aqueles dois precisam ir?
+[0106] Já os coloquei em perigo uma vez.
+*Suspiro*
+[0107] Eu deveria ter ficado para trás
+e lutado.
+[0108] Comandante ou não, eu deveria ter seguido
+meu coração, não cedido a algum perverso
+senso de dever.
+[0109] Vá, então. Cace o Tigrex Bruto.
+Rezarei pelo seu sucesso.
+[0110] Ah, saudações.
+...Posso ajudar?
+[0111] Se procura o Lanceiro
+e o Cadete, eles estão em campo.
+[0112] ...Precisava de mais alguma coisa?
+[0113] Vá, então. Rezo para que sua caçada
+para concluir o Demolidor termine
+em nada além de sucesso.
+[0114] Espero que aqueles dois voltem logo,
+e ilesos. E o mesmo vale para você.
+...Fique em segurança.
+[0115] Vou colocar imediatamente todo técnico capaz
+da cidade para calibrar
+a arma defensiva.
+[0116] Enquanto isso, os Caçadores de Elite 
+expulsarão qualquer monstro frenético 
+que tente se aproximar.
+[0117] A arma deve ser protegida, então protegida
+ela será!
+[0118] O Lanceiro ainda está lá fora...
+em algum lugar...continuando aquele
+estudo dele.
+[0119] Mas eu o conheço. E acredito nele.
+Ele VAI voltar em segurança, e com
+algo para mostrar por seus esforços.
+[0120] Você está seguro! Que maravilha!
+[0121] Acabamos de receber um bilhete do
+Lanceiro. Meu mentor dirá a você o que
+precisa saber.
+[0122] Amigo...
+Por favor, volte para nós em segurança.
+[0123] Se não voltar, eu...
+ficarei profundamente descontente!
+[0124] Um Deviljho frenético?! Céus!
+Já estamos ocupados demais lidando
+com o Dragão Ancião!
+[0125] Não há como impedir tudo isso
+de acontecer de novo? Agh...
+[0126] Há algo lá fora pior
+que o Deviljho frenético, e
+AINDA assim ele se recusa a voltar?
+[0127] Fique seguro lá fora, meu amigo.
+Fique... SEGURO!
+[0128] O Kushala Daora cansou
+de nos fazer esperar, parece...
+[0129] Mas desta vez estarei pronto para
+a fera. Desta vez, *EU* serei
+o escudo DELE! Custe o que custar!
+[0130] Não vou... deixar... acontecer de novo!
+[0131] Um Seregios Superior...
+[0132] É melhor v-você voltar desta
+caçada. Porque se não voltar...
+Se NÃO voltar...
+[0133] Ficarei extremamente emotivo!
+[0134] Agradeço do fundo
+do meu coração.
+[0135] Tenho verdadeira sorte por ter conhecido você.
+[0136] De agora em diante...
+[0137] De agora em diante, devo ser eu a proteger.
+[0138] Voltou da caçada? Ótimo, ótimo.
+[0139] Eu mencionei? Outro dia fui
+caçar uma Rathian em nome
+dos moradores.
+[0140] Sinto-me... confiante agora. Capaz de encarar
+a rainha sem me perturbar.
+[0141] Oh, é você.
+...Desculpe, estava pensando comigo mesmo.
+[0142] Tenho muitos pensamentos e sentimentos
+sobre o passado, mas não me arrependo mais
+de nada do que aconteceu.
+[0143] Ah, Caçador. O mesmo de sempre, vejo.
+[0144] Os Caçadores de Elite andam ocupados com 
+uma missão ou outra, mas, fora isso, as 
+coisas seguem iguais conosco também.
+[0145] ...Havia algo de que precisava?
+[0146] Ah, Caçador. Alegra-me vê-lo em
+boa saúde.
+[0147] Você me lembra tanto de...
+[0148] Não, não... Esqueça. Alguns pensamentos
+é melhor deixar por dizer.
+[0149] Acabou de voltar?
+E parece que vai sair
+de novo com a mesma rapidez.
+[0150] ...O que é bom. Eu só estava fazendo
+uma observação. Tenha cuidado lá fora.
+[0151] Saudações, Caçador. Faz algum tempo. Os 
+Caçadores de Elite estão bem, fique tranquilo.
+[0152] Cada um de nós recebeu novas ordens,
+embora não as mesmas.
+[0153] Anseio pelo dia em que nós quatro
+poderemos caçar juntos novamente.
+[0154] Ah, Caçador. O mesmo de sempre, vejo.
+...Posso ajudar em algo? Não?
+[0155] Você é bem-vindo a ficar em Dondruma
+mais um tempo. Os moradores ficariam
+radiantes, tenho certeza.
+[0156] Oh... Caçador.
+[0157] Você e a Caravana irão
+para novos pastos? Sentiremos...
+s-sua falta.
+[0158] Aonde quer que a vida o leve, faça-me
+um favor, e cuide deles.
+Mantenha-os seguros.
+[0159] Bem-vindo de volta. Alegra-me vê-lo
+em casa e seguro.
+[0160] Diga-me... Essa sua arma --
+sempre foi sua favorita?
+[0161] Pergunto apenas porque você parece...
+Nada, nada. Não ligue para mim.
+[0162] Indo para uma caçada em grupo?
+Prometa que terá cautela.
+[0163] Sinta-se livre para dar aos seus amigos meus
+cumprimentos, se acha que tal gesto
+os agradaria.
+[0164] Muito bem encontrado, Comandante!
+Trouxe um convidadinho pra você.
+[0165] Um Caçador Companheiro, ao seu dispor!
+[0166] Muito obrigado, Lorde Escriba.
+Meus mais profundos agradecimentos a você também, Caçador.
+[0167] Indo direto ao ponto, precisamos
+da sua ajuda 
+[0168] reparando e fortificando a
+cidade de Dondruma
+[0169] .
+[0170] Dondruma em si foi projetada para
+resistir a ataques constantes de monstros -- ela
+talvez seja a maior fortaleza do mundo.
+[0171] A estação de observação da cidade vigia
+Dragões Anciãos, enquanto especialistas locais continuam
+pesquisando novas estratégias defensivas.
+[0172] Porém, muitas das fortificações da cidade
+foram muito danificadas durante um ataque
+recente de monstro.
+[0173] E infelizmente, o momento não poderia
+ser pior. Os meteorologistas
+previram 
+[0174] que um Dragão Ancião está a caminho
+[0175] .
+[0176] Normalmente, Dondruma poderia se manter
+contra tal ameaça, mas se o
+dragão chegasse hoje...
+[0177] Bem, você vê o estado das coisas.
+A cidade seria varrida direto do
+mapa. As circunstâncias são graves.
+[0178] Antes de lidarmos com reparos e
+fortificações, temos uma lista enorme
+de tarefas cansativas a cumprir.
+[0179] Qualquer uma delas sobrecarregaria um caçador
+comum -- por isso buscamos
+os melhores: você e sua Caravana.
+[0180] Você ajudará a mim e aos Caçadores 
+de Elite
+[0181] a restaurar Dondruma à antiga 
+glória
+[0182] ?
+[0183] Não consigo pensar em mais ninguém a quem
+eu preferiria pedir -- nem em alguém capaz.
+Eu humildemente imploro.
+[0184] Eita... Entendo o que quer dizer.
+Os monstros acabaram com as
+lojas e instalações.
+[0185] Isso parece trabalho para a Caravana 
+C Colossal mesmo.
+[0186] O problema é que precisamos da permissão dos
+manda-chuvas antes de nos instalarmos
+na praça, certo?
+[0187] Correto. Previ isso, senhor, e
+já recebi autorização para a
+Caravana entrar.
+[0188] Muito bem! Sempre um passo à frente.
+Nesse caso, deixe-me reunir o pessoal
+e começaremos. Har!
+[0189] Certo, isso deve cuidar
+dos preliminares.
+[0190] Se importa de gastar um minuto para repassar
+sua lista de tarefas?
+[0191] Claro, senhor.
+[0192] Diante do dilema atual de Dondruma --
+danos dos ataques de monstros
+e a chegada iminente do Dragão Ancião --
+[0193] Sua Imensidão decidiu
+convocar uma 
+[0194] autoridade nesses assuntos
+[0195] 
+de volta à cidade.
+[0196] O homem em questão é um brilhante
+estrategista defensivo e também um ótimo
+comandante.
+[0197] Posso atestar isso, já que ele foi
+
+[0198] meu mentor
+[0199]  -- o homem que me ensinou
+tudo que sei.
+[0200] Ele já foi, certa vez, um caçador.
+[0201] Porém... circunstâncias levaram à sua
+aposentadoria precoce, e agora ele viaja pelo
+mundo como consultor defensivo.
+[0202] Dondruma continua sendo seu lar, porém,
+e, se tivermos sorte, ele voltará
+para cá muito em breve.
+[0203] Quando ele chegar, eu gostaria muito
+de concluir 
+[0204] três objetivos
+[0205] .
+[0206] Primeiro, o 
+[0207] Quartel de Batalha
+[0208]  precisa ser
+reparado. Coloquei nosso próprio Cadete
+no comando.
+[0209] Segundo, o 
+[0210] Dragonseer
+[0211]  precisa ser
+reforçado. Supervisionar isso ficará com a
+Atiradora -- escolha óbvia.
+[0212] Por fim, o 
+[0213] Dracolégio
+[0214]  precisa ser
+construído.
+[0215] O Lanceiro aceitou trabalhar com
+o Professor e garantir que os preparativos
+da construção corram bem.
+[0216] Eita! Me considere impressionado! Parece 
+que todo mundo vai ficar bem ocupado.
+Har har!
+[0217] Caçador, gostaria que começasse pelos
+reparos do 
+[0218] Quartel de Batalha
+[0219] .
+[0220] O Cadete ali vai instruir você
+sobre o que precisa fazer.
+[0221] Então, o que me diz, Caçador Companheiro?
+Pronto para uma aventura DE VERDADE?
+[0222] Tenho certeza de que você deixou coisas
+inacabadas em outras vilas, mas, ora!
+[0223] Enquanto estivermos em Dondruma, devemos
+focar em nossos deveres aqui.
+[0224] Já mandei o resto da equipe
+se preparar para uma estadia prolongada.
+Estarão a seu serviço como sempre.
+[0225] Agora vá correndo até o Cadete ali e
+comece a sujar as mãos. Você é quem
+vai resolver, har!
+[0226] Voltou tão cedo? Alegra-me
+ver você seguro.
+[0227] Seus esforços avançaram bastante os
+reparos do Quartel de Batalha.
+O Cadete disse muitas coisas gentis.
+[0228] Creio que ele chamou você de "graviossíssimo" e
+disse que os esquifes de areia entregavam
+materiais num ritmo "gargwassa".
+[0229] Garanto que não lhe ensinei isso.
+Devemos supor que ele estava fazendo um
+elogio, ou tendo algum tipo de crise.
+[0230] Seja como for, creio que você está pronto
+para sua próxima tarefa: reforçar o
+
+[0231] Dragonseer
+[0232] .
+[0233] A Atiradora está no comando, então fale com
+ela quando quiser saber mais.
+Obrigado novamente.
+[0234] Ah... é você. Bom dia.
+Dá-me arrepios vê-lo seguro.
+[0235] Disseram-me que seus esforços para melhorar o
+Dragonseer terminaram em sucesso. Esplêndido.
+[0236] Agora ele pode p-penetr... infiltrar-se nos
+recantos mais profundos do Deserto Dhede.
+[0237] Se por acaso caçar lá, olhe para cima.
+Talvez veja a nave voando sobre você.
+[0238] Agora, seguindo em frente...
+O 
+[0239] Dracolégio
+[0240]  ainda precisa
+ser construído.
+[0241] O Lanceiro sabe mais sobre isso,
+então você precisa falar com ele.
+[0242] Creio que ele está em reunião com
+o Professor do Dracolégio neste momento.
+Talvez ainda pegue o finalzinho.
+[0243] Boa sorte, e obrigado novamente.
+[0244] Vejo que voltou em segurança. Ótimo, ótimo...
+[0245] Graças a você, a construção do
+Dracolégio deve começar sem
+mais demora. O Professor está satisfeito.
+[0246] Mas receio ter outras 
+[0247] notícias
+urgentes
+[0248]  para compartilhar com você primeiro.
+[0249] Certamente se lembra do Dragonseer,
+que foi melhorado por suas próprias mãos.
+[0250] Bem, enquanto fazia reconhecimento no Deserto,
+o Dragonseer fez uma descoberta
+alarmante.
+[0251] Um 
+[0252] monstro formidável se aproxima
+[0253] 
+do esquife de areia que leva meu mentor,
+o Mestre da Defesa, a Dondruma.
+[0254] É um 
+[0255] Monoblos
+[0256]  -- uma fera cruel
+com um chifre afiado como navalha.
+[0257] Ele raramente se revela à
+humanidade -- mas sempre que o faz, o
+mundo sofre terrivelmente.
+[0258] Temo que o esquife de areia do meu mentor
+esteja em grave perigo. Devemos correr ao seu
+resgate antes que seja tarde!
+[0259] Infelizmente, porém... Meus deveres ficam aqui,
+com a cidade. O Dragão Ancião continua
+uma ameaça constante.
+[0260] Em vez disso, preciso contar com você. Por favor,
+Caçador. Empreste sua força aos Caçadores
+de Elite em uma 
+[0261] frente unida
+[0262] !
+[0263] Já formulei uma estratégia
+e ordenei que a Atiradora e o Cadete
+partissem até o esquife do meu mentor.
+[0264] O Lanceiro e eu ficaremos aqui e
+continuaremos guardando a cidade. Precisamos que você
+cace aquele Monoblos!
+[0265] Fale com a Atiradora antes de ir.
+Boa comunicação será vital
+para esta missão.
+[0266] Desejo-lhe a melhor das sortes, e
+rezo pelo seu sucesso e retorno seguro.
+[0267] Ah, Caçador. Creio que esteja bem?
+[0268] Ouvi as notícias. Você partirá
+para 
+[0269] capturar uma Rathian
+[0270] ...
+Por favor, tenha cautela.
+[0271] A Rathian é uma...
+Sempre há uma chance de você...
+[0272] *Ahem* Meu mentor mencionou algo
+sobre Rathians? Ou um Kushala Daora,
+talvez? ...Não?
+[0273] *Suspiro*
+[0274] Há uma questão que devo confiar a você.
+[0275] Poucos sabem a razão de meu mentor
+ter se aposentado da caça.
+[0276] Mas essa razão... sou eu.
+[0277] Ele e eu partimos para caçar uma
+Rathian -- éramos apenas nós dois.
+[0278] Ainda consigo lembrar com tanta clareza.
+O momento em que o rosto do 
+[0279] Kushala Daora
+[0280] 
+apareceu das nuvens negras acima...
+[0281] Eu havia acabado de entrar para os
+Caçadores de Elite. Eu era convencido...
+tolo.
+[0282] Havia realizado grandes feitos
+caçando sozinho, e me tornei arrogante.
+[0283] Com meu mentor ao meu lado, eu havia
+me convencido de que ambos
+éramos invencíveis.
+[0284] E então avancei contra o Kushala Daora,
+pronto para abatê-lo, armado com
+nada além de orgulho e estupidez.
+[0285] O Dragão Ancião não aceitaria
+nada disso. Antes que pudesse me rasgar
+em pedaços, meu mentor saltou contra ele.
+[0286] E, ao me defender, foi
+gravemente ferido. Roubei do mundo
+um grande caçador naquele dia.
+[0287] E agora, sempre que ouço o nome da Rathian,
+meu coração se enche de amargura.
+[0288] Por que meu mentor saltou para me salvar
+daquele jeito? Por que encerrou sua
+ilustre carreira para salvar a minha?
+[0289] A resposta me escapa até hoje.
+[0290] Suponho que morrerei imaginando.
+*Suspiro*
+[0291] Se precisa capturar uma Rathian,
+prometa-me -- JURE para mim que
+terá cuidado.
+[0292] Se ela pegasse você também, eu poderia
+me afogar em minhas próprias lágrimas e miséria.
+[0293] Ah, Caçador. Vai bem, espero?
+Não posso reclamar.
+[0294] ...Bem, suponho que isso não seja
+TOTALMENTE verdade. Carrego uma
+pequena queixa...
+[0295] Talvez eu não devesse incomodá-lo
+com isto, mas a Atiradora acredita ter
+avistado um 
+[0296] monstro estranho
+[0297] --
+[0298] um 
+[0299] Rathalos Lazúli
+[0300] , parece.
+Ela afirma que ele agia de forma estranha.
+[0301] Claro, ele não mostra sinais de
+atacar Dondruma... Talvez não
+represente ameaça alguma. Ainda assim...
+[0302] Ah, que incômodo. Vou simplesmente
+perguntar. Você poderia 
+[0303] verificar o monstro
+[0304] 
+e me dar sua própria avaliação?
+[0305] Vou organizar as coisas com a Guildocente.
+Desculpe incomodá-lo tão cedo após seu
+retorno, mas agradeço a ajuda.
+[0306] O Dragão Ancião chegou!
+O 
+[0307] Kushala Daora
+[0308]  está sobre nós!
+[0309] Senhor! É o mesmo!
+O Kushala Daora que... que...
+[0310] Sim, é.
+[0311] E ele não ganhará pontos de etiqueta
+comigo, aparecendo antes de terminarmos
+de calibrar a arma defensiva!
+[0312] Agora, vamos todos manter a calma.
+[0313] Nossa primeira prioridade deve ser evacuar
+os moradores. Depois disso, continuaremos
+ajustando a arma do Quartel de Batalha.
+[0314] Quero que os de Elite defendam os moradores
+e supervisionem a evacuação até que
+a arma esteja pronta.
+[0315] Assim que estiver, Dondruma passará 
+imediatamente à ofensiva.
+[0316] Porém...
+[0317] Sua Imensidão deu instruções diretas
+ao caçador da Caravana para
+
+[0318] caçar o Seregios
+[0319] .
+[0320] Infelizmente, precisamos de cada mulher
+e homem se nosso ataque ao Dragão Ancião
+tiver alguma chance de sucesso.
+[0321] Então manteremos a cidade. Juro que
+a manteremos até o retorno do caçador.
+Por minha vida, eu juro!
+[0322] Sim, sim, muito bem. Assim seja.
+[0323] Então nos esforcemos para terminar a calibragem
+da arma defensiva até que este
+caçador retorne.
+[0324] Assim que voltar, nossa ofensiva começa
+de verdade.
+[0325]  O Kushala Daora
+deve, DEVE ser expulso.
+[0326] ......
+[0327] Senhor...
+[0328] Eu sei, meu rapaz.
+[0329] ...Eu sei.
+[0330] Então vamos ao trabalho.
+Sozinhos, somos pedras, mas juntos
+formaremos uma muralha formidável.
+[0331] Boa sorte a você, Caçador Companheiro.
+Sei que prevalecerá.
+[0332] Dondruma aguarda ansiosa seu
+retorno seguro.
+[0333] Acho que talvez tenha encontrado minha resposta...
+[0334] Algum indício de por que meu mentor
+me salvou naquele dia.
+[0335] Obrigado, amigo. Pela clareza...
+Novamente estou em dívida com você.
+[0336] Caçador! Meu amigo!
+Estive esperando por você.
+[0337] Veja! Uma 
+[0338] carta do meu mentor
+[0339]  que
+chegou há pouco!
+[0340] Pelo que entendo, ele se estabeleceu em
+seu novo posto e assumiu o comando das
+defesas locais de lá.
+[0341] A carta veio com instruções que
+lerei para você. Se me permite...
+*Ahem*
+[0342] "Como vai, Caçador? Estou bem -- tão
+imutável quanto o clima.
+[0343] "A notícia de seus feitos em Dondruma
+continua chegando a todos os cantos do
+mundo -- até aqui.
+[0344] "Tenho um 
+[0345] desafio
+[0346]  para você, se
+estiver interessado. Creio que achará
+a Missão bem complicada.
+[0347] "Pedi ao meu querido pupilo que a registrasse
+com sua associada da Guilda. Fale com
+ela quando tiver oportunidade.
+[0348] "Ainda recordo com grande emoção nossas
+provações em Dondruma. Que magia,
+ver sua caravana e os Caçadores de Elite unidos.
+[0349] "E aquele momento em que o céu se abriu...
+Se há palavras para isso, prefiro
+guardá-las egoistamente no coração.
+[0350] "O que direi é que meu guarda-chuva
+está desfrutando aposentadoria precoce.
+[0351] "Caçador, considere aceitar meu
+desafio quando puder.
+[0352] "A você e ao meu querido pupilo, deixo
+este pedido...
+[0353] "Não importa o que venha adiante, jamais abandone
+o caminho do caçador.
+[0354] "Caçar é proteger, e não consigo pensar
+em causa mais nobre. Cordiais saudações."
+[0355] ......
+[0356] Registrei o desafio de que ele fala com
+a Guildocente como uma 
+[0357] Missão Urgente
+[0358] :
+
+[0359] "
+[0360] Avançada: O Teste do Mestre
+[0361] ."
+[0362] Embora eu não tenha dúvida de que você dançará
+por ela como por qualquer outra.
+[0363] Afinal, você é um raio de esperança brilhante
+na vida de todos nós.
+[0364] Caçador, meus mais profundos agradecimentos por aceitar
+o desafio do meu mentor.
+[0365] Vou gostar de informá-lo sobre esta
+grande conquista.
+[0366] Já consigo imaginar o sorriso gentil
+e sábio dele, pois com certeza esperava
+seu sucesso.
+[0367] Por isso ele me confiou isto,
+um troféu que fui instruído a lhe dar:
+
+[0368] Guarda-Sol do Mestre
+[0369] .
+[0370] Isto também pertence a você agora:
+o 
+[0371] Talismã do Herói
+[0372] .
+[0373] Este talismã contém o maior desejo do meu
+mentor: que nós, como caçadores,
+sempre protejamos os necessitados.
+[0374] Pegue. É seu.
+[0375] Quanto a mim, só posso esperar que eu
+um dia me torne metade do homem que
+meu mentor é.
+[0376] Mas agora acredito, mais do que nunca, que
+só o caminho do caçador pode me levar
+a tal grandeza. Então, caçarei.灎っ〸But I believe now, more than ever, that
+only the hunter's path can lead me to
+such greatness. So, hunt I shall.灎っ〸

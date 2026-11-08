@@ -1,0 +1,831 @@
+﻿[0000] Dundorma está no meio dos
+reparos. Acho que não há muito que
+possamos fazer...
+[0001] Mas vá em frente e dê uma olhada
+por aí, se quiser.
+[0002] A maioria das instalações locais parece
+fora de serviço, mas a Assembleia
+ainda está funcionando.
+[0003] A entrada fica logo à direita daquela
+grande escadaria de pedra à sua frente.
+[0004] Não há nada que possamos fazer por Dundorma
+agora. Não se preocupe -- eles pedirão
+ajuda quando precisarem. Har!
+[0005] Agora seria uma boa hora para terminar
+qualquer outro assunto que tenha em outro lugar.
+[0006] O Cadete de Elite parece estar encarregado
+dos reparos no Quartel de Batalha.
+[0007] Que tal falar com ele primeiro?
+Vá, dê o fora!
+Não finja que não está empolgado.
+[0008] Certo. Primeiro o mais importante. Precisamos
+consertar o Quartel de Batalha. Gosto de um
+bom desafio!
+[0009] Notou a Missão Urgente para caçar
+um Hermitaur Daimyo?
+[0010] Será sua primeira vez nesses
+campos de caça, então vá preparado.
+[0011] O Quartel de Batalha é tão importante para
+Dundorma quanto o Salão Ancião e a
+Assembleia.
+[0012] Sem o Quartel de Batalha, a cidade não tem
+como se defender contra monstros.
+Seria esmagada até virar panqueca.
+[0013] Não podemos deixar o pilar da defesa deles
+em ruínas, podemos? Har har!
+[0014] O que foi agora?
+Assuntos inacabados em outro lugar?
+[0015] Bem, acho que é sua escolha como
+equilibrar seu trabalho aqui em Dundorma e
+seus outros afazeres.
+[0016] Mas, se fosse eu, iria querer focar na
+tarefa diante de mim. Viemos até aqui,
+afinal.
+[0017] Bem-vindo de volta, Caro Caçador! E com
+tão poucos arranhões. Har! Os reparos do
+Quartel de Batalha estão indo muito bem.
+[0018] O Comandante de Elite teve a gentileza de
+preparar seu próximo trabalho. Vá logo!
+Ele está esperando por você.
+[0019] Boas vindas de volta, Caro Caçador! E com
+tão poucos hematomas. Har! Os reparos do
+Quartel de Batalha estão indo muito bem.
+[0020] A Atiradora estava procurando por você.
+Vocês dois já tiveram chance de conversar?
+[0021] A seguir: melhorar o Dragonseer.
+Você precisa caçar um Congalala Esmeralda, certo?
+[0022] Ideia bem esperta, usar gde Elite de Conga
+no dirigível, hein? Te cheiro depois!
+Har har!
+[0023] O que foi agora?
+Assuntos inacabados em outro lugar?
+[0024] Bem, acho que é sua escolha como
+equilibrar seu trabalho aqui em Dundorma e
+seus outros afazeres.
+[0025] Mas, se fosse eu, iria querer focar na
+tarefa diante de mim. Viemos até aqui,
+afinal.
+[0026] Bem-vindo de volta, Caro Caçador! E com
+tão poucos arranhões. Har! A melhoria do
+Dragonseer está indo muito bem.
+[0027] O Comandante teve a gentileza de
+preparar seu próximo trabalho. Vá logo!
+Ele está esperando por você.
+[0028] Bem-vindo de volta, Caro Caçador! E com
+tão poucos hematomas. Har! Os reparos do
+Quartel de Batalha estão indo muito bem.
+[0029] O Lanceiro estava procurando por você.
+Vocês dois já tiveram chance de conversar?
+[0030] O Dracolégio ainda vai demorar
+um pouco para ficar pronto, mas devemos fazer o que pudermos
+para ajudar a juntar materiais de construção.
+[0031] Você deve caçar dois monstros em
+sequência, certo? Um Cephadrome E uma
+Nerscylla? Har! Boa sorte.
+[0032] O Cephadrome...
+É um monstro grande que vive em
+áreas arenosas.
+[0033] Ele nada por baixo da areia e
+então salta para agarrar sua presa.
+[0034] Mas acho que você provavelmente conseguiria 
+atraí-lo para fora com uma Bomba 
+Sônica. Tente!
+[0035] Não sei você, Caro Caçador,
+mas mal posso esperar para o Dracolégio
+ficar pronto.
+[0036] Imagine as pesquisas que farão!
+Os resultados incríveis que alcançarão!
+[0037] Ora, quem sabe que fatos úteis
+poderíamos aprender com eles!
+[0038] O Dracolégio ainda vai demorar um pouco 
+para ficar pronto, mas devemos fazer o possível
+para ajudar a juntar materiais de construção.
+[0039] Você deve caçar dois monstros em
+sequência, certo? Um Cephadrome E uma
+Nerscylla? Har! Boa sorte.
+[0040] O Mestre da Defesa deve
+voltar a qualquer momento.
+[0041] Tanto os Caçadores de Elite quanto os
+moradores parecem muito empolgados.
+[0042] Por mim, ótimo. Mais um motivo para
+abrir as bebidas quando ele
+chegar. Har!
+[0043] Olha quem ainda está inteiro! Vejo que
+você já terminou de coletar materiais
+de construção para o Dracolégio.
+[0044] Eu diria "vamos começar", mas surgiu
+um assunto mais urgente -- ou seja,
+um monstro lendário!
+[0045] O Comandante de Elite tem os detalhes, se
+estiver interessado. Vá logo!
+[0046] Qual é o problema? Ah, ouviu da
+Atiradora o que estamos enfrentando?
+[0047] Não culpo você por ficar apreensivo.
+O Mestre da Defesa está em perigo, e
+você enfrentará um Monoblos.
+[0048] O Monoblos vai ser um tantinho
+complicado de lidar.
+[0049] Esses monstros raramente são vistos, mas
+quando aparecem, deixam uma bela
+bagunça no caminho.
+[0050] Você também não vai querer estar em cima dele
+quando ele explodir para fora da areia.
+Seria um fim terrível, com certeza.
+[0051] Mas todo caçador de verdade precisa derrubar
+ao menos um Monoblos, então vá com
+tudo que tem. Har har!
+[0052] Depois que caçar o Monoblos,
+aqueles dois Caçadores de Elite devem voltar
+com o Mestre da Defesa.
+[0053] Então poderemos realmente começar a
+fortificar a cidade. Agora vá lá,
+porque você é quem vai resolver!
+[0054] A propósito, Caro Caçador...
+Aquelas nuvens...
+[0055] Já as vi antes, e digo uma coisa:
+essas fofinhas não são seus
+cirros ou cúmulos comuns. Hmmm...
+[0056] Belo trabalho em equipe, Caro Caçador! Que bom que
+não perdeu nenhum dedo ou dente no
+processo. Har!
+[0057] Enfim, esta é a Assembleia.
+[0058] O 
+[0059] Viajante Cansado como-é-o-nome-dele
+[0060] 
+lá dentro tem um pedido urgente para você. Vá ver
+do que ele precisa.
+[0061] Olhe para seu trabalho e se orgulhe!
+Agora que o Mestre da Defesa voltou,
+Dundorma está cheia de vigor e energia!
+[0062] Todo mundo quer contribuir e fazer
+algo pela cidade. Recebemos
+um monte de pedidos só para você!
+[0063] Você se importaria de começar com aquele
+Viajante Cansado como-é-o-nome-dele?
+Ele foi o primeiro a pedir.
+[0064] Pelo que me lembro, ele precisava que um Khezu
+fosse caçado, ou que uma Pedra-Pólvora fosse entregue,
+ou algo assim.
+[0065] Então um Kushala Daora está voando
+em direção à cidade, o que pede algum
+tipo de arma defensiva...
+[0066] Imagino o que o Mestre da Defesa
+tem em mente.
+[0067] Eu sabia que ele era especialista em manobras
+defensivas, mas não fazia ideia de que ele projetava
+armas pessoalmente.
+[0068] O Lanceiro me disse que o Mestre da
+Defesa aguenta bem a bebida.
+[0069] Digo que resolvemos isso com uma competição. 
+Har!
+[0070] Fico feliz que tenha voltado, Caro Caçador.
+Torção em algum tornozelo por aí? Har!
+[0071] O Cozinheiro de Rua estava procurando por você.
+Acho que ele tem um favor a pedir.
+[0072] O que o Cozinheiro de Rua queria?
+Ah, ele quer ingredientes de primeira?
+E você precisa caçar uma Rathian Rosa?
+[0073] ISSO sim é um pedido de prato completo. Boa
+comida vai animar os moradores --
+se os quilinhos extras não pesarem!
+[0074] Hmm... Estamos atrasados com
+a ativação do Dracolégio.
+Caramba, a assistente nem voltou ainda.
+[0075] É preciso ter muita coragem para deixar
+seu empregador esperando! Acho que ela e eu
+vamos nos dar esplendidamente. Har!
+[0076] Você ouviu? O Comandante de Elite não consegue
+lidar com Rathians. Não tem
+estômago para caçá-las.
+[0077] O sujeito vive e respira as palavras
+"missão cumprida", mas parece que até
+ele tem seus pontos fracos. Har!
+[0078] Parece que a Assistente de Pesquisa ficou
+presa na Estepe Ancestral.
+[0079] O Dracolégio não pode continuar seu trabalho
+sem ela. E isso não é bom,
+é? Har!
+[0080] Vá caçar aquela Rainha Seltas e traga
+a assistente para casa!
+[0081] Ouvi dizer que os planos da arma defensiva
+já estão todos prontos.
+[0082] O Homem e a Pequena Srta. fizeram um
+trabalho de primeira, se quer minha opinião. Certamente
+se perguntar a ela! Har!
+[0083] Agora precisamos pôr as mãos nos
+materiais certos. Mal posso esperar para ver como
+a obra-prima deles vai ficar!
+[0084] Finalmente, o Dracolégio está funcionando!
+[0085] Acho que este é um motivo tão bom quanto qualquer outro
+para comemorar. E acredite, já pensei
+em todos. Har har!
+[0086] Acontece que eu tenho um profundo fascínio
+próprio pelo Frenesi.
+[0087] Tantos mistérios. Tantas teorias ainda não
+marteladas em fatos!
+[0088] A Guilda costumava chamá-lo de vírus, por
+exemplo, porque era o que parecia --
+mas não é, certo?
+[0089] Não consigo evitar sentir que há um segredo
+mais profundo e mais sombrio se contorcendo em algum lugar
+sob a superfície.
+[0090] Não posso provar, claro...
+Mas quando os pelos do meu peito formigam, geralmente
+estou no caminho de algo.
+[0091] O que vem a seguir para você?
+...Combustível para a arma defensiva?
+Você precisa capturar uma Rathian?
+[0092] Ora, isso é bem intrépido da sua parte.
+Boa sorte! Você é quem vai resolver!
+[0093] Um Seregios?!
+[0094] Essas coisas só habitam áreas
+muito específicas. Eles lutam por território
+para provar dominância entre os seus.
+[0095] Os perdedores viram párias, e uma vez
+expulsos de seu habitat natural,
+ficam fracos e morrem.
+[0096] Em outras palavras, você normalmente não vê
+Seregios sozinho. Simplesmente não está
+na biologia deles.
+[0097] Então dá para entender como é estranho
+que eles comecem a aparecer fora
+do habitat normal.
+[0098] Deve haver um motivo, mas os
+únicos que consigo arrancar do
+grupo de gênios não são nada bonitos...
+[0099] Hmm... Eu devia ter imaginado.
+Faz sentido.
+[0100] A vida quer viver; não é natural
+algo destruir a si mesmo.
+[0101] A menos que... Sempre existe um "a menos que".
+Hmm...
+[0102] Bela caçada, Caro Caçador!
+Bem-vindo de volta.
+[0103] O Mestre da Defesa estava preocupado
+com você. Vá avisar que está são
+e salvo.
+[0104] Bela caçada, Caro Caçador!
+Bem-vindo de volta.
+[0105] Mestre Ferramenta deve ter ficado muito
+impressionado, porque quer pedir
+um favor a você.
+[0106] Bela caçada, Caro Caçador!
+Hora de voltar a lidar com
+aquele dragão ancião.
+[0107] O que Mestre Ferramenta queria, afinal?
+Ah, uma caçada ao Gravios Tétrico?
+[0108] Bem, vá lá e mostre a esse
+monstro quem manda! Har!
+[0109] Quero comemorar, mas não consigo tirar
+uma coisa da cabeça: aquele dragão ancião
+visitará a cidade de novo.
+[0110] E ainda não sabemos absolutamente nada
+sobre por que o Seregios apareceu.
+[0111] Tudo que posso dizer é que sinto que há
+um segredo mais sombrio e mais profundo esperando
+para ser descoberto...
+[0112] Já senti isso antes... O que era?
+[0113] Que bom ver você vivo, Caro Caçador.
+Como foi a caçada ao Gravios Tétrico?
+[0114] O Comandante de Elite estava procurando por você.
+Vocês dois já tiveram chance de conversar?
+[0115] O que foi agora?
+Um Rathalos Lazúli está agindo estranho?
+Você precisa verificar? Hmm...
+[0116] Não vou questionar os palpites da
+Atiradora. São tão certeiros quanto
+a mira dela.
+[0117] E, de todo modo, melhor prevenir que remediar.
+Tenha cuidado lá fora. Você é quem vai
+resolver!
+[0118] Ora, que surpresa! Um Seregios 
+e um Rathalos Lazúli
+se enfrentando?
+[0119] O Seregios é um voador talentoso com
+pernas poderosas.
+[0120] Dizem que é o único rival ao trono do
+Senhor dos Céus, e pelo que você viu,
+talvez estejam certos.
+[0121] O Lanceiro entende de biologia tão bem quanto
+entende de caça. Não se encontra
+muitos como ele.
+[0122] Esse é o principal motivo por que ele foi escolhido 
+para a missão do Gore Magala e para esta.
+[0123] Trabalho de campo com monstros perigosos exige
+conhecimento acadêmico E habilidade de combate.
+[0124] Enfim, precisamos planejar os pormenores
+do trabalho de campo antes que aqueles
+dois peguem a estrada.
+[0125] Vá em frente e termine
+"O Rugido Ecoante". Garanta que
+as minas estejam bem seguras. Har har!
+[0126] Você voltou, Caro Caçador!
+Belo trabalho caçando aquele Tigrex Bruto
+sem acabar morto. Har!
+[0127] O desenvolvimento da arma defensiva chegou
+à reta final. O Mestre da
+Defesa vai te contar tudo.
+[0128] Então, o desenvolvimento da arma defensiva
+chegou à reta final...
+[0129] Todos nós devemos nos orgulhar por termos ficado
+juntos e dado conta, mesmo que
+o dragão ancião possa vir a qualquer momento.
+[0130] Agora, precisamos arranjar uma fonte de energia
+para o Demolidor.
+Boa sorte caçando o Zinogre Tenebroso. Har!
+[0131] O Lanceiro e o Cadete? Eles levaram alguns
+caçadores novatos e saíram para fazer
+trabalho de campo. Mandaram lembranças.
+[0132] Tudo que podemos fazer agora é esperar boas notícias.
+Só tenha paciência.
+[0133] Sei que há muito no que pensar, mas
+vá até o 
+[0134] Dracolégio
+[0135] 
+por enquanto. Eles fizeram uma descoberta.
+[0136] Deixe que eu me preocupe com os monstros frenéticos.
+Hmm...
+[0137] Se monstros frenéticos ainda estão por aí,
+então isso significa que chegamos tarde demais para impedir
+o Frenesi de se espalhar.
+[0138] Mas o Shagaru Magala já se foi há muito.
+Então o que mais poderia manter a
+aflição ativa?
+[0139] Tem que ser alguma coisa, porque
+não pode ser nada!
+[0140] Acho que há valor em entender por que
+os monstros frenéticos apareceram em
+primeiro lugar.
+[0141] Mas pensar não vai nos dar essas
+respostas -- o Lanceiro vai. E ficarei
+bem aqui esperando até que ele faça isso.
+[0142] Bem-vindo de volta, Caro Caçador! Belo trabalho
+caçando aquele Brachydios. Seus talentos ocultos
+nunca deixam de surpreender.
+[0143] A propósito, o Lanceiro enviou uma carta.
+Por que não vai ouvir o que o
+Mestre da Defesa tem a dizer?
+[0144] A Guildocente disse que terminou
+de pensar demais.
+[0145] Talvez ela esteja certa. Os mistérios do mundo
+não vão a lugar nenhum!
+[0146] Melhor deixá-los de lado e focar na
+tarefa em mãos. Agora vá logo!
+Você é quem vai resolver!
+[0147] O Lanceiro é o tipo de sujeito
+que fica para trde Elite e segura o perigo
+enquanto os companheiros escapam.
+[0148] Mas, quando todos estão seguros, ele sempre
+consegue voltar também. Não duvide disso.
+[0149] Um Seregios Superior...
+Não poderia haver momento pior.
+[0150] Bem, vá lá.
+Estaremos esperando seu retorno
+em segurança, como sempre.
+[0151] Afinal, você é quem vai
+resolver!
+[0152] O céu parece totalmente inóspito,
+não parece? É o dragão ancião que
+invoca as nuvens assim.
+[0153] Agora, ou impedimos a tempestade que
+está chegando... ou não.
+[0154] Juntos, evitamos mais uma
+crise! Olhe só aquele céu azul limpo...
+[0155] Que recompensa melhor para o trabalho duro
+de todos protegendo a cidade?
+[0156] Você mandou bem, Caro Caçador.
+Mandou MUITO bem.
+[0157] Uma pena que o Mestre da Defesa teve que
+seguir adiante. Eu ia brindar a ele com uma
+última bebida.
+[0158] Mas ora! Somos uma caravana.
+Somos A Caravana. Vamos esbarrar nele
+em algum ponto da estrada.
+[0159] Sem tempo para lamentar despedidas quando ainda
+há tanto a fazer. Har!
+[0160] Para onde devemos ir? Que objetivo elevado
+devemos perseguir agora? Tantas opções.
+Har!
+[0161] Você me conhece, Caro Caçador! Não consigo
+ficar parado. Tenho uma compulsão com 
+um C colossal por aventura. Har!
+[0162] É isso que dá beber até
+cair com os moradores...
+[0163] Temos que recuperar aqueles projetos
+para o Cara. Desculpe colocá-lo nessa
+encrenca!
+[0164] O Cara não é o tipo de sujeito que fica
+bravo, mas nas MUUUITO raras ocasiões
+em que mostra as presas, não é bonito.
+[0165] Tenho muita sorte de estar cercado
+por tanta gente capaz. Estão sempre
+me ajudando.
+[0166] Como começo a agradecer a eles?
+...Bebidas?
+[0167] Para onde agora? O que vou realizar?
+Já esbarrei nessas perguntas antes.
+[0168] E, como sempre, encontrarei
+minhas respostas. Meio como você
+sempre encontra sua próxima caçada.
+[0169] Os Caçadores de Elite ainda estão sediados em
+Dundorma, mas todos receberam
+novas ordens. Ocupados, ocupados, ocupados!
+[0170] Mas é assim que a vida deve ser.
+Uragaan que rola não cria
+Musgo de Dragonete, como sempre digo. Har!
+[0171] Caro Caçador, você já viu a
+anotação da Guildocente sobre o
+Monoblos?
+[0172] Ao lado de todos os detalhes de sempre, ela escreveu
+o nome do caçador que derrubou a
+fera sozinho: você!
+[0173] É uma boa leitura, e isso vem de
+um leitor enrustido. Har!
+[0174] ...O que foi, Caro Caçador?
+Quer saber quais são meus planos para
+amanhã?
+[0175] Então me pergunte amanhã. Nunca sei o que
+vou cozinhar até já estar na
+panela e meio fervendo. Har har!
+[0176] Bem-vindo de volta, Caro Caçador!
+Algum dodói? Har har!
+[0177] ...Hã? Você diz que já vai sair para caçar
+de novo? Bem, não vou impedi-lo.
+Voe pelos céus e não olhe para trde Elite!
+[0178] Só garanta que vai voltar! E em
+um pedaço só, ou você e eu teremos uma conversa.
+[0179] ...O que foi, Caro Caçador?
+Eu e o Homem?
+[0180] Bem, conheço ele há eras.
+Nem consigo lembrar como
+nos conhecemos.
+[0181] O tempo e as bebidas cobram seu preço.
+Har har!
+[0182] Então, o que gostaria de enfrentar
+agora? Para onde devemos ir?
+[0183] Já cheguei a esta encruzilhada algumas vezes.
+É uma sensação boa, como subir uma
+montanha e avistar mais uma dúzia.
+[0184] Claro, também deixa você inquieto. E se
+escolher a montanha errada? Será que
+vai conseguir? Mas é aí que mora a aventura.
+[0185] Saí para beber com o Mestre
+da Defesa algumas vezes agora. Ele prefere
+bebidas da variedade oriental.
+[0186] Coisa forte, aquilo. Falei sem parar
+até o amanhecer, mas não consigo
+lembrar metade do que disse.
+[0187] Acho que vou ter que tentar
+recriar a experiência. Har!
+[0188] Para onde devemos ir? Que objetivo elevado
+devemos perseguir agora? Tantas opções.
+Har!
+[0189] Você me conhece, Caro Caçador! Não consigo
+ficar parado. Tenho uma compulsão com 
+um C colossal por aventura. Har!
+[0190] Vai caçar com amigos? Estarei aqui
+quando estiver pronto para voltar com calma.
+Boas trilhas!
+[0191] Boas trilhas! Estaremos bem aqui
+quando você voltar com calma.
+[0192] Dundorma... Não consigo lembrar a
+última vez que visitei.
+[0193] A cidade sofre ataques constantes de
+monstros -- talvez por causa de sua localização?
+[0194] A investida mais recente virou a
+cidade de cabeça para baixo. Eles ainda estão 
+[0195] trabalhando
+nos reparos
+[0196] .
+[0197] A 
+[0198] Assembleia
+[0199]  continua operante, mas
+a maioria das outras instalações está
+fora de serviço.
+[0200] Acho que não há muito que possamos fazer,
+mas vá em frente e dê uma olhada
+por aí, se quiser.
+[0201] Psiu! Caro Caçador!
+Isto aqui é a 
+[0202] Assembleia
+[0203] .
+[0204] A Diva lá dentro vai presentear você com
+umas belas melodias, e eles também cuidam
+do registro da Arena no local.
+[0205] Aquele 
+[0206] sujeito cansado
+[0207]  que quer pedir
+um favor decidiu se refugiar
+aqui por enquanto.
+[0208] Vocês dois já bateram um papo?
+Har har!
+[0209] Bom ver você são e salvo,
+Caro Caçador! E falo sério.
+[0210] Nem em um milhão de anos eu esperava
+AQUELE cliente chegando de surpresa.
+[0211] Aquela coisa era um dragonete voador conhecido como
+um 
+[0212] Seregios
+[0213] .
+[0214] Biologicamente falando, não faz sentido nenhum
+encontrar um tão longe de seu
+habitat natural...
+[0215] Deve haver um motivo -- e pretendo
+descobrir qual é.
+[0216] Oh! E antes que eu esqueça.
+[0217] Depois de todo aquele trabalho duro, você teve que
+abandonar a Missão, e isso simplesmente não é
+justo, é?
+[0218] O pessoal da cidade contribuiu para que pudéssemos
+dar a você um pequeno prêmio de consolação.
+[0219] Especificamente, é zenny de consolação e
+alguns materiais de monstro de consolação. Har!
+[0220] Sei que não é muito, mas o que você
+espera de um monte de trocados? Har!
+[0221] É a intenção que conta, porém,
+e acho que foi uma atitude bem atenciosa.
+[0222] A seguir: algumas 
+[0223] Mega Poções
+[0224] .
+Estas são de nós, da Caravana C Colossal.
+[0225] Afinal, não queremos que você saia
+se sentindo decepcionado.
+[0226] Todo mundo correu para o campo
+para coletar Ervas, Cogumelos Azuis e
+Mel antes de você voltar. Har!
+[0227] Espero que elas animem seu espírito.
+No mínimo, são saborosas! Har!
+[0228] Ah! Parece que tudo está pronto.
+Que tal ir falar com a
+Guildocente?
+[0229] Monstros frenéticos? Que bobagem...
+[0230] Fico menos irritado com eles do que 
+com o que quer que esteja fazendo eles 
+aparecerem em primeiro lugar.
+[0231] Se aquelas criaturas ainda estão aparecendo,
+então significa que chegamos tarde demais para impedir
+o Frenesi de se espalhar.
+[0232] O Shagaru Magala já deve ter
+infectado os monstros por onde passou a caminho
+do Monte Celeste.
+[0233] A questão é que monstros que contraem o Frenesi
+não deveriam viver muito...
+[0234] Então por que a aflição ainda está se espalhando
+sem um Shagaru Magala para espalhá-la?
+[0235] Tem que haver 
+[0236] outra coisa
+[0237] 
+lá fora.
+[0238] Enfim, é por aí que minha mente
+tem vagado. Sinto que há um segredo sombrio
+se contorcendo em algum lugar...
+[0239] Har! Você É uma maravilha viva.
+[0240] Não importa em que perigo o mundo
+jogue você, e não importa contra que monstro o destino
+coloque você...
+[0241] Bem, você sempre volta para casa inteiro,
+não é, Caro Caçador?
+[0242] Pelo que vejo, o mundo deveria
+tirar uma lição do seu livro. Afinal,
+todos enfrentamos obstáculos.
+[0243] E por "todos", não quero dizer só pessoas.
+Vilas, cidades, reinos inteiros --
+[0244] até a história como um todo encontra buracos
+na estrada. Mas, se passarmos por esses
+obstáculos, uma doce recompensa nos espera.
+[0245] Que tipo de recompensa? Bem, suponho
+que você precise superar os obstáculos para
+descobrir. Har har!
+[0246] E, nesse ponto, eu diria que já passou da hora
+de partirmos para o 
+[0247] Quartel de Batalha
+[0248] .
+[0249] O lugar foi construído com o propósito
+de mandar monstros invasores
+correndo direto de volta para as colinas.
+[0250] Assim que a batalha começa, esta área
+central comum se transforma em um
+
+[0251] acampamento-base improvisado
+[0252] .
+[0253] Então os caçadores seguem por 
+[0254] este portão para
+deter monstros no caminho antes que
+entrem. Entendeu? Ótimo!
+[0255] Então vamos dar conta.
+[0256] 
+
+[0257] Pronto para repelir o Kushala Daora?
+[0258] Certo. Vejo você do outro lado
+desse obstáculo metafórico. Har!
+E lembre-se...
+[0259] Você é quem vai e faz acontecer!
+[0260] Tudo bem. Sem pressa. Afinal, é melhor ir
+bem preparado. Venha me chamar
+quando estiver pronto de verdade.
+[0261] Certo, Caro Caçador.
+Vamos dar conta!
+[0262] Pronto para repelir o Kushala Daora?
+[0263] Certo. Vejo você do outro lado
+desse obstáculo metafórico. Har!
+E lembre-se...
+[0264] Você é quem vai resolver!
+[0265] Tudo bem. Sem pressa. Afinal, é melhor ir
+bem preparado. Venha me chamar
+quando estiver pronto de verdade.
+[0266] Har! Dê uma olhada NISSO,
+Caro Caçador? Um céu azul grande e lindo
+e um sol brilhante batendo...
+[0267] Isto aqui é Dundorma mostrando
+suas verdadeiras cores. E ela deve tudo a você
+e aos Caçadores de Elite.
+[0268] Tudo isso me levou a uma conclusão:
+a vida é uma dor no couro!
+[0269] Só passar de um dia para o outro já é
+uma coisa boa, não se engane -- mas exige
+esforço de verdade.
+[0270] Você não passa pela vida só
+comendo, dormindo, bebendo e
+rindo -- embora eu tente. Har!
+[0271] Nossa vida é construída sobre suas próprias
+complexidades, e isso é uma bela coisa.
+[0272] Enfim, o Salão Ancião e a
+Guilda queriam que você ficasse com isto.
+[0273] Vê a inscrição? "Ao bravo defensor de
+Dundorma, cujas conquistas serão
+a pedra angular de grandes feitos."
+[0274] Aqui está. É seu.
+Você deve se orgulhar muito.
+[0275] Sei que estou orgulhoso de você,
+Caro Caçador. Conhecer você mudou 
+minha vida.
+[0276] Ora, provavelmente vai mudar minha
+PÓS-vida. Algumas amizades simplesmente
+duram para sempre. Har!
+[0277] Maldição, para onde aquelas coisas danadas
+foram...?
+[0278] Oh! Caro Caçador. Pode me ajudar?
+[0279] Eu talvez tenha ou talvez não tenha bebido,
+e parece que perdi alguns, uh,
+documentos importantes...
+[0280] Eram os 
+[0281] projetos de alguns novos
+equipamentos
+[0282]  que o Cara desenhou.
+[0283] Pelo que entendi, ele queria 
+[0284] redesenhar
+uma peça específica de equipamento
+[0285]  para você ter uma
+chance melhor de luta contra monstros.
+[0286] Eu devia revisar 
+[0287] três páginas
+[0288] 
+dos projetos e esclarecê-lo com
+minha opinião.
+[0289] Mas as páginas tinham sumido quando acordei
+esta manhã. Devem ter sido levadas
+pelo vento. E acredite, eu procurei!
+[0290] Perguntei à Atiradora, e ela conseguiu
+localizar uma das páginas.
+[0291] Mas está bem no coração do covil de um vil
+
+[0292] Seltas do Deserto
+[0293] .
+[0294] O lugar é uma zona proibida -- a maioria
+dos caçadores não tem a menor chance de entrar
+lá para rastrear as outras páginas.
+[0295] Então, uh, Caro Caçador! Convenci a
+Guilda a deixar você entrar...
+[0296] Acha que poderia caçar o Seltas do Deserto?
+Eu junto os projetos desaparecidos enquanto
+você o distrai.
+[0297] O Homem não é o tipo de sujeito que fica
+bravo, mas uma vez a cada dez anos ou algo assim
+ele mostra as presas... e não é bonito.
+[0298] A Missão que registrei se chama:
+
+[0299] "
+[0300] Guerreiro do Ermo
+[0301] ."
+A Guildocente vai preparar você.
+[0302] Uma página por vez, eu acho!
+Se sobreviver a isso, podemos nos preocupar com
+as outras.
+[0303] Você conseguiu, Caro Caçador! Eu sabia
+que conseguiria. Graças a você, consegui
+pegar uma das páginas desaparecidas do projeto.
+[0304] Considere meu couro salvo. Eu estava preocupado
+que talvez tivesse que pedir ao Comandante de Elite e
+encarar uma bronca do crepúsculo ao amanhecer. Har!
+[0305] A Atiradora está rastreando a
+segunda página neste exato momento. Pode demorar
+um pouco mais, então aguente firme.
+[0306] Você será o primeiro a saber quando
+tivermos uma pista.
+[0307] Tenho muita sorte de estar
+cercado por tanta gente capaz!
+Har har!
+[0308] Encontramos, Caro Caçador!
+A 
+[0309] segunda página dos projetos
+[0310] !
+[0311] Acabei de receber notícias da Atiradora.
+Ela caiu em algum lugar dentro do
+
+[0312] território de Seregios
+[0313] .
+[0314] O que é uma notícia infeliz, considerando
+que os Seregios dali são mais fortes
+e mais cruéis que os párias.
+[0315] É triste dizer, mas só os melhores caçadores
+seriam capazes de entrar e sair de lá...
+*piscadela*
+[0316] O que me diz? Vai me ajudar?
+[0317] Vou juntar os projetos desaparecidos enquanto
+você caça o Seregios.
+[0318] Registrei uma Missão chamada:
+
+[0319] "
+[0320] 1000 Espadas Cintilantes
+[0321] ."
+A Guildocente vai preparar você.
+[0322] Os projetos estarão reunidos em
+pouquíssimo tempo... Posso sentir! Har!
+[0323] Você conseguiu, Caro Caçador! Eu sabia
+que conseguiria. Graças a você, consegui
+pegar a segunda página desaparecida do projeto.
+[0324] Eu estava preocupado que teria de pedir ao Cadete de Elite
+para ajudar e acabaríamos invadindo tudo como
+tolos tentando recuperá-la nós mesmos!
+[0325] A Atiradora está rastreando a
+terceira página neste exato momento. Pode demorar
+um pouco mais, então aguente firme.
+[0326] Você será o primeiro a saber quando
+tivermos uma pista.
+[0327] Tenho muita sorte de estar
+cercado por tantos indivíduos capazes.
+Har har!
+[0328] Encontramos, Caro Caçador!
+A 
+[0329] última página dos projetos
+[0330] !
+[0331] Acabei de receber notícias da Atiradora.
+Infelizmente... Como posso dizer...
+[0332] A página ficou presa em um
+
+[0333] espinho de Dah'ren Mohran
+[0334] .
+[0335] Não consigo evitar sentir que já passamos
+por esse caminho antes... Enfim.
+[0336] O Dah'ren Mohran está se aproximando de
+Dundorma enquanto falamos. Precisamos
+fazer algo, já!
+[0337] O Dah'ren Mohran poderia esmagar
+Dundorma com uma única barrigada.
+[0338] Então veja, é do interesse de todos que
+você o afugente. A cidade fica
+segura, os projetos ficam seguros...
+[0339] Dois Gargwas com uma pedra só!
+[0340] Registrei uma 
+[0341] Missão Urgente
+[0342]  chamada:
+
+[0343] "
+[0344] Avançada: Movendo Montanhas
+[0345] ."
+A Guildocente vai preparar você.
+[0346] Vá pegá-los, Caro Caçador! Salve o
+dia... e salve meu traseiro mais uma vez!
+[0347] Você conseguiu, Caro Caçador! Eu sabia
+que conseguiria.
+[0348] Graças a você, Dundorma está segura e
+eu consegui pegar a última página desaparecida
+dos projetos.
+[0349] Você salvou uma bela fatia do meu couro.
+Har! Nem consigo começar a dizer
+o quanto sou grato.
+[0350] Mas boas notícias: o Homem deve conseguir
+terminar aquele 
+[0351] equipamento turbinado
+[0352]  agora.
+[0353] Não esqueça de passar pela Forja.
+[0354] Contei ao Lanceiro sobre seus últimos
+feitos e ele me deu uma bronca.
+Disse que coloquei você em perigo demais. Har!
+[0355] Enfim, ele disse que eu devia demonstrar mais
+apreço pelo seu trabalho duro, então
+rabisquei algumas palavras...
+[0356] Maldição, para onde aquele pedaço de papel
+danado voou? Você, uh...
+se importa de me ajudar a procurar? Har har!
+[0357] Santo fumo! Pelos céus!
+Abram as bebidas!
+[0358] Não acredito que você conseguiu caçar
+até atravessar uma Missão como
+O Teste do Mestre! Hoo hoo!
+[0359] Você é o orgulho e a alegria da Caravana 
+C Colossal, Caro Caçador. Espero que 
+fique conosco até o fim dos dias.
+[0360] O mundo nunca viu um caçador de monstros
+melhor, e tenho palavras fortes para
+qualquer um que diga o contrário. 

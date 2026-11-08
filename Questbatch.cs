@@ -94,8 +94,16 @@ namespace LMDTool
                             throw new InvalidDataException("Source ARC differs from the exported original. Use the original or a new text folder.");
                         string legacyDir = SafePath(textRoot, relative);
                         string legacyStamp = Path.Combine(legacyDir, "source.sha256");
-                        if (File.Exists(legacyStamp) && File.ReadAllText(legacyStamp).Trim() != hash)
-                            throw new InvalidDataException("Legacy export belongs to a different original ARC.");
+                        bool useLegacy = File.Exists(legacyStamp) && File.ReadAllText(legacyStamp).Trim() == hash;
+                        if (File.Exists(legacyStamp) && !useLegacy)
+                        {
+                            // A matching current stamp takes precedence. Never migrate files
+                            // from an unrelated legacy export, even when a current TXT is missing.
+                            if (!File.Exists(stamp))
+                                throw new InvalidDataException("Legacy export belongs to a different original ARC. Use its original ARC or a new text folder.");
+                            log(relative, QuestLogStatus.Warning,
+                                "Ignored legacy export from a different ARC; using the verified current export.");
+                        }
                         var pending = new Dictionary<string, Translation>(StringComparer.OrdinalIgnoreCase);
                         var replacements = new Dictionary<int, byte[]>();
                         var usedPaths = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
@@ -111,7 +119,33 @@ namespace LMDTool
                                 basePath += "__entry" + entryIndex.ToString("D4");
                             if (!usedPaths.Add(basePath)) throw new InvalidDataException("Duplicate text path: " + entry.Path);
                             string txt = basePath + ".txt";
-                            if (!File.Exists(txt) && !duplicateNames.Contains(entry.Path.Replace('\\', '/')))
+                            // Reuse the previous layout without overwriting an edited TXT.
+                            // The current source stamp has already been checked above.
+                            if (!File.Exists(txt) && File.Exists(stamp) &&
+                                category.StartsWith("Treinamento" + Path.DirectorySeparatorChar))
+                            {
+                                Match parsedTraining = TextName.Match(Leaf(entry.Path));
+                                if (QuestNaming.TryParse("q" + parsedTraining.Groups[1].Value, out QuestInfo oldInfo))
+                                {
+                                    bool pub = Path.GetFileNameWithoutExtension(file).Equals("gq2", StringComparison.OrdinalIgnoreCase);
+                                    string oldGroup = pub ? "G" + (oldInfo.Stars - 10) : oldInfo.Stars.ToString();
+                                    string oldBase = SafePath(archiveDir, (oldInfo.IsProwler ? "Gatunos" : "Normal") + "/" +
+                                        oldGroup + "/" + entry.Path.Replace('\\', '/'));
+                                    if (duplicateNames.Contains(entry.Path.Replace('\\', '/')))
+                                        oldBase += "__entry" + entryIndex.ToString("D4");
+                                    if (File.Exists(oldBase + ".txt"))
+                                    {
+                                        if (outputRoot == null)
+                                        {
+                                            AtomicWrite(txt, File.ReadAllBytes(oldBase + ".txt"));
+                                            if (File.Exists(oldBase + ".gmd"))
+                                                AtomicWrite(basePath + ".gmd", File.ReadAllBytes(oldBase + ".gmd"));
+                                        }
+                                        else txt = oldBase + ".txt";
+                                    }
+                                }
+                            }
+                            if (useLegacy && !File.Exists(txt) && !duplicateNames.Contains(entry.Path.Replace('\\', '/')))
                             {
                                 Match parsed = TextName.Match(Leaf(entry.Path));
                                 if (QuestNaming.TryParse("q" + parsed.Groups[1].Value, out QuestInfo legacyInfo))
@@ -216,17 +250,21 @@ namespace LMDTool
                         if (outputRoot != null)
                         {
                             byte[] rebuilt = ArcParser.RebuildIndexed(original, entries, replacements);
+                            rebuilt = ArcParser.RepairMhxxQuestTextTypes(rebuilt, replacements.Keys, out int repairedTypes);
                             var check = ArcParser.ReadEntries(rebuilt);
                             if (check.Count != entries.Count) throw new InvalidDataException("Rebuilt entry count mismatch.");
                             for (int i = 0; i < check.Count; i++)
                             {
-                                if (check[i].Path != entries[i].Path || check[i].EntryId != entries[i].EntryId)
+                                uint expectedType = replacements.ContainsKey(i) ? ArcParser.MhxxQuestGmdType : entries[i].EntryId;
+                                if (check[i].Path != entries[i].Path || check[i].EntryId != expectedType)
                                     throw new InvalidDataException("Rebuilt metadata mismatch.");
                                 if (replacements.TryGetValue(i, out byte[]? expected) &&
                                     !ArcParser.ReadEntryData(rebuilt, check[i]).SequenceEqual(expected))
                                     throw new InvalidDataException("Rebuilt payload mismatch: " + check[i].Path);
                             }
                             AtomicWrite(SafePath(outputRoot, relative), rebuilt);
+                            if (repairedTypes > 0) log(relative, QuestLogStatus.Warning,
+                                "Repaired MHXX quest GMD resource types in output: " + repairedTypes);
                             foreach (var item in pending)
                             {
                                 if (ambiguous.Contains(item.Key)) continue;
@@ -316,10 +354,15 @@ namespace LMDTool
                     }
                     var replacements = new Dictionary<string, byte[]> { [entry.Path] = translated };
                     byte[] rebuilt = ArcParser.Rebuild(original, entries, replacements);
+                    int targetIndex = entries.IndexOf(entry);
+                    rebuilt = ArcParser.RepairMhxxQuestTextTypes(rebuilt, new[] { targetIndex }, out int repairedTypes);
                     var check = ArcParser.ReadEntries(rebuilt).Single(e => e.Path == entry.Path);
-                    if (!ArcParser.ReadEntryData(rebuilt, check).SequenceEqual(translated))
+                    if (check.EntryId != ArcParser.MhxxQuestGmdType ||
+                        !ArcParser.ReadEntryData(rebuilt, check).SequenceEqual(translated))
                         throw new InvalidDataException("Standalone verification failed.");
                     AtomicWrite(SafePath(outputRoot, relative), rebuilt);
+                    if (repairedTypes > 0) log(relative, QuestLogStatus.Warning,
+                        "Repaired MHXX quest GMD resource type in output: " + expectedName);
                     matched.Add(expectedName);
                     result.Success++;
                     log(relative, QuestLogStatus.Success, "Applied shared translation: " + expectedName);
@@ -348,6 +391,13 @@ namespace LMDTool
             }
             QuestColumn column = name == "vq" ? filter.Village : name == "gq" ? filter.Hub : filter.Pub;
             int rank = name == "gq2" ? info.Stars - 10 : info.Stars;
+            if (info.GuildSubtype == 3)
+            {
+                if (!filter.IncludeGuildTraining) return false;
+                // Training groups are not ordinary star ranks or G ranks.
+                category = Path.Combine("Treinamento", info.Stars.ToString());
+                return true;
+            }
             if (rank < column.Min || rank > column.Max) return false;
             bool selected = info.IsProwler ? column.Prowler : column.Regular;
             if (!selected) return false;

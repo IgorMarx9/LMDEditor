@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo da Guilda
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor.
+Nesta missão, você treinará
+com as Duplas-Lâminas, famosas
+pela quantidade avassaladora de golpes!
+Use-as com o Estilo da Guilda,
+que se destaca pelo ótimo equilíbrio.
+Agora, que comece o treinamento!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

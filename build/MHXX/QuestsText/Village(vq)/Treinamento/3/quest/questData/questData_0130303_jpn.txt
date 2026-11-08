@@ -1,0 +1,10 @@
+[0000]	Treino de Gatuno ≪Coleta≫
+[0001]	Instrutor Calista
+[0002]	Desta vez, colete vários itens e combine
+um Desodorante. Coletar não é só fuçar
+o chão! Descubra a profundidade da coleta!
+[0003]	Larinoth
+[0004]	Entregue 1 Desodorante
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Nenhuma

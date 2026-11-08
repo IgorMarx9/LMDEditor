@@ -1,0 +1,10 @@
+[0000]	Treino de Gatuno ≪Caçada I≫
+[0001]	Instrutor Calista
+[0002]	Vou ensinar técnicas e preparo mental
+para Gatunos enfrentarem monstros grandes!
+Domine também os Movimentos de Suporte!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Nenhuma

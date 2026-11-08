@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo da Guilda
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor.
+Nesta missão, você treinará
+com a Glaive Inseto, que usa
+o Kinseto para coletar extratos
+e desfere rápidas sequências de golpes!
+Use-o com o Estilo da Guilda,
+de excelente equilíbrio!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

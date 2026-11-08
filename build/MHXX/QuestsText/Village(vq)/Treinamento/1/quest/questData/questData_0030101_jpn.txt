@@ -1,0 +1,14 @@
+[0000]	Treino de Caçador: Básico do Básico
+[0001]	Instrutor
+[0002]	Sou eu, o instrutor. Agora você
+vai treinar como assar carne.
+Retire Carne Crua de um Larinoth
+e use a Churrasqueira fornecida
+para assá-la até ficar bem-passada.
+Será meu jantar, então trate de
+prepará-la com todo o cuidado!
+[0003]	Larinoth
+[0004]	Entregue 1 Bife Bem-Passado
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

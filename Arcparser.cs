@@ -16,6 +16,47 @@ namespace LMDTool
         const int PathFieldSize = 64;
 
         static readonly Encoding Ascii = Encoding.ASCII;
+        public const uint MhxxQuestGmdType = 0x242BB29A;
+
+        // Explicit MHXX repair, separate from the generic, metadata-preserving rebuild.
+        // Only caller-selected quest text entries are inspected. The input is never changed.
+        public static byte[] RepairMhxxQuestTextTypes(byte[] arcData, IEnumerable<int> indices,
+            out int repairedCount)
+        {
+            if (indices == null) throw new ArgumentNullException(nameof(indices));
+            var entries = ReadEntries(arcData);
+            if (ReadUInt16LE(arcData, 4) != 0x11)
+                throw new InvalidDataException("MHXX quest type repair requires ARC version 0x11.");
+            var repairs = new List<int>();
+            var seen = new HashSet<int>();
+            foreach (int index in indices)
+            {
+                if (index < 0 || index >= entries.Count)
+                    throw new InvalidDataException("Invalid quest text entry index.");
+                if (!seen.Add(index)) continue;
+                var entry = entries[index];
+                string path = NormalizePath(entry.Path);
+                const string prefix = "quest\\questData\\questData_";
+                if (!path.StartsWith(prefix, StringComparison.OrdinalIgnoreCase) ||
+                    path.Length != prefix.Length + 11 ||
+                    !path.EndsWith("_jpn", StringComparison.OrdinalIgnoreCase))
+                    throw new InvalidDataException("Not an MHXX quest text path: " + entry.Path);
+                for (int j = prefix.Length; j < prefix.Length + 7; j++)
+                    if (path[j] < '0' || path[j] > '9')
+                        throw new InvalidDataException("Invalid MHXX quest text name: " + entry.Path);
+                if (entry.EntryId == MhxxQuestGmdType) continue;
+                byte[] raw = ReadEntryData(arcData, entry);
+                if (raw.Length < 40 || ReadUInt32LE(raw, 0) != 0x00444D47 ||
+                    ReadUInt32LE(raw, 4) != 0x00010302)
+                    throw new InvalidDataException("Unsupported MHXX quest GMD: " + entry.Path);
+                repairs.Add(index);
+            }
+            byte[] result = (byte[])arcData.Clone();
+            foreach (int index in repairs)
+                WriteUInt32LE(result, HeaderSize + index * EntrySize + 0x40, MhxxQuestGmdType);
+            repairedCount = repairs.Count;
+            return result;
+        }
 
         // ============================================================
         // PUBLIC TYPES
@@ -250,7 +291,27 @@ namespace LMDTool
                             (oldField & 0xFF000000u) | (uint)requested[i].Length);
                     }
                 }
+                ValidatePreservedMetadata(originalArcData, output);
                 return output;
+            }
+        }
+
+        public static void ValidatePreservedMetadata(byte[] original, byte[] rebuilt)
+        {
+            var before = ReadEntries(original);
+            var after = ReadEntries(rebuilt);
+            if (before.Count != after.Count) throw new InvalidDataException("ARC entry count changed.");
+            for (int j = 0; j < HeaderSize; j++)
+                if (original[j] != rebuilt[j]) throw new InvalidDataException("ARC header changed.");
+            for (int i = 0; i < before.Count; i++)
+            {
+                int at = HeaderSize + i * EntrySize;
+                // Preserve raw path bytes, resource type, and high size/flag byte.
+                for (int j = 0; j < 68; j++)
+                    if (original[at + j] != rebuilt[at + j])
+                        throw new InvalidDataException("ARC identity changed: " + before[i].Path);
+                if (before[i].CompressionFlag != after[i].CompressionFlag)
+                    throw new InvalidDataException("ARC flags changed: " + before[i].Path);
             }
         }
 

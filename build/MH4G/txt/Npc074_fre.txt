@@ -1,0 +1,625 @@
+﻿[0000] Muito bem, vamos às transações! 
+Tenho algumas mercadorias novas
+e estranhas para você hoje.
+[0001] Muito bem, vamos às transações! 
+Tenho alguns itens novos
+hoje que devem animar a caçada.
+[0002] Muito bem, vamos às transações! 
+Tenho novos itens essenciais
+de caça para você hoje.
+[0003] Muito bem, vamos às transações! 
+Tenho alguns insetos novos
+e raros para você hoje.
+[0004] Muito bem, vamos às transações! 
+Tenho mercadorias incomuns
+em estoque hoje.
+[0005] Muito bem, vamos às transações! 
+Tenho algumas mercadorias novas
+e estranhas para você hoje.
+[0006] Muito bem, vamos às transações! 
+Tenho alguns itens novos
+hoje que devem animar a caçada.
+[0007] Muito bem, vamos às transações! 
+Tenho novos itens essenciais
+de caça para você hoje.
+[0008] Muito bem, vamos às transações! Tenho alguns insetos novos
+e raros para você hoje.
+[0009] Muito bem, vamos às transações! Tenho mercadorias incomuns
+em estoque hoje.
+[0010] Até mais! Que os cordões da sua bolsa
+nunca fiquem apertados.
+[0011] Belo trabalho, Caçador! Agora podemos 
+negociar com o 
+[0012] Apiário de Moga
+[0013] .
+[0014] Claro, o mercador de lá também colhe
+os benefícios. Vamos mantê-lo abastecido
+com todos os bens que desejar. Todos ganham!
+[0015] Tenho certeza de que, se ele estivesse aqui agora,
+diria: "Obrigazenny!"
+[0016] Belo trabalho, Caçador! Agora a Cozinha ao Ar Livre
+sempre será abastecida com as melhores
+delícias lácteas.
+[0017] O Cozinheiro Itinerante pediu para dizer:
+"Obrigazenny!"
+[0018] Belo trabalho, Caçador! Ouvi dizer que a Ilha 
+Poka Poka foi ampliada.
+[0019] Os moradores queriam dizer: "Obrigazenny
+pelas novas opurrtunidades!"
+[0020] Nessa nota, talvez você devesse
+fazer uma visita a eles.
+[0021] Belo trabalho, Caçador! Agora a Cozinha ao Ar Livre
+sempre será abastecida com os peixes
+mais frescos.
+[0022] O Cozinheiro Itinerante pediu para dizer:
+"Obrigazenny!"
+[0023] Belo trabalho, Caçador! Agora podemos negociar com
+o 
+[0024] Mercado de Dondruma
+[0025] .
+[0026] O mercador de lá ficou bem satisfeito.
+[0027] Ele mandou um bilhete breve dizendo:
+"Obrigazenny!"
+[0028] Belo trabalho, Caçador! Agora o Cozinheiro Itinerante
+pode ajudar você a assar carne na
+Cozinha ao Ar Livre.
+[0029] Ele pediu para dizer: "Obrigazenny!"
+[0030] Belo trabalho, Caçador! Ouvi dizer que a Ilha Poka Poka
+foi ampliada.
+[0031] Os moradores mandaram uma mensagem: 
+"Miau gostaria de passar aqui e ver o 
+novo risoto?"
+[0032] Ou era "resort"? Sou péssimo
+com mensagens. Melhor visitar a
+ilha você mesmo e ver.
+[0033] dmy
+[0034] Muito bem, vamos às
+transações! Tenho mercadorias especiais
+novas para você hoje.
+[0035] Muito bem, vamos às
+transações! Tenho mercadorias especiais
+novas para você hoje.
+[0036] Belo trabalho, Caçador! Ouvi dizer que a Ilha Poka Poka
+foi ampliada.
+[0037] Os moradores queriam dizer: "Obrigazenny
+pelas novas opurrtunidades!"
+[0038] Nessa nota, talvez você devesse
+fazer uma visita à Ilha Poka Poka.
+[0039] Belo trabalho, Caçador! O pessoal do
+Dracolégio conseguiu avançar
+para a próxima etapa da pesquisa.
+[0040] O Professor queria dizer a você:
+"Obrigazenny em nome da ciência!"
+Whee hee!
+[0041] Belo trabalho, Caçador! O pessoal do
+Dracolégio conseguiu avançar
+para a próxima etapa da pesquisa.
+[0042] O Professor queria dizer a você:
+"Obrigazenny em nome da ciência!"
+Whee hee!
+[0043] Magnífico! Simplesmente esplêndido!
+[0044] Não importa quantas vezes eu visite esta
+cidade, nunca consigo superar a pura
+magnitude dela!
+[0045] Mesmo da excelente vista do Arluq,
+ela parecia maravilhosamente vasta.
+[0046] A região ao redor de Dondruma é rica
+em recursos, então naturalmente a cidade é
+bem conhecida entre nós, mercadores.
+[0047] E monstros? Pah! Perigos merecem desconto.
+Quando surge uma oportunidade dessas,
+nenhum mercador de verdade se acovarda.
+[0048] Caçador, certamente você ouviu que o
+Mestre da Defesa chegará a
+Dondruma muito em breve.
+[0049] Pelo que dizem os boatos, ele foi um
+grande caçador e conhece todos os detalhes
+da defesa da cidade.
+[0050] Aparentemente, seus talentos são requisitados
+no mundo inteiro.
+[0051] Muito bem, Caçador. Dizem que você
+coletou todos os materiais necessários para
+construir o Dracolégio.
+[0052] Uma pena quanto à última confusão.
+Você ouviu? O Mestre da Defesa
+está em perigo.
+[0053] Aparentemente, algum tipo de monstro 
+desagradável apareceu no Deserto Dhede.
+Os moradores estão morrendo de preocupação.
+[0054] O monstro que segue seu caminho malévolo
+rumo ao esquife de areia do Mestre da Defesa
+se chama Monoblos.
+[0055] E, Caçador, deixe-me dizer: esta caçada
+não será um passeio pelas areias da
+Ilha Poka Poka -- não mesmo!
+[0056] Derrubar um Monoblos é uma
+tarefa lendária para um caçador lendário!
+Use tudo que tiver!
+[0057] O QUE HÁ com este clima?
+Ele já devia ter aberto...
+O que você acha disso?
+[0058] Whee hee! Trabalho esplêndido caçando aquele
+Monoblos irritante! Poucos podem se gabar
+DESSE tipo de conquista!
+[0059] A cidade ficou consideravelmente mais animada
+agora que o Mestre da Defesa está seguro.
+Talvez seja minha vez de pedir sua ajuda...
+[0060] Whee hee! Trabalho esplêndido caçando aquele
+Monoblos irritante! Poucos podem se gabar
+DESSE tipo de conquista!
+[0061] Obrigazenny por trazer o Mestre da
+Defesa de volta são e salvo.
+[0062] Aquelas nuvens malditas ainda pairam sobre
+nós mesmo que o Kushala Daora tenha
+seguido adiante... O que acha que isso significa?
+[0063] O Mestre da Defesa me disse que você
+procura um combustível com energia suficiente para
+alimentar a nova arma defensiva.
+[0064] Ora, eu sou ou não sou o Atacadista? 
+Deixe-me ver se consigo mexer uns 
+pauzinhos e localizar o que você precisa.
+[0065] Oh, Caçador. Conversei com o
+Mestre da Defesa.
+[0066] Meus colegas e eu acreditamos que
+materiais de Rathian são os mais adequados
+para essa arma modernosa que vocês estão construindo.
+[0067] O Mestre da Defesa pareceu convencido.
+Espero ter conseguido ajudar.
+[0068] O Mestre da Defesa e eu tivemos uma looonga
+conversa sobre o que está acontecendo, e ele
+me disse:
+[0069] "A maioria dos mercadores tem olho material,
+mas o senhor tem olho para materiais."
+Whee hee!
+[0070] Que bajulador! Se não tomar cuidado,
+pode acabar caindo nas minhas graças!
+[0071] Deixe a busca por uma Rathian
+por minha conta.
+[0072] Nem a Rainha da Terra consegue escapar
+da minha rede de mercenários mercantis.
+[0073] Apenas continue com seu trabalho de
+caça habitual e deixe os profissionais cuidarem disso.
+[0074] O que um monstro como o Seregios
+está fazendo tão longe daqui?
+[0075] Eles deveriam viver léguas distante,
+e raramente fora do bando.
+Foi o que o Caravaneiro me contou.
+[0076] Belo trabalho, Caçador.
+E falo sério. Mas...
+[0077] Bem, você parece saber o que
+estou prestes a dizer.
+[0078] Os alertas sobre o dragão ancião continuam
+em vigor. O cerne dos problemas da cidade
+ainda está lá fora, em algum lugar.
+[0079] Aquela sua amiga Atiradora
+partiu para capturar a Rathian
+que encontramos.
+[0080] Não se preocupe com isso.
+Descanse agora; ela voltará antes que você
+perceba.
+[0081] Imagino que já tenha ouvido que a
+Atiradora conseguiu capturar a Rathian.
+[0082] Dá para perceber que o Mestre da Defesa está
+aliviado -- e, sinceramente? Eu também!
+Whee hee!
+[0083] Quando não é uma coisa, é outra...
+Parece que esta cidade não tem descanso.
+[0084] Mas suponho que observações sombrias assim
+não fazem bem a ninguém.
+[0085] Vamos só focar em superar
+um obstáculo por vez, que tal?
+[0086] Sabe, eu estava me perguntando por que as coisas
+tinham ficado tão silenciosas, e então percebi que o
+jovem cadete saiu para trabalho de campo.
+[0087] Apesar de toda a tagarelice dele, acho a cidade
+mais sem graça sem ele. Você faz ideia
+de quando ele volta?
+[0088] Monstros frenéticos... Pah. Nós do
+Arluq passamos por coisa pior quando
+encaramos o Shagaru Magala.
+[0089] Nada demais, certo? E isso
+vindo de um mercador.
+[0090] O jovem cadete tagarela voltou.
+Devo dizer que os níveis de decibéis da cidade
+me agradam bem mais agora.
+[0091] Você ouviu? Chegou uma carta do
+Lanceiro de Elite para o
+Mestre da Defesa.
+[0092] Você não vai precisar de truques baratos contra
+Deviljho. Apenas bata nele o mais forte
+que puder!
+[0093] Mas essa é sua especialidade, não é?
+Você nunca foi do tipo que pega
+leve. Whee hee!
+[0094] Seja lá o que o Lanceiro de Elite acha que 
+descobriu, isso me deixa nada contente...
+[0095] O que você acha de tudo isso?
+Pode ser tão horrível quanto parece?
+[0096] Quantas vezes já mandei você partir?
+Quantas vezes desejei boa sorte?
+[0097] Pah. Você não precisa que eu diga do que
+é capaz.
+[0098] Vá lá e faça o que sabe fazer. O Cozinheiro 
+Itinerante e eu ficaremos aqui falando bem 
+de você, como costumamos fazer. Whee hee!
+[0099] Talvez o pior que o Frenesi pudesse lançar
+contra nós fossem os monstros Superiores.
+[0100] Ao que eu digo: grande coisa. A natureza pode ser
+cruel, mas pessoas como você e eu são cheias
+de tantas surpresas quanto. Whee hee!
+[0101] Olhe para aquele céu, Caçador.
+Guarde esta vista num lugar onde possa
+sempre se lembrar dela.
+[0102] Quando os tempos forem difíceis, lembre-se de 
+que nenhum azul triste se compara a
+ ESTE azul.
+[0103] Hora de mostrar àquele bruto o que nossa
+arma pode fazer!
+[0104] Aquele Kushala Daora pode voltar direto
+para seja lá de onde veio!
+[0105] Eu quase tinha esquecido como são
+céus limpos.
+[0106] Você e os Caçadores de Elite fizeram uma
+grande coisa lá fora. Tudo que posso dizer é:
+"Obrigazenny!" Whee hee!
+[0107] Sempre fui um agente livre.
+Onde há negócios, é para lá que
+eu vou.
+[0108] Mas, de todas as caravanas com que
+viajei, poucas me deram uma sensação
+como esta: um verdadeiro senso de comunidade.
+[0109] Enquanto você e os Caçadores de Elite se 
+acabam defendendo a cidade,
+eu estive negociando e barganhando.
+[0110] E deixe-me dizer, uma crise pode ser
+boa para a economia! Whee hee! Eu poderia
+me aposentar com uma renda dessas!
+[0111] Caçador, já ouviu falar de
+Peixe-Cathangea, ou Filhote de Peixe-Cathangea?
+[0112] Para mercadores como eu, eles são tão
+preciosos quanto zenny vivo e sonante.
+[0113] Entregue-me qualquer um deles quando você
+multiplicar seus Itens, e garanto que o
+gesto não passará despercebido.
+[0114] O mesmo ainda vale para Cathangea ou
+Semente de Cathangea, claro.
+[0115] Caçador, já descobriu onde
+pode fisgar Peixe-Cathangea?
+[0116] Olhe com atenção para o rio que atravessa
+a cidade. As silhuetas lavanda
+são Peixes-Cathangea.
+[0117] Trocar materiais garante que tanto caçadores
+quanto mercadores recebam os itens que mais
+valorizam. Rostos felizes para todos!
+[0118] Agora não está feliz por ter cumprido todos
+os meus pedidos? Whee hee!
+[0119] Às vezes, quando multiplica Itens,
+você receberá itens que não pediu
+junto com o resto.
+[0120] Esses, ahem, "bônus" variam de mercado
+para mercado, mas é preciso aceitar o bom
+com o ruim. Assim é a vida. Whee hee!
+[0121] Enquanto você está fora da cidade, eu me ocupo
+negociando e barganhando -- e lucrando!
+...Desculpe, humor de mercador.
+[0122] Se minha almofada de traseiro parece um pouco 
+mais fofa que o normal, é porque estou 
+sentado sobre uma pequena fortuna. Whee hee!
+[0123] A Atiradora tinha muitas perguntas
+sobre você. Gostaria de saber o que
+eu contei a ela?
+[0124] Eu também gostaria, se fosse você. Whee hee!
+[0125] Aquele jovem de Elite é uma figura.
+[0126] Às vezes ele tem um olho para itens
+melhor que o meu.
+[0127] Mas seria um mercador terrível --
+TERRÍVEL. Absolutamente nenhuma postura
+de balcão. Whee hee!
+[0128] Saindo para caçar? Permita-me
+multiplicar esses seus itens enquanto
+você estiver fora, garantido. Whee hee!
+[0129] Vai caçar com amigos?
+Lembre-se de que multiplicação é uma
+ótima adição antes da caçada. Whee hee!
+[0130] Sim, sim, chegue mais perto. ...Mais perto!
+[0131] Gosto desse olhar nos seus olhos.
+Sem dúvidas, só ânimo. Você sempre
+irradiou confiança.
+[0132] E essa confiança levou você longe,
+não levou? Ainda não vi uma crise
+capaz de deter você por muito tempo.
+[0133] Esta não será diferente. Vá lá
+e dê tudo de si.
+[0134] Sei que, juntos, você e os de Elite
+vão deixar aquele Kushala Daora tonto
+e pôr a cidade nos eixos.
+[0135] É preciso uma mente clara como a sua para
+trazer céus claros de volta. Este velho
+Atacadista está no seu canto!
+[0136] Whee hee! Belo trabalho, Caçador!
+Enfim, depois de muito, muito, MUITO tempo,
+um clima para celebrar.
+[0137] Não lembro a última vez que fiquei tão
+feliz em olhar para cima e ver azul. E tenho
+você para agradecer por isso, não é? Whee hee!
+[0138] Tiro o chapéu, eu digo!
+[0139] Ou talvez o que eu devesse dizer seja:
+"Obrigazenny!" Minha gratidão
+é previsível, se não outra coisa. Hee!
+[0140] Whee hee! Parabéns! Ouvi dizer que você
+concluiu O Teste do Mestre!
+[0141] Você fez bastante por mim e pela
+Caravana -- e pelo mundo, inclusive -- desde
+que nos conhecemos em Val Habar.
+[0142] Quando não estava desentupindo minhas rotas
+comerciais, estava trazendo mercadorias estranhas
+e maravilhosas para casa.
+[0143] Nadamos juntos, voamos juntos, salvamos
+cidades juntos...
+[0144] Bem diante dos meus olhos, vi você flexionar
+as sobrancelhas, entregar ovos e
+ficar só de roupa de baixo.
+[0145] Tive aventuras mais grandiosas com você
+do que as transações habituais
+com que a maioria dos mercadores se contenta.
+[0146] Enfim, tiro o chapéu, eu digo!
+[0147] Ou talvez o que eu devesse dizer seja:
+"Obrigazenny!" E desta vez, são
+certamente os mais zennydos. Hee!
+[0148] Caçador? ...Um momento, por favor.
+[0149] Tem algum interesse em multiplicar seus
+itens em um 
+[0150] novo mercado
+[0151] ?
+[0152] O que tenho em mente se chama
+
+[0153] Apiário de Moga
+[0154] .
+[0155] É um estabelecimento vibrante onde se
+pode obter mel e insetos.
+[0156] Se puder providenciar algumas coisas, poderei
+fechar um acordo com esse mercado
+para multiplicar Itens por lá.
+[0157] Confira os Pedidos dos Aldeões se quiser
+saber todos os doces detalhes.
+Conto com você!
+[0158] Ah! Caçador. Que momento esplêndido!
+[0159] O Cozinheiro Itinerante me perguntou se eu 
+poderia ajudá-lo a 
+[0160] conseguir leite de
+qualidade superior
+[0161] .
+[0162] Porém, preciso reunir só algumas coisinhas
+antes de tornar os sonhos lácteos dele
+realidade. Acha que pode ajudar?
+[0163] Confira os Pedidos dos Aldeões se quiser
+saber todos os deliciosos detalhes.
+Conto com você!
+[0164] Ah! Caçador. Seu timing é impecável.
+[0165] A Chefe Bigodinhos da Ilha Poka Poka acabou
+de entrar em contato comigo sobre 
+[0166] ampliar a ilha
+[0167] .
+[0168] Uma Ilha Poka Poka maior significa que você pode
+contratar mais Amigatos -- até 30!
+[0169] Confira os Pedidos dos Aldeões se quiser
+saber todos os detalhes peludos.
+Conto com você!
+[0170] Ah! Caçador. Que momento esplêndido!
+[0171] O Cozinheiro Itinerante me perguntou se eu 
+poderia ajudá-lo a 
+[0172] conseguir peixe de
+qualidade superior
+[0173] .
+[0174] Porém, preciso reunir só algumas coisinhas
+antes de tornar os sonhos peixosos dele
+realidade. É aqui que você entra.
+[0175] Confira os Pedidos dos Aldeões se quiser
+saber todos os detalhes.
+Conto com você!
+[0176] Caçador? ...Um momento, por favor.
+[0177] Tem algum interesse em multiplicar seus
+itens em um 
+[0178] novo mercado
+[0179] ?
+[0180] O que tenho em mente se chama
+
+[0181] Mercado de Dondruma
+[0182] .
+[0183] Eles suprem as necessidades essenciais de um caçador com uma
+ampla oferta de ferramentas úteis.
+[0184] Se puder providenciar algumas coisas, poderei
+fechar um acordo com esse mercado
+para multiplicar Itens por lá.
+[0185] Confira os Pedidos dos Aldeões se quiser
+saber todos os detalhes.
+Conto com você!
+[0186] Ah! Caçador. Que momento esplêndido!
+O Cozinheiro Itinerante me pediu um favor.
+[0187] Ele quer poder se juntar a você quando
+você assar carne na Cozinha Itinerante.
+[0188] Se reunir algumas coisinhas para mim,
+posso fazer para ele um 
+[0189] espetinho especial
+só dele
+[0190] .
+[0191] Confira os Pedidos dos Aldeões se quiser
+saber todos os suculentos detalhes.
+Conto com você!
+[0192] Ah! Caçador. Seu timing é impecável.
+[0193] A Chefe Bigodinhos da Ilha Poka Poka acabou
+de entrar em contato comigo sobre 
+[0194] ampliar ainda mais
+a ilha
+[0195] .
+[0196] Uma Ilha Poka Poka ainda maior significa que você
+pode contratar mais Amigatos -- até 40!
+[0197] Confira os Pedidos dos Aldeões se quiser
+saber todos os detalhes peludos.
+Conto com você!
+[0198] Ah! Caçador. Seu timing é impecável.
+[0199] A Chefe Bigodinhos da Ilha Poka Poka acabou
+de entrar em contato comigo sobre 
+[0200] ampliar ainda mais
+a ilha
+[0201] .
+[0202] Uma Ilha Poka Poka ainda maior significa que você
+pode contratar mais Amigatos -- até 50!
+[0203] Confira os Pedidos dos Aldeões se quiser
+saber todos os detalhes peludos.
+Conto com você!
+[0204] Caçador? ...Um momento, por favor.
+[0205] Tem algum interesse em multiplicar seu
+
+[0206] Néctar
+[0207]  para seus Kinsetos no
+Mercado de Dondruma?
+[0208] Falei com um mercador local com quem
+me familiarizei, e todas as
+negociações preliminares correram bem.
+[0209] Infelizmente, alguns monstros irritantes
+se instalaram bem no caminho da
+nossa rota comercial.
+[0210] Registrei uma Missão com a Guilda chamada
+"
+[0211] Confronto na Neve
+[0212] ."
+[0213] Se quiser mais Néctar, aqueles monstros
+precisam ser ejetados. Whee hee!
+[0214] Belo trabalho, Caçador! Agora posso vender 
+[0215] Néctares
+[0216] !
+Ah, e você também pode obtê-los
+no Mercado de Dondruma.
+[0217] Se ainda não consegue negociar com
+o Mercado de Dondruma,
+confira os Pedidos dos Aldeões!
+[0218] A propósito, o mercador de Dondruma 
+ficou muito satisfeito com sua recente aquisição.
+[0219] Ele mandou um bilhete breve dizendo:
+"Obrigazenny!" Whee hee!
+[0220] Você tem feito grandes avanços ultimamente.
+Ah, sim, eu tenho observado. Whee hee!
+[0221] Então pensei em elevar meu próprio jogo
+e garantir novas mercadorias para
+quando você "Trocar Materiais."
+[0222] Meus colegas foram mais do que receptivos,
+mas monstros bloquearam nossa rota comercial.
+[0223] Se não for incômodo demais, registrei uma
+Missão com a Guilda chamada
+"
+[0224] Trovão e Pedra
+[0225] ."
+[0226] Se 
+[0227] quiser trocar por novos
+materiais
+[0228] , basta nos dar uma mão!
+[0229] Belo trabalho, Caçador! Agora você terá
+acesso a novas mercadorias ao "Trocar
+Materiais."
+[0230] Meus colegas também estão satisfeitos com o
+arranjo. Eles recebem o que querem, você recebe o que quer...
+[0231] Rostos felizes por todos os lados! Whee hee!
+Obrigazenny, Obrigazenny.
+[0232] Ah! Caçador. Seu timing é impecável.
+[0233] O Professor do Dracolégio acabou
+de entrar em contato comigo sobre alguns 
+[0234] materiais de
+pesquisa
+[0235]  de que ele precisa.
+[0236] Com tais materiais, ele poderá
+aumentar os efeitos das Dragopedras!
+[0237] Confira os Pedidos dos Aldeões para ver
+todos os detalhes. Conto com você!
+[0238] Ah! Caçador. Seu timing é impecável.
+[0239] O Professor do Dracolégio acabou
+de entrar em contato comigo sobre alguns 
+[0240] materiais de
+pesquisa
+[0241]  de que ele precisa.
+[0242] Com tais materiais, ele poderá
+aumentar os efeitos das Dragopedras!
+[0243] Confira os Pedidos dos Aldeões para ver
+todos os detalhes. Conto com você!
+[0244] Venha, Caçador! Contemple o espetáculo de 
+encher os olhos que é o NOVO Bazar Dragonês!
+[0245] Graças a você, tenho mais carroças com
+as quais conduzir minhas trocas e
+negócios. Isso significa 
+[0246] mais transações
+[0247] !
+[0248] ...Além disso, ganhei esta almofada fofinha de traseiro.
+Rostos felizes por todos os lados! Whee hee!
+[0249] Venha, Caçador! Contemple a ameaça pública
+abarrotada que é o NOVO Bazar Dragonês!
+[0250] Graças a você, tenho mais carroças com
+as quais conduzir minhas trocas e
+negócios. Isso significa 
+[0251] mais transações
+[0252] !
+[0253] ...Além disso, ganhei este telhado chique de azulejos.
+Rostos felizes por todos os lados! Whee hee!
+[0254] Espere até ouvir isto, Caçador!
+
+[0255] A Circulação da
+Fazenda Pokke
+[0256]  aumentou!
+[0257] Agora posso adquirir muito mais mercadorias com uma
+única transação. Sorte sua! Faça
+cara de feliz!
+[0258] Espere até ouvir isto, Caçador!
+
+[0259] A Circulação da
+Fazenda Pokke
+[0260]  aumentou!
+[0261] Agora posso adquirir muito mais mercadorias com uma
+única transação. Sorte sua! Faça
+cara de feliz!
+[0262] Espere até ouvir isto, Caçador!
+
+[0263] A Circulação da
+Fazenda Kokoto
+[0264]  aumentou!
+[0265] Agora posso adquirir muito mais mercadorias com uma
+única transação. Sorte sua! Pode
+começar a dançar nas ruas!
+[0266] Espere até ouvir isto, Caçador!
+
+[0267] A Circulação da
+Fazenda Kokoto
+[0268]  aumentou!
+[0269] Agora posso adquirir muito mais mercadorias 
+com uma única transação. Sorte sua! Pode
+começar a dançar nas ruas!
+[0270] Espere até ouvir isto, Caçador!
+
+[0271] A Circulação do
+Apiário de Moga
+[0272]  aumentou!
+[0273] Agora posso adquirir muito mais mercadorias 
+com uma única transação. Sorte sua! Vamos
+celebrar os bons tempos -- vamos lá!
+[0274] Espere até ouvir isto, Caçador!
+
+[0275] A Circulação do
+Apiário de Moga
+[0276]  aumentou!
+[0277] Agora posso adquirir muito mais mercadorias 
+com uma única transação. Sorte sua! Vamos
+celebrar os bons tempos -- vamos lá!
+[0278] Espere até ouvir isto, Caçador!
+
+[0279] A Circulação do
+Mercado de Dondruma
+[0280]  aumentou!
+[0281] Agora posso adquirir muito mais mercadorias 
+com uma única transação. Sorte sua! Sorte minha!
+Sorte de todos nós! Whee hee!
+[0282] Espere até ouvir isto, Caçador!
+
+[0283] A Circulação do
+Mercado de Dondruma
+[0284]  aumentou!
+[0285] Agora posso adquirir muito mais mercadorias 
+com uma única transação. Sorte sua! Sorte minha!
+Sorte de todos nós! Whee hee!

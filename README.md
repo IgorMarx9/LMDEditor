@@ -14,6 +14,7 @@ Windows desktop tool for exporting game text to editable TXT files and rebuildin
 | --- | --- | --- |
 | MH 3G / 3U | `.gmd`, supported `.arc` archives | Export, verify and import text; rebuild ARC contents |
 | MH 4G / 4U | `.lmd` | Export, verify and import text |
+| MH4U — Quests | `quest*.arc`, internal type `1BBFD18E` | Export original quests and language TXT files; import translated text into rebuilt ARCs |
 | MHXX / GU | `.gmd` | Dedicated MHXX GMD parser; export, verify and import |
 | MHXX / GU — Quests | `vq.arc`, `gq.arc`, `gq2.arc` and matching individual quest ARCs | Export grouped quest texts and apply translations to both grouped and individual archives |
 
@@ -65,9 +66,9 @@ Open **Quests**, browse to the folder containing the quest ARCs, and choose the 
 - Special has its own checkbox and range. It recognizes subtype `004` names such as `questData_0040101_jpn.gmd` and `questData_0041001_jpn.gmd`.
 - Pub currently maps encoded levels 11–14 to folder names G1–G4; this mapping still needs confirmation with additional game samples.
 - **Export Quests** exports texts only from the three grouped archives. Existing TXT translations are kept.
-- Texts are stored in `QuestsText/` next to the executable. Subfolders use `Normal`, `Gatunos` and `Especial`. These folder names stay the same when changing the UI language.
+- Texts are stored in `MHXX/QuestsText/` next to the executable. Subfolders use `Normal`, `Gatunos` and `Especial`. These folder names stay the same when changing the UI language.
 - Edit those TXT files, then click **Import Quests**. The same translation is applied to matching individual quest archives using the internal GMD filename; no second TXT translation is needed.
-- Rebuilt archives are written to `QuestsOutput/` next to the executable, preserving relative source paths.
+- Rebuilt archives are written to `MHXX/QuestsOutput/` next to the executable, preserving relative source paths.
 - Filtering limits which entries are decompressed and processed. Directory discovery and archive table reading can still be necessary.
 
 Keep the source archives unchanged between export and import. A `source.sha256` marker associates each export with its source; preserve that file. Missing TXT files leave the corresponding entries unchanged.
@@ -75,6 +76,32 @@ Keep the source archives unchanged between export and import. A `source.sha256` 
 Duplicate internal paths are handled by archive entry index. Export names may include `__entryNNNN` to distinguish them. If duplicate entries have conflicting translations, propagation to an individual quest archive is blocked and logged.
 
 **Imports are not cumulative:** each run rebuilds from the source archive. For the final output, select all categories and ranges whose translations you want included in the same archive.
+
+### MH4U quests (v005)
+
+Select **MH 4G / 4U → Quests**, choose the folder containing the quest archives, and select the game languages to export or import. English is selected by default. Language selection is independent of the interface language.
+
+The workflow recursively discovers `quest*.arc` with numeric suffixes (for example `quest00.arc` and `quest01.arc`) and processes internal type `0x1BBFD18E`. It accepts the observed ARC version `0x13` and quest layout `0xA0 / v005`.
+
+Files are organized next to the executable:
+
+| Path example | Contents |
+| --- | --- |
+| `MH4G/QuestsText/quest00/source.sha256` | Source archive identity |
+| `MH4G/QuestsText/quest00/loc/quest/m00101.1BBFD18E` | Extracted original quest for inspection |
+| `MH4G/QuestsText/quest00.arc__loc~quest~m00101__0001__eng.txt` | Seven English text fields to translate |
+| `MH4G/QuestsText/quest00.arc__loc~quest~m00101__0001__fre.txt` | French fields, when selected |
+| `MH4G/QuestsOutput/quest00.arc` | Rebuilt archive |
+
+Other supported language slots are `spa`, `ger` and `ita`. Source subfolders and internal ARC paths are preserved. Duplicate internal names receive an entry-index suffix. Classification by Village/Hub/stars is not implemented for MH4U: the provided samples do not yet establish a reliable mapping.
+
+The TXT format has seven indexed lines, `[0000]` through `[0006]`, plus a required format header. Their observed contents are title, main objective, failure condition, description, monster information, client and subquest. In this format, use `\n` for a line break, `\r` for carriage return, `\t` for a tab and `\\` for a literal backslash. Keep all indices and the header. These rules apply to the new MH4U quest parser, not to the existing MH3U or LMD formats.
+
+Export preserves existing TXT files. Import reads TXT files, **not manual edits to the extracted `.1BBFD18E` copies**. Missing or unselected language files preserve original text. An unchanged export/import preserves the original quest and ARC bytes. Changed strings are appended and only their known pointers are updated; existing gameplay sections are not moved. The rebuilt ARC is checked before it is written.
+
+Use unchanged source ARCs for every import and retain `source.sha256`. Imports start from the source, so select all translated languages needed in the final output. An invalid quest or TXT aborts rebuilding that archive, and the error is logged. The other archives may still be processed.
+
+C# tests passed for all **207 entries of the supplied quest00.arc** and one separate quest: unchanged round trips, longer Unicode translations, preservation of unrelated bytes and batch reinsertion. The full Windows Forms build and visual validation remain pending. Binary analysis also covered these samples. The second real ARC and in-game behavior have not been tested. Structural validation cannot guarantee game compatibility.
 
 ### Editing TXT files
 
@@ -116,6 +143,8 @@ Verification checks structural consistency; it does not guarantee that translate
 | `MH3UArcWorkflow.cs` | MH3U ARC text workflow |
 | `Questbatch.cs` | Grouped quest processing and individual archive synchronization |
 | `Questnaming.cs` | Quest filename classification and filtering |
+| `MH4QuestParser.cs` | MH4U v005 text pointers, UTF-16 and TXT conversion |
+| `MH4QuestBatch.cs` | MH4U quest ARC export/import and source identity checks |
 
 ## Português brasileiro
 
@@ -167,14 +196,35 @@ Na tela **Missões**, escolha a pasta de origem dos ARC e configure os filtros:
 
 Vila, Área de Encontro e Bar dos Caçadores têm opções de **Missões** e **Gatunos**, com intervalos independentes. **Especial** possui seu próprio filtro para nomes do subtipo `004`, como `questData_0040101_jpn.gmd`. O mapeamento atual do Bar usa níveis codificados de 11 a 14 para G1 a G4 e ainda requer confirmação com mais amostras.
 
-**Exportar Missões** extrai textos somente dos três ARC agrupados para `QuestsText/`, ao lado do executável. Os TXT existentes são mantidos. As subpastas `Normal`, `Gatunos` e `Especial` não mudam com o idioma da interface.
+**Exportar Missões** extrai textos somente dos três ARC agrupados para `MHXX/QuestsText/`, ao lado do executável. Os TXT existentes são mantidos. As subpastas `Normal`, `Gatunos` e `Especial` não mudam com o idioma da interface.
 
-Após traduzir, **Importar Missões** aplica os textos aos arquivos agrupados e aos ARC individuais correspondentes, usando o nome interno do GMD. O resultado fica em `QuestsOutput/`, preservando os caminhos relativos. Os filtros reduzem o processamento das entradas; a descoberta de arquivos e a leitura de tabelas ainda podem ser necessárias.
+Após traduzir, **Importar Missões** aplica os textos aos arquivos agrupados e aos ARC individuais correspondentes, usando o nome interno do GMD. O resultado fica em `MHXX/QuestsOutput/`, preservando os caminhos relativos. Os filtros reduzem o processamento das entradas; a descoberta de arquivos e a leitura de tabelas ainda podem ser necessárias.
 
 - Mantenha os ARC de origem e os arquivos `source.sha256` associados à exportação.
 - TXT ausente mantém a entrada original.
 - Caminhos internos duplicados podem gerar nomes com `__entryNNNN`. Traduções conflitantes impedem a propagação para a missão individual e geram uma mensagem no log.
 - **As importações não são cumulativas:** cada execução reconstrói a partir do original. Na importação final, marque todas as categorias e intervalos que devem entrar no mesmo ARC.
+
+### Missões do MH4U
+
+Selecione **MH 4G / 4U → Missões**, escolha a pasta com os dois ARC e marque os idiomas do jogo. Inglês vem marcado inicialmente. A busca recursiva aceita nomes `quest` seguidos de números e `.arc`, como `quest00.arc` e `quest01.arc`.
+
+A extração fica em `MH4G/QuestsText`, ao lado do executável. Exemplo:
+
+- `quest00/source.sha256`: identificação do ARC original.
+- `quest00/loc/quest/m00101.1BBFD18E`: cópia original da missão.
+- `quest00.arc__loc~quest~m00101__0001__eng.txt`: sete campos de texto em inglês.
+- `quest00.arc__loc~quest~m00101__0001__fre.txt`: francês, quando selecionado. Também há `spa`, `ger` e `ita`.
+
+O ARC reconstruído fica em `MH4G/QuestsOutput/quest00.arc`. Os caminhos internos e as subpastas da origem são preservados. A organização por Vila/Área de Encontro/estrelas ainda não foi implementada para o MH4U: falta confirmar essa classificação.
+
+Traduza os TXT mantendo o cabeçalho e os índices `[0000]` a `[0006]`. Neste formato específico, cada entrada ocupa uma linha no editor: escreva `\n` para quebra de linha, `\r` para retorno de carro, `\t` para tabulação e `\\` para uma barra literal. Não altere esses escapes para sequências duplicadas. O parser converte os escapes em caracteres reais ao reinserir.
+
+A exportação mantém TXT existentes. A importação usa esses TXT; alterações manuais nas cópias `.1BBFD18E` não são importadas. Textos ausentes ou idiomas desmarcados preservam o original. Os textos alterados são acrescentados ao final da missão e seus ponteiros são atualizados, sem deslocar os dados de gameplay.
+
+Mantenha os ARC originais e `source.sha256`. Na importação final, marque todos os idiomas traduzidos, pois cada execução parte da origem. Um erro interrompe a reconstrução daquele ARC e aparece no log; outros ARC podem continuar sendo processados.
+
+Os testes em C# passaram nas **207 missões do quest00.arc fornecido e em uma missão avulsa**, incluindo ida e volta sem alterações, textos Unicode maiores e preservação dos demais bytes. A compilação completa da interface e a validação visual ainda estão pendentes. O segundo ARC real e o funcionamento no jogo ainda precisam de teste. O suporte inicial aceita a versão de ARC `0x13` e o cabeçalho de missão `0xA0 / v005`.
 
 ### Regras de tradução
 
@@ -187,3 +237,13 @@ A verificação estrutural não garante que o texto caiba nas caixas do jogo. Pr
 ## License / Licença
 
 MIT — see [LICENSE.txt](LICENSE.txt) / consulte [LICENSE.txt](LICENSE.txt).
+
+### Folder migration / Migração de pastas
+
+Quest operations automatically move legacy `QuestsText` and `QuestsOutput` from the executable folder into `MHXX/`, and from `MH4U/` into `MH4G/`. Existing different versions block migration with a message showing the conflicting paths; nothing is silently overwritten. Keep the updated executable in the same publish folder to find the old folders.
+
+All newly exported MH4U TXT files share `MH4G/QuestsText/`. Names include the source ARC relative path, internal quest path, entry index (zero-based), and language. Example: `quest00.arc__loc~quest~m00101__0001__eng.txt` (the index depends on the ARC). `~` represents a path separator; special characters are encoded as `%XX`. Do not rename these files. Original quest copies and `source.sha256` remain in archive subfolders. When a selected language is exported or imported, its old nested TXT is moved to its flat name without replacing translations. MHXX retains its category and star subfolders.
+
+Ao exportar ou importar missões, o programa move as antigas pastas `QuestsText` e `QuestsOutput` da raiz para `MHXX/`, e as de `MH4U/` para `MH4G/`. Mantenha o executável atualizado na mesma pasta publish. Arquivos diferentes com o mesmo destino interrompem a migração com os caminhos no log; nenhuma versão é escolhida automaticamente.
+
+Os TXT novos do MH4U ficam todos diretamente em `MH4G/QuestsText/`. O nome contém ARC, caminho interno da missão, índice da entrada (começando em zero) e idioma. Exemplo: `quest00.arc__loc~quest~m00101__0001__eng.txt` (o índice depende do ARC). `~` representa separação de pastas e caracteres especiais usam `%XX`. Não renomeie os TXT. As cópias originais e `source.sha256` continuam nas subpastas dos ARC. TXT antigos dos idiomas selecionados são movidos durante a exportação ou importação, preservando as traduções. As categorias e estrelas do MHXX permanecem organizadas em subpastas.

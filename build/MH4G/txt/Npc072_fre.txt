@@ -1,0 +1,422 @@
+﻿[0000] Pois bem. Vamos?
+[0001] Até a próxima.
+[0002] dmy
+[0003] Já estive em Dondruma antes.
+[0004] É uma cidade forte. Uma que sempre
+se reergue, não importa quantas vezes monstros
+a destruam.
+[0005] Desta vez não será diferente.
+Você verá.
+[0006] Todos devemos ajudar o povo de Dondruma.
+[0007] Eu ajudarei à minha maneira.
+Você ajudará à sua.
+[0008] O Mestre da Defesa chegará em breve.
+[0009] Se é verdade que ele foi mentor
+do Comandante Ás... não posso deixar de pensar se
+a Castanha-Lasca caiu longe da árvore.
+[0010] Graças a você, temos todos os materiais
+para construir o Dracolégio.
+[0011] Mas onde está o Mestre da Defesa?
+Ele já devia ter chegado.
+[0012] Os moradores estão ficando preocupados.
+[0013] Aceita uma breve história de heroísmo?
+[0014] Muito tempo atrás, um Monoblos
+se aproximava de certo vilarejo.
+[0015] O povo foi tomado pelo medo.
+Mas então um jovem entrou em ação.
+[0016] Sozinho, com nada além de uma arma
+e armadura simples, ele desafiou
+o monstro... e o derrotou.
+[0017] A caçada durou dias,
+segundo a lenda.
+[0018] Ali, lá em cima. Está vendo?
+Aquelas nuvens.
+[0019] ...Uma tempestade está chegando.
+[0020] Eu devia saber que você seria capaz de
+caçar aquele Monoblos.
+[0021] Mas talvez eu prefira a alegria da dúSaúde,
+e a agradável surpresa que vem depois.
+[0022] Então devo projetar uma arma defensiva
+para Dondruma...
+É uma grande honra.
+[0023] Prometo agora: criarei algo
+que nem mesmo um Dragão Ancião
+conseguirá mover.
+[0024] Meu projeto da arma defensiva
+está pronto. Um esforço digno.
+[0025] Porém, ele incorpora várias
+ideias novas e ousadas.
+[0026] Vou precisar de alguns materiais raros,
+e de um caçador para reuni-los.
+[0027] *Ahem*
+...Isso se chama "insinuação."
+[0028] Vejo-me surpreso mais uma vez.
+[0029] A Saúde de um caçador certamente não
+pode ser chamada de tediosa.
+[0030] Sinto pelos moradores.
+[0031] Justo quando os reparos e melhorias
+começavam a tomar forma, um Seregios
+apareceu...
+[0032] Isso tiraria o vento
+das velas de qualquer um.
+[0033] Belo trabalho caçando aquele Seregios.
+[0034] Agora que os esquifes de areia funcionam
+de novo, os moradores podem seguir fortificando
+a cidade contra o Dragão Ancião.
+[0035] Seregios estão surgindo em toda região?
+Mau presságio, sem dúSaúde.
+[0036] Devemos concluir a arma defensiva,
+e depressa.
+[0037] A arma defensiva ficará
+pronta em breve.
+[0038] Como arquiteto, é um
+momento empolgante para mim.
+[0039] Pretendo ajudar a calibrar
+a arma defensiva.
+[0040] Não desperdice sua força se preocupando
+conosco. Apenas vá atrás daqueles
+monstros frenéticos.
+[0041] O que a aparição dos monstros
+frenéticos pode significar?
+[0042] É melhor nos prepararmos
+para qualquer coisa...
+[0043] Você ouviu?
+...Uma carta do Lanceiro.
+[0044] O Mestre da Defesa vai contar
+tudo a você.
+[0045] Não se preocupe com o Lanceiro Ás.
+Ele ficará bem.
+Você o conhece tão bem quanto eu.
+[0046] Deixe a cidade conosco e mantenha
+a cabeça fria.
+[0047] Concentre sua força na tarefa
+mais importante à sua frente.
+[0048] Como visitantes, é fácil esquecer
+a importância desta cidade. Para o povo
+daqui, esta cidade é lar.
+[0049] Ajude a mantê-la segura. Use a arma
+em suas mãos para proteger aqueles
+com quem se importa.
+[0050] Fique de pé, amigo. Quando a chuva
+o derrubar, fique ainda mais alto.
+[0051] Se fizer isso, até as provações mais duras
+passarão por você como água.
+[0052] Belo trabalho repelindo o ataque.
+Agrada-me saber que minha arma
+serviu a seu propósito.
+[0053] O Comandante salvou o Cadete,
+você diz?
+[0054] Mais um sinal de que as coisas ficarão
+bem no mundo.
+[0055] Vá em frente. ...Cace.
+Você caça, eu o mantenho armado.
+Assim a Saúde segue.
+[0056] Ah, acabei de lembrar. Tenho 
+[0057] notícias
+[0058] .
+[0059] Quero aprimorar 
+[0060] o projeto de
+certo tipo de equipamento
+[0061]  para que você
+enfrente monstros mais poderosos.
+[0062] O Caravaneiro está dando uma
+última revisada nos projetos.
+[0063] Espero que lhe agrade.
+[0064] ...Hm? Você parece ter
+algo a dizer. O que é?
+[0065] É sobre as Missões que o Caravaneiro
+tem dado a você ultimamente?
+[0066] Ele mal é do tipo que prende alguém
+com favores pessoais...
+[0067] Então tente manter a mente aberta e
+honrar os pedidos dele.
+[0068] Seja o que for que ele peça, garanto
+que não é por interesse próprio.
+[0069] Dondruma conseguiu de novo.
+[0070] Seus artesãos trabalham juntos
+com rapidez e grande habilidade.
+[0071] Mais um motivo para proteger
+este lugar.
+[0072] Veja como os moradores estão empolgados.
+Devo fazer minha parte para ajudar nos
+reparos e melhorias.
+[0073] Comandante e Cadete, mentor e pupilo...
+Um dá propósito ao outro.
+[0074] E quanto a você?
+Você tem um mentor?
+[0075] O Entregador passou o dia todo
+cobiçando as maçãs do Mestre Ferramenta...
+[0076] Se uma Missão estiver difícil demais,
+talvez deva repensar as propriedades
+elementais do seu equipamento.
+[0077] Esses valores aparentemente simples podem
+bastar para virar o jogo.
+[0078] Ao escolher armadura, usar uma
+série completa pode não bastar
+para ativar as Habilidades que quer.
+[0079] É aqui que Adornos realmente brilham.
+Utilize-os.
+[0080] Materiais raros nem sempre fazem
+uma peça de equipamento refinada.
+[0081] Considere Habilidades e elementos além
+de Ataque e Defesa. Usar as
+forças do equipamento é vital.
+[0082] Nunca desanime só porque você
+não tem os materiais que mais quer.
+[0083] Ahh... outro dia.
+Devo fazer algum equipamento novo?
+[0084] Agora que você limpou a tempestade, pode
+sair pelo mundo com orgulho,
+vestindo a armadura que forjamos.
+[0085] Um Mestre da Defesa e o de Elite.
+Eles melhoraram a Saúde um do outro.
+[0086] Fico feliz que, quaisquer forças os tenham
+unido, elas o fizeram.
+[0087] Para onde agora? O que buscaremos depois?
+Naturalmente, o Caravaneiro saltará
+à chance de aventura...
+[0088] Nós seguiremos você até os confins
+da terra. A jornada da Caravana é
+sua jornada agora!
+[0089] Já partindo para outra caçada?
+Você está começando a puxar
+ao Caravaneiro.
+[0090] O Caravaneiro nem sempre
+mantém os mesmos apelidos...
+[0091] Talvez o que ele nos chama seja
+função do humor dele. Talvez.
+[0092] Recebo pedidos frequentes de caçadores que
+querem se equipar como você.
+[0093] Digo a eles que atenderei seus pedidos.
+...Assim que forem bons o bastante para
+me trazer os materiais.
+[0094] Os Miaucenários andaram ocupados?
+[0095] Lembre-se de coletar Retalhos.
+Seus Amigatos precisam de bom equipamento
+tanto quanto você.
+[0096] Se uma Missão estiver difícil demais,
+talvez deva repensar as propriedades
+elementais do seu equipamento.
+[0097] Esses valores aparentemente simples podem
+bastar para virar o jogo.
+[0098] Ao escolher armadura, usar uma
+série completa pode não bastar
+para ativar as Habilidades que quer.
+[0099] É aqui que Adornos realmente brilham.
+Utilize-os.
+[0100] Materiais raros nem sempre fazem
+uma peça de equipamento refinada.
+[0101] Considere Habilidades e elementos além
+de Ataque e Defesa. Usar as
+forças do equipamento é vital.
+[0102] Nunca desanime só porque você
+não tem os materiais que mais quer.
+[0103] Como vão as caçadas com amigos?
+[0104] Se obtiver bons materiais, traga-os
+aqui. Minha armadura fará você virar
+assunto entre seus companheiros.
+[0105] Bem... Aqui estamos.
+[0106] Mas não tema. Se a tempestade soprar,
+permita que sejamos seu baluarte.
+[0107] Um caçador não precisa de
+propósito maior que defender os outros.
+[0108] Então pegue as armas que fazemos para 
+você, e dê tudo de si.
+[0109] Simplesmente... notável.
+[0110] Orgulha-me saber que alguém da
+Caravana salvou a cidade.
+[0111] Desde a geração do meu avô,
+minha família é de andarilhos.
+[0112] Unir forças assim e proteger
+algo... Reunir-se em torno de um único
+propósito compartilhado...
+[0113] Devo confessar, a sensação é nova
+para mim.
+[0114] Mais uma vez, você enriqueceu minha Saúde.
+E por isso, tem minha gratidão.
+[0115] Ah. Justamente quem eu procurava.
+[0116] O Caravaneiro enfim aprovou
+meu projeto. Minha melhoria sugerida para
+certo tipo de armadura...
+[0117] Fico feliz em dizer que agora posso produzir
+uma 
+[0118] nova peça de equipamento
+[0119]  que
+é de qualidade maior que o normal.
+[0120] Lembre-se de agradecer ao Caravaneiro.
+Ele andou muito ocupado -- daí a
+demora em revisar os projetos.
+[0121] Na verdade, ele nem tocou nas suas
+bebidas de costume esse tempo todo.
+[0122] Pelo visto, há coisas que superam
+tanto sua curiosidade QUANTO sua sede
+imprudente.
+[0123] Ele contou com o que andou
+ocupado? Heh, bem. Guarde para
+si. Não sou de bisbilhotar.
+[0124] ...Então. Ouvi dizer que você concluiu
+O Teste do Mestre.
+[0125] Onde quer que esteja hoje o Mestre
+da Defesa, creio que ele ficaria
+feliz em ouvir isso.
+[0126] Rezemos para vê-lo de novo em breve.
+Eu sei que gostaria disso.
+[0127] Vejo que você obteve alguns
+materiais de Seregios.
+[0128] Armas corpo a corpo forjadas com esses materiais
+ganham uma 
+[0129] propriedade especial
+[0130] .
+[0131] Já tentei forjar com esses materiais
+muitas vezes... e parece que fazem
+lâminas nascerem de novo...
+[0132] Além disso, talvez você consiga 
+[0133] restaurar a
+Afiação da arma
+[0134]  ao se esquivar com ela
+sacada.
+[0135] Use armas de Seregios com eficiência,
+e talvez não precise mais
+carregar Pedras de Amolar.
+[0136] Fuzilarcos feitos com
+materiais de Seregios também ganham
+uma nova propriedade.
+[0137] Esquivar com a arma sacada vai
+
+[0138] carregar munição automaticamente
+[0139] .
+[0140] Talvez nunca mais precise carregar
+o Fuzilarco manualmente.
+[0141] Seja qual for o tipo de arma
+que escolher, os benefícios são claros.
+Por que não tentar fazer uma?
+[0142] Vejo que você obteve materiais
+de um Gore Magala especial.
+[0143] Usar materiais especiais de Gore Magala
+em armas faz essas armas ganharem
+uma 
+[0144] propriedade especial
+[0145] .
+[0146] Como descrever... As armas ganham
+valores de Afinidade 
+[0147] positivos e negativos
+[0148] .
+[0149] Como sabe, Afinidade positiva aumenta
+a chance de causar dano pesado,
+e a negativa faz o oposto.
+[0150] Mas uma arma forjada com estes
+materiais de Gore Magala pode 
+[0151] converter uma
+Afinidade negativa em positiva.
+[0152] Como? Tudo acontece depois de superar o
+vírus do Frenesi. Digamos que tenha Afinidade positiva
+20 e Afinidade negativa 40.
+[0153] A Afinidade negativa de 40 virará positiva,
+dando um total de Afinidade positiva 60.
+[0154] Cace com habilidade suficiente, e talvez
+consiga a Afinidade de que precisa
+para vencer a batalha.
+[0155] Ah, justamente a pessoa com quem
+eu queria falar.
+[0156] Houve um avanço na tecnologia
+de forja: agora posso tornar
+suas armas ainda mais fortes!
+[0157] O processo se chama 
+[0158] Refinamento
+[0159] .
+[0160] Com esta técnica, posso pegar uma arma
+aprimorada ao máximo possível
+por meios normais e melhorá-la ainda mais.
+[0161] Mas... há uma condição.
+Só armas de Raridade 8
+ou maior podem ser Refinadas.
+[0162] E, lamento dizer, não posso aprimorar
+Relíquias, e a arma deve
+já ter atingido seu nível máximo.
+[0163] Há três formas de Refinar
+sua arma:
+[0164] A primeira, 
+[0165] Ataque
+[0166] ,
+aumenta seu poder de ataque.
+[0167] A segunda, 
+[0168] Defesa
+[0169] ,
+reforça seu poder defensivo.
+[0170] A última, 
+[0171] Saúde
+[0172] , permite
+recuperar Saúde ao atacar.
+[0173] Traga-me uma arma que possa ser Polida
+junto com o dinheiro e materiais necessários,
+e forjarei uma arma DE VERDADE!
+[0174] Ah, antes que eu esqueça -- deixe-me passar
+o básico sobre 
+[0175] equipamento de Amigato
+[0176] .
+[0177] Para forjar equipamento para seus Amigatos,
+preciso de materiais especiais chamados 
+[0178] Retalhos
+[0179] .
+[0180] Os 
+[0181] Miaucenários
+[0182]  podem
+ser usados para obter Retalhos, se quiser
+fazer novo equipamento para seu Amigato.
+[0183] Eu farei o trabalho pesado, claro.
+Apenas traga os Retalhos aqui, e eu
+forjarei o equipamento.
+[0184] Naturalmente, seus Amigatos devem equipar novas
+armas e armaduras para que elas sejam
+eficazes.
+[0185] Selecione "
+[0186] Gerenciar Equipamento
+[0187] " no
+Quadro de Amigatos para equipar novas armas
+e armaduras.
+[0188] Se algo não ficar claro, consulte 
+[0189] Ajuda
+[0190] 
+na Tela de Toque.
+[0191] Já que está aqui, deixe-me falar
+sobre 
+[0192] Remoção do Limitador de Fuzilarco
+[0193] .
+[0194] Remover o Limitador permite 
+[0195] alterar
+a arma
+[0196] .
+[0197] Por exemplo, remover o Limitador de um Fuzilarco Leve
+reduz o movimento e remove
+seu Recuo e Fogo Rápido.
+[0198] Porém, também aumenta sua capacidade
+de munição e permite trocar tipos de munição
+sem executar uma recarga.
+[0199] Além disso, você pode recarregar toda a munição
+ao mesmo tempo pressionando o Botão X
+e o Botão A ao mesmo tempo.
+[0200] Com Fuzilarcos Pesados, remover o
+Limitador reduz o movimento e tira sua
+capacidade de evadir logo após disparar.
+[0201] Você também perde o Tiro Agachado.
+[0202] Porém, pode carregar mais munição, incluindo
+
+[0203] munição Fulgor do Dragão
+[0204] , e seu poder de fogo
+ganha um aumento significativo.
+[0205] Seu escudo também absorverá mais dano,
+caso tenha essa peça acoplada.
+[0206] ...Dá para ver o grande efeito que
+tudo isso pode ter no uso do seu Fuzilarco.
+[0207] Porém, há uma condição. Para remover o
+Limitador, seu Fuzilarco deve ter 
+[0208] raridade
+6 estrelas ou maior
+[0209] .
+[0210] Mesmo após remover o Limitador, você pode
+restaurar sua função original selecionando "
+[0211] Reinstalar Limitador
+[0212] ."
+[0213] Mas já falei mais do que devia
+por hoje. Por que não simplesmente
+tenta? Você é mais que capaz.

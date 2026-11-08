@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo Alquimia
+[0001]	Instrutor Karista
+[0002]	Sou eu, o instrutor.
+Nesta missão, você treinará
+com o Glaive Inseto, que usa
+o Kinseto para coletar extratos
+e desfere rápidas sequências de golpes!
+Use-o com o Estilo Alquimia,
+que conta com o Barril de Alquimia.
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

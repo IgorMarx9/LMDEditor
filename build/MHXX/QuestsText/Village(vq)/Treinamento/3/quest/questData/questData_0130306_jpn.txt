@@ -1,0 +1,11 @@
+[0000]	Treino de Gatuno ≪Captura≫
+[0001]	Instrutor Calista
+[0002]	O último treino é capturar Grande Maccao!
+Capturar como Gatuno é bem diferente!
+Domine a captura usando Movimentos de Suporte!
+[0003]	Larinoth
+Maccao
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Nenhuma

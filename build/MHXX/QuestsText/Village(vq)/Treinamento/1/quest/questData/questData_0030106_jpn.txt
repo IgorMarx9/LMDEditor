@@ -1,0 +1,15 @@
+[0000]	Treino de Caçador: Caçada
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor. Seu treino
+desta vez é caçar um Grande Maccao.
+Falhar pode custar mais que alguns
+ferimentos! Mostre-me a sabedoria
+e a coragem dignas de um caçador.
+Preparei mais suprimentos desta vez.
+Espero que seja bem-sucedido!
+[0003]	Larinoth
+Maccao
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

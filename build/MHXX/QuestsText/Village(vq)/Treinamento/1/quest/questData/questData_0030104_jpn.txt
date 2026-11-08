@@ -1,0 +1,14 @@
+[0000]	Treino de Caçador: Pesca
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor. Desta vez,
+você pescará e entregará um
+Atum Gourmet. Use a isca
+perto da água para fisgá-lo.
+Se coletar Minhocas de Pesca
+com a Rede de Insetos, ficará
+ainda mais fácil. Antes do jantar!
+[0003]	Larinoth
+[0004]	Entregue 1 Atum Gourmet
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Entregue 1 Peixe-Sashimi

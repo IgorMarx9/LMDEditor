@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo Adepto
+[0001]	Instrutor Karista
+[0002]	Sou eu, o instrutor.
+Nesta missão, você treinará
+com o Arco, uma arma que dispõe
+de flechas com diversas propriedades!
+Use-o com o Estilo Adepto,
+voltado a contra-atacar o inimigo.
+Agora, que comece o treinamento!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

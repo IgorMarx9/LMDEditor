@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo Valente
+[0001]	Instrutor Karista
+[0002]	Sou eu, o instrutor.
+Nesta missão, você treinará
+com a Espada Longa, conhecida
+por suas combinações fluidas!
+Use-a com o Estilo Valente,
+que gira em torno do embainhamento.
+Agora, que comece o treinamento!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

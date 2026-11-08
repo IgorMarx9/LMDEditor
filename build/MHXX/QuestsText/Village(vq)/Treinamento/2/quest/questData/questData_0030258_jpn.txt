@@ -1,0 +1,14 @@
+[0000]	Treino com Estilo Alquimia
+[0001]	Instrutor Karista
+[0002]	Sou eu, o instrutor.
+Nesta missão, você treinará
+com o Espadão, uma arma conhecida
+pela enorme força de cada golpe!
+Use-o com o Estilo Alquimia,
+que conta com o Barril de Alquimia.
+Agora, que comece o treinamento!
+[0003]	Nenhum
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

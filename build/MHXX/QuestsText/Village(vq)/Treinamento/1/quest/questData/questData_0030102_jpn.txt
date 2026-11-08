@@ -1,0 +1,14 @@
+[0000]	Treino de Caçador: Coleta e Combinação
+[0001]	Instrutor
+[0002]	Sou eu, o instrutor. Desta vez,
+você coletará e combinará itens.
+Combinar significa juntar dois itens
+para criar um diferente. Se aprender
+a obter materiais e combiná-los
+em campo, isso será de grande
+ajuda durante suas caçadas.
+[0003]	Larinoth
+[0004]	Entregue 1 Mega Poção
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

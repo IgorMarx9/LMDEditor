@@ -1,0 +1,15 @@
+[0000]	Treino de Caçador: Captura
+[0001]	Instrutor\s
+[0002]	Sou eu, o instrutor. Seu último
+treino será capturar um Grande Maccao.
+Para capturar um monstro, é preciso
+conhecer sua ecologia e saber julgar
+a situação antes de agir. Se conseguir,
+ninguém mais poderá chamá-lo de novato!
+E não esqueça de pegar os suprimentos!
+[0003]	Larinoth
+Maccao
+[0004]	Cace 1 Grande Maccao
+[0005]	Recompensa chega a 0,
+ou o tempo acaba
+[0006]	Nenhum

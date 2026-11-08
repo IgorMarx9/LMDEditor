@@ -1,0 +1,412 @@
+﻿[0000]	O que deseja?
+[0001]	Volte mais tarde, está bem?
+[0002]	Caçador, ainda não estamos abertos.
+Volte mais tarde, certo?
+[0003]	Ah, Caçador. Ainda está com fome?
+Desculpe, o serviço acabou.
+Já comeu bastante hoje. Miau?
+[0004]	dmy
+[0005]	Dundorma é uma vila agradável...
+Não acha, Caçador?
+[0006]	Todos vieram provar meus pratos.
+Fiquei com as patas cheias, miau!
+Como vou atender tanta demanda?
+[0007]	Caçador, bolei um plano
+miauvilhoso.
+[0008]	Vou animar o povo de Dundorma
+preparando pratos
+miauravilhosos.
+[0009]	Quando a crise passar, serei herói!
+Minha comida terá salvado a cidade!
+*ronrom*
+[0010]	O Mestre das Defesas deve
+chegar à cidade em breve.
+[0011]	Dizem que ele é muito importante.
+Miau... E se for muito exigente?
+[0012]	Hmph! Então vou conquistá-lo
+com uma refeição de lamber os beiços.
+Comida resolve qualquer problema.
+[0013]	Algo errado, Caçador?
+Notei que os Ases parecem
+preocupados, miau.
+[0014]	E o Mestre das Defesas!
+Por que está me fazendo esperar?
+[0015]	Quero cozinhar para ele,
+mas ele não está aqui, miau!
+[0016]	Esse Monoblos é um cliente difícil,
+mas, para ser um caçador DE VERDADE,
+terá que derrotá-lo.
+[0017]	Vai chover, miau?
+Olhe para lá... Vejo nuvens
+escuras no horizonte.
+[0018]	Miaau! O povo está trabalhando
+com todas as forças, miau?
+É hora de eu fazer minha parte.
+[0019]	Preciso pensar em como servir
+a esses valentes trabalhadores
+a refeição mais miauravilhosa.
+[0020]	Tem alguma ideia? Não me vem nada...
+Preciso... continuar... pensando.
+[0021]	O Dragão Ancião foi até a Bastilha
+enquanto você estava caçando...
+[0022]	Quase perdi todos os pelos de medo!
+Ele foi embora rápido, mas...
+E se voltar?
+[0023]	Não esqueça que a Missão se chama
+"Vestida de Rosa".
+[0024]	Preciso da sua ajuda para pôr
+as patas em ingredientes
+de primeira qualidade, miau!
+[0025]	Com ingredientes de primeira,
+posso preparar uma refeição deliciosa
+para os moradores.
+[0026]	Vai revigorar você também.
+Vai revigorar de verdade.
+[0027]	Sabe, o Mestre das Defesas
+é bem mais simpático
+do que eu imaginava.
+[0028]	Meu plano de conquistá-lo
+com uma refeição miauravilhosa
+falhou, miau!
+[0029]	Ou será que funcionou? Não sei.
+Minha cabeça está vazia.
+[0030]	Imprrressionado com meus pratos?
+Eles revigoraram a vila
+num piscar de olhos, miau!
+[0031]	Meus pratos farão bem a você também.
+Muito, muito bem.
+[0032]	Você deveria escolher
+[0033]	ingredientes
+de primeira qualidade
+[0034]	 ao pedir
+uma refeição, miau?
+[0035]	Logo ficará cheio de habilidades
+e também receberá
+um bônus de Vigor.
+[0036]	É genial, sem querer me gabar.
+*ronrom*
+[0037]	Já miaucionei que desenvolvi
+[0038]	habilidades totalmente novas
+[0039]	?
+[0040]	Já imagino a entrevista da Guilda!
+Todos vão olhar para mim, miau!
+Como estou?
+[0041]	Os moradores parecem tão abatidos...
+Um Seregios está rondando?
+[0042]	Esses miaunstros só vivem
+em certas regiões e são bem raros.
+Miau? O que ele faz aqui?
+[0043]	Os moradores voltaram a sorrir, miau?
+Deve ser porque o Seregios
+foi embora.
+[0044]	Mas o Dragão Ancião ainda está vindo.
+Quando chegará? O Caravaneiro sabe?
+Não? Miau.
+[0045]	Os moradores estão muito agitados.
+Qual é o prrroblema?
+[0046]	Um Seregios? Sério?!
+Mas o que está acontecendo?
+[0047]	O que foi, Caçador? O Lanceiro
+e o Cadete? Ah, eles já partiram.
+Não sei para onde.
+[0048]	Enchi bem a barriga deles
+antes de deixá-los partir.
+Barriga cheia trabalha melhor!
+[0049]	Parece que os Monstros Hiper
+voltaram...
+[0050]	Talvez devesse passar
+pelo Wyceum.
+[0051]	Eles têm cérebro por lá!
+Fizeram uma grrrande descoberta.
+Talvez seja útil para você?
+[0052]	Não arrepie os bigodes por mim.
+Vou cozinhar para o pessoal
+que está ajustando a arma.
+[0053]	Se tudo der errado,
+me escondo dos miaunstros
+sob o guarda-sol do Mestre.
+[0054]	Um pássaro trouxe uma carta
+para o Mestre das Defesas.
+Sobre o que será que é?
+[0055]	Dizem que o Deviljho é voraz.
+Tenho minhas dúvidas, miau!
+[0056]	Ninguém é mais voraz que você,
+Caçador. Defenda seu título!
+[0057]	Mostre a esse miaunstro
+quem é o rei dos comilões.
+Vá!
+[0058]	Parece que cozinho há uma eternidade
+para os artesãos que trabalham na arma.
+Mas comecei ontem!
+[0059]	O sorriso deles após a primeira
+mordida me deu corrrajem
+para continuar.
+[0060]	Meus pratos miauravilhosos
+são claramente um raio de sol
+nesta época tão sombria.
+[0061]	Espere... Não diga mais nada.
+Vai enfrentar o Seregios Hiper,
+não é?
+[0062]	Sei que vencerá.
+Como tenho certeza?
+Porque estou ao seu lado! Mia ha ha!
+[0063]	Chova, neve ou caiam miaunstros,
+este Felyno diante de você
+jamais vai falhar!
+[0064]	Afinal, ainda tenho o guarda-sol
+do Mestre das Defesas para me esconder.
+[0065]	É hora de prrroteger o povo
+de uma vez por todas!
+Você protege, eu alimento.
+[0066]	Quando todos estiverem salvos
+e a Guilda vier entrevistá-lo,
+fale em "trabalho em equipe"!
+[0067]	Os Ases já vieram comer.
+Os moradores também.
+E os artesãos.
+[0068]	Ainda bem que fiz comida de sobra!
+Tem repeteco para todos!
+[0069]	Uma vitória perrrfeita é garantida.
+[0070]	Estes dias foram cansativos:
+todos invadiam minha cozinha gritando:
+"ME ALIMENTE, MIAU!"
+[0071]	Mas era você que eu queria
+imprrressionar com minhas panelas.
+Só você. Miau.
+[0072]	O Mestre das Defesas foi embora?
+Sério? Que decepção.
+[0073]	Ainda bem que anotei
+todas as receitas favoritas dele
+para a próxima visita, miau.
+[0074]	Uma questão profunda:
+o céu está encoberto
+ou nós estamos descobertos?
+[0075]	*Suspiro* Minha mente está
+se encobrrrindo também.
+Espero que o sol apareça logo...
+[0076]	Essa fortificação demora.
+Mas uma mordida nos meus pratos
+fará tudo andar duas vezes mais rápido!
+[0077]	...Miau? Estou brincando, Caçador!
+Sou cozinheiro, não faço milagres!
+[0078]	Ingredientes frescos aumentam
+a chance de ativar
+habilidades, miau.
+[0079]	Use um Cupom e ingredientes frescos
+antes de uma caçada perrrigosa.
+Não seja pão-duro!
+[0080]	Já memorrrizei os pratos favoritos
+de toda a Caravana. Logo saberei
+também os favoritos dos Ases.
+[0081]	Não vou parar até alcançar
+a harmonia culinária
+da nossa era, miau.
+[0082]	Caçador, sabe que tipo de comida
+o Mestre das Defesas prrrefere?
+[0083]	Hmm, vou ter que fazer
+uma investigação aprrrofundada.
+Ao trabalho, miau.
+[0084]	Comida é mil vezes melhor
+quando dividida com amigos
+sob um lindo céu azul, miau?
+[0085]	Espero que possamos comer juntos
+amanhã. E no dia seguinte.
+E no outro também!
+[0086]	Ingredientes frescos aumentam
+a chance de ativar
+habilidades, miau.
+[0087]	Use um Cupom e ingredientes frescos
+antes de uma caçada perrrigosa.
+Não seja pão-duro!
+[0088]	Adivinhe! Acabei de prrreparar
+um banquete para os Ases, miau!
+Você perdeu!
+[0089]	...Ah. Talvez eu devesse
+ter convidado você, né?
+Miau...
+[0090]	Vai se aventurar de novo, Caçador?
+Que determinação! Que energia!
+[0091]	Mas coma alguma coisinha
+antes de partir.
+[0092]	Que belo dia, miau?
+Perfeito para caçar com Carne Crua
+debaixo de cada braço!
+[0093]	O calor do sol e das axilas
+deve cozinhar a carne
+durante o caminho, miau!
+[0094]	Se jantar com seus companheiros,
+eles também recebem
+os bônus da refeição.
+[0095]	E você só paga pela sua refeição,
+mesmo com dois amigos à mesa.
+Sério! Eu garanto!
+[0096]	Às vezes conto umas mentirinhas,
+mas nunca quando o assunto
+é minha comida.
+[0097]	Devia rolar um dado para escolher
+os ingredientes. Ponha um pouco
+de acaso nos sanduíches, miau!
+[0098]	Não? Você não reconhece
+uma ideia divertida?
+São 36 combinações, miau!
+[0099]	O Camelô Serpiano adora
+Alevino de Cathangée, miau?
+Leve um e ele ficará radiante.
+[0100]	Então, quem são seus parrrceiros?
+Estão com fome? Comam
+antes de partir, miau!
+[0101]	Caçador, adivinhe!
+Tive a ideia mais
+miauravilhosa de todas!
+[0102]	Os moradores trabalham sem parar
+para prrreparar a chegada
+do Mestre das Defesas.
+[0103]	Estou emocionado, miau!
+Então decidi preparar
+[0104]	novos pratos deliciosos
+[0105]	para os moradores e seu convidado.
+[0106]	Mas preciso da sua ajuda.
+Achei o lugar ideal para conseguir
+[0107]	ingredientes de primeira qualidade
+[0108]	.
+[0109]	O prrroblema é que uma malvada
+[0110]	Rathian
+Rosa
+[0111]	bloqueia meu acesso.
+[0112]	Pode me fazer um favor
+e ir caçá-la?
+[0113]	Quero ter uma refeição pronta
+quando o Mestre das Defesas chegar.
+...Hã?
+[0114]	O quê?! O Mestre das Defesas
+já chegou a Dundorma faz tempo?
+Não brinque comigo.
+[0115]	Miargh. Você não está brincando, né?
+Vejo isso nessas bolas brancas
+que humanos chamam de olhos...
+[0116]	*Suspiro*
+[0117]	Perdi o elemento surrrpresa.
+Tanto faz! Uma ótima refeição
+vale a espera.
+[0118]	Cace essa Rathian Rosa e usarei
+ingredientes de primeira qualidade
+numa refeição revigorante, miau.
+[0119]	Você, o Mestre e os moradores
+vão desejar ter
+uma barriga maior.
+[0120]	Registrei uma Missão na Guilda
+chamada "
+[0121]	Vestida de Rosa
+[0122]	", miau.
+[0123]	Não se preocupe!
+[0124]	Você também receberá
+uma recompensa
+[0125]	se conseguir esses ingredientes
+de primeira qualidade para mim.
+[0126]	...Que gentil, miau?
+Pode me agrrradecer
+quando quiser.
+[0127]	Olá, Caçador! Tenho um estoque
+enorme de ingredientes de primeira.
+Muito obrigado! Smack!
+[0128]	E não é só isso!
+Também desenvolvi
+[0129]	novas habilidades
+[0130]	!
+Agora consegui sua atenção, miau?
+[0131]	Corra e prove meus pratos, miau.
+Guardei a melhor notícia
+para o final.
+[0132]	Se escolher ingredientes de primeira
+ao fazer seu pedido,
+ganhará muitas habilidades!
+[0133]	E também recebe bônus de Vigor!
+Sou um gênio da culinária!
+Miau!
+[0134]	Percebi uma coisa,
+Caçador.
+[0135]	Se os moradores uniram forças
+e trabalharam tanto,
+não foi por causa da minha comida.
+[0136]	Fizeram isso porque esta cidade
+é o lar deles e queriam
+prrrotegê-la.
+[0137]	Antes eu teria rejeitado essa ideia,
+mas agora entendo
+perrrfeitamente.
+[0138]	Afinal, agora também tenho um lar!
+Vamos prrrotegê-lo juntos.
+Eu cozinho, você carrega o peso.
+[0139]	Miau, você é mesmo
+um mistério, Caçador!
+[0140]	Como um gatinho como você
+repeliu o Kushala Daora?
+Nunca vou entender.
+[0141]	Estou perrrplexo! Mas foi incrível.
+Admito: você é o maior
+defensor desta cidade.
+[0142]	Seria exagero dizer
+que meus pratos tiveram
+um grrrande papel na vitória?
+[0143]	Se for entrevistado, eu e minha cozinha
+agradeceríamos uma menção.
+Mia ha ha!
+[0144]	Caçador, percebi que talvez
+meus pratos não sejam
+a razão do seu sucesso.
+[0145]	Miargh... O que eu fiz?
+[0146]	A Guilda veio me entrevistar
+e eu disse que você jamais
+teria vencido sem mim.
+[0147]	Talvez eu devesse me retrrratar?
+Ah, já é tarde demais.
+[0148]	Parabéns por concluir o desafio
+do Mestre das Defesas.
+Isso torna você muito especial!
+[0149]	Mas ainda precisa pagar
+pelas refeições.
+[0150]	Olá, Caçador!
+Tenho ótimas notícias!
+[0151]	Sua vitória sobre a Rathian
+permitiu que os Troverianos
+viajassem em segurança.
+[0152]	Eles fizeram um
+[0153]	Grill de Qualidade
+[0154]	especialmente para nós!
+[0155]	Agora você pode assar
+Carne Crua facilmente!
+[0156]	Passo 1! Sente-se à mesa!
+Passo 2! Escolha comer
+ou usar o Grill de Qualidade!
+[0157]	Não esqueça a Carne Crua.
+Sem carne, sem grill!
+[0158]	Se tiver alguma dúvida, toque em "
+[0159]	Ajuda
+[0160]	" no canto superior esquerdo
+da tela de toque.
+[0161]	Miau, hora de cozinhar!
+[0162]	Olá, Caçador. Ouviu a novidade?
+O Camelô Serpiano nos deu
+um presente culinário incrível!
+[0163]	Eu o chamo de
+[0164]	Grill do Cozinheiro
+[0165]	!
+É um item extraordinário.
+[0166]	Ele permite que eu ajude
+quando usar o Grill de Qualidade
+para assar carne.
+[0167]	Não hesite em pedir, Caçador!
+Será um prazer! Mas...
+[0168]	Cobrarei Pontos de Caravana
+por cada uso.
+Obrigado pela compreensão.
+[0169]	Caçador, olhe só
+este estabelecimento luxuoso!
+[0170]	É enorme! E só temos
+ingredientes da melhor qualidade!
+Puro luxo!
+[0171]	E tudo isso é graças a você.
+Nem sei como agradecer.
+Devo muito a você! Mas...
+[0172]	Ainda preciso cobrar
+pelas minhas refeições.

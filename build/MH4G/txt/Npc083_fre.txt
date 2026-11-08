@@ -1,0 +1,609 @@
+﻿[0000] O quê? Esqueceu o que tem
+que fazer agora? Ah, você!
+[0001] Preciso que você cace um 
+[0002] Hermitaur Daimyo
+[0003] ...
+[0004] para que os esquifes de areia possam
+entregar com segurança e rapidez
+os materiais do Quartel de Batalha.
+[0005] A Guildocente deve ter a Missão
+registrada. Boa sorte, sharqparça!
+[0006] Então o Mestre da Defesa foi
+mentor do nosso comandante?
+[0007] Então ele é mentor do meu mentor!
+Tipo meu avô-mentor!
+[0008] Preciso causar uma boa impressão.
+Então, é... me ajuda nessa?
+Por rathafavor?
+[0009] Dondruma nunca decepciona.
+Eu adoro este lugar!
+[0010] Se tiver uma folga, passe na
+Assembleia. A Diva de lá canta
+até sua cara cair. Sério.
+[0011] Você ajudou muuuito nos reparos
+do Quartel de Batalha. Tudo está
+nos trilhos, então, é... Obrigazenny? Heh heh.
+[0012] Vou deixar o lugar tão bonito que
+os olhos do Mestre da Defesa vão saltar.
+Só espere!
+[0013] Agora precisamos reforçar o Dragonseer.
+A Atiradora é nossa especialista
+residente no assunto.
+[0014] Eu cuido do Quartel, então pode
+ir ajudá-la por enquanto.
+Obrigakantors!
+[0015] A Atiradora tem uma visão, tipo,
+sobrenatural. Por isso é perfeita
+para a missão do Dragonseer.
+[0016] Os ouvidos e o nariz dela também são
+afiados. Ela geralmente sabe que item tenho
+no bolso.
+[0017] Agora precisamos nos preparar para construir o
+Dracolégio. Empolgante!
+[0018] Dizem que o Dracolégio vai criar
+um monte de itens úteis. Parece bem
+gravioslegal!
+[0019] Não que eu saiba qualquer coisa sobre
+pesquisa do Frenesi! Seria como
+pedir para eu falar Qurupeco.
+[0020] *Assobio* Não demorou nada para resolver
+o pedido da Atiradora, hein?
+[0021] Vamos ver se terminamos o
+Dracolégio na metade do tempo!
+Pisa no Gobul!
+[0022] *Assobio* Você acabou rapidinho com
+o pedido do Lanceiro, hein?
+[0023] Vamos ver se terminamos o
+Dracolégio na metade do tempo!
+Pisa no Gobul!
+[0024] Então, tipo, o mentor do Comandante
+chega a qualquer dia, né?
+[0025] Estou nervoso feito medula de monstro!
+Quer dizer, como será que ele é?
+[0026] Se ele for rabugento, fique perto de mim.
+Nenhum de nós deve levar bronca
+sozinho! Heh heh.
+[0027] Ei! Viu o Dracolégio?
+Conseguimos todos os materiais!
+[0028] Ah, e falou com nosso comandante?
+Você DEVIA MESMO falar.
+[0029] Hmm... Tantas escolhas... Fico versátil
+com Espada & Escudo?
+Vou ágil com Glaive Inseto?
+[0030] Talvez eu leve Duplas Lâminas e
+deixe ele de queixo caído! Mas e se ele
+não tiver queixo... Hmm...
+[0031] ...Como assim, "quem?" O Mestre
+da Defesa! Preciso escolher uma arma
+para o resgate dele. Impressões contam!
+[0032] Então, e aquele Monoblos?
+O monstro mais casca-grossa ou
+o MAIS casca-grossário de todos?!
+[0033] Derrubar ele sozinho seria épico!
+Que caçador não ia querer botar ESSA
+pena no chapéu? Carambalala!
+[0034] O Mestre da Defesa costumava
+ser caçador, certo?
+[0035] Talvez ele dê um perdido naquele Monoblos
+antes de termos chance de
+resgatá-lo! Heh heh.
+[0036] Mana, você foi INCRÍVEL naquela
+última missão! Toca aqui!
+[0037] O jeito que pulou para defender os
+esquifes de areia quando aquele bruto
+deu a investida? TOTALMENTE gargwástico.
+[0038] ...Oh. Ei, caçador! Eu e a Atiradora
+só estávamos fazendo um pequeno relatório.
+[0039] Claro, você também merece crédito.
+Graças a você, o Mestre da Defesa
+voltou são e salvo! Massa.
+[0040] Consegui conversar com o Mestre da Defesa
+enquanto o escoltava de volta a Dondruma.
+[0041] Eu queria ouvir histórias sobre ele e
+o Comandante... mas meio que acabei
+falando só de mim o tempo todo.
+[0042] Ele é um baita bom ouvinte...
+Sorte que parei antes de soltar
+algum segredo vergonhoso.
+[0043] Arranjei tempo para falar mais com o
+Mestre da Defesa. Ele disse que preferia
+Martelo nos dias de caçador.
+[0044] Empatado como MINHA arma favorita também!
+Já me sinto mais próximo dele.
+[0045] O que acha do Martelo?
+...Justo. Cada um com seu gosto!
+[0046] Tive uma revelação chocante enquanto
+batia papo com o Mestre
+da Defesa. Você não vai acreditar!
+[0047] A Atiradora também foi pupila dele!
+Ela e o Comandante!
+[0048] ...! Hmm.
+Você não parece tão chocado.
+[0049] O Lanceiro estudou com o Mestre
+da Defesa. O Comandante e a Atiradora
+foram pupilos dele... Mas eu?
+[0050] Parece que sou o único que ficou
+na chuva... Para ele, sou ninguém.
+Bummertaur.
+[0051] Acho que só preciso me esforçar mais
+para causar boa impressão! Então um dia
+ele talvez me considere seu... hã...
+[0052] Conhecido? Fã?
+Contador? ...Ooh, é isso!
+Aposto que ele ainda não tem um.
+[0053] Ou precisa de um... *suspiro*
+[0054] Psst. O Comandante está com cara
+melhor? ...Ei, não encare!
+Vai estragar meu disfarce!
+[0055] Ele está tão pra baixo. Estou super
+preocupado. O que está incomodando ele?
+[0056] Acho que fiz besteira.
+Por isso estou escondido aqui.
+[0057] Pode, sabe, perguntar casualmente
+o que houve? Odeio me sentir
+hermitorto assim! Buá...
+[0058] Ah, e faça o que fizer, não mencione
+meu nome! Você não me viu!
+[0059] *Suspiro* Sei que decepcionei o Comandante
+de novo.
+[0060] Sou uma cabeça de musgoíno. Deviam 
+me arrastar para fora e me amaldiçoar.
+[0061] Acho que vou ficar aqui e esperar o
+mundo esquecer que um dia existi. Buá...
+[0062] O Comandante está pra baixo e
+o sujeito na Assembleia parece mais
+"cansadão" que nunca.
+[0063] Até eu estou ficando meio cansado agora...
+[0064] Você sabe que o Lanceiro e o
+Mestre da Defesa começaram a caçar
+na mesma época, certo?
+[0065] Quando fomos buscar o Mestre
+da Defesa, ele disse: "Ainda é um grande
+caçador, vejo."
+[0066] E o jeito que ele sorriu para o Lanceiro --
+[0067] Não sei como descrever, mas me fez
+querer que ele fosse meu mentor também.
+[0068] Não que eu esteja infeliz aprendendo com o
+Comandante. Muito pelo contrário!
+[0069] Só sinto que devia fazer algo para
+tirar um peso da cabeça do Mestre
+da Defesa. Ele merece.
+[0070] Do meu ponto de vista, se considerar o
+habitat do Seregios--
+[0071] Oh. Foi difícil lá fora, hein?
+Bem, não vou gastar energia demais
+me preocupando.
+[0072] Você já provou que consegue se recuperar
+de coisa pior que isso! Heh heh.
+[0073] A Atiradora vai sair para capturar uma
+Rathian.
+[0074] Mas ela me avisou para não soltar
+uma palavra ao Comandante. "Ou senão",
+ela disse.
+[0075] Não se preocupe. Boca fechada.
+Não quero que ela me dê uma surra.
+...De novo.
+[0076] Ouvi que vai caçar o Seregios.
+Bem, boa sorte lá fora! Dê naquela fera
+umas pancadas extras por mim!
+[0077] Vou segurar o forte enquanto
+você estiver fora. Honra de Cadete!
+[0078] Yahoo! Finalmente podemos retomar
+a retomada de onde paramos. Isso!
+[0079] Eu já estava começando a sentir falta
+dos reparos também. Parece meu aniversário!
+[0080] A Atiradora saiu para capturar uma
+Rathian.
+[0081] Mas nada de contar ao Comandante.
+Bico fechado. Confie em mim.
+[0082] Você não quer que ela te dê uma surra.
+[0083] Ei! Como vão as caçadas?
+Voltou de derrubar aquele Gravios Tétrico?
+[0084] Bem, não gastei muita energia
+me preocupando.
+[0085] Você já provou que aguenta
+monstruosidades piores! Heh heh.
+[0086] A Atiradora voltou de capturar aquela
+Rathian.
+[0087] De algum jeito, consegui não soltar a notícia
+ao Comandante... Ela me quebraria
+se eu contasse. Ka-blonk!
+[0088] Ah, você soube? Eu e o Lanceiro vamos
+sair para fazer um trabalho de campo
+superespecial.
+[0089] Ele e o Caravaneiro estão acertando
+os detalhes enquanto falamos.
+[0090] Espere grandes coisas. Afinal, está falando
+com um especialista narga-fidedigno em
+trabalho de campo!
+[0091] Se eu me sair bem no trabalho de campo,
+o Comandante vai parecer bem diante do
+Mestre da Defesa?
+[0092] Espero que sim. Eu fico bem se ele
+fica bem porque eu fico bem.
+...Acho.
+[0093] Não se preocupe! Talvez eu não seja erudito
+o bastante para ajudar o Lanceiro nesse nível,
+mas tenho outras qualidades. Sim.
+[0094] ...Vou deixar em aberto. Quaisquer
+qualidades que você acha que tenho, são essas
+que vou usar para ajudá-lo.
+[0095] Aquele Brachydios frenético era um
+cliente seriamente casca-grossa. Sério!
+[0096] Você DEVIA MESMO passar pelo
+
+[0097] Dracolégio
+[0098]  e ver se eles sabem de
+algo que dê vantagem.
+[0099] Então lá estávamos nós avançando galantemente
+quando BAM! O colosso aparece.
+O Lanceiro saltou e--
+[0100] Oh! Ei. É improvável que aquele
+
+[0101] Brachydios frenético
+[0102]  tenha sido só acaso.
+Outros monstros podem estar afetados.
+[0103] Preciso ficar por aqui caso essas coisas
+resolvam agnaktorizar a cidade
+inteira.
+[0104] Aquele Brachydios frenético era um
+cliente seriamente casca-grossa.
+[0105] Já teve chance de passar pelo
+Dracolégio?
+Sério? Certo...
+[0106] Mana, você leu a carta do
+Lanceiro? Que qurupelhos está acontecendo?!
+[0107] Oh! Caçador, você voltou!
+Como fico feliz que esteja seguro.
+[0108] Escuta, você precisa falar com o Mestre
+da Defesa tipo ontem! PRA JÁ!
+[0109] Mana, qual é! Eu disse que não me importo
+em fazer isso. Vou na frente e enterro
+aquele Deviljho frenético!
+[0110] ...Hã? Como assim, fazer meu trabalho?
+...Tá bom, tá bom. Sei que minhas ordens
+são defender a cidade.
+[0111] Oh! Caçador! Eu e a Atiradora vamos
+ficar por aqui e expulsar qualquer monstro
+frenético que tente atacar.
+[0112] Você se importa de caçar o Deviljho
+enquanto fazemos isso? Valeu!
+[0113] Mana, falei com o Comandante e
+definimos postos de combate caso os
+monstros frenéticos ataquem.
+[0114] Eu cuido dos monstros mais próximos daqui,
+e você me cobre daqui...
+O Comandante nos orienta daqui...
+[0115] Oh! Ei, Caçador. Não se preocupe.
+Vamos travar esta cidade mais firme
+que mordida de Tigrex!
+[0116] E aí! Como vão as caçadas?
+[0117] Indo trabalhar? Estou pensando em
+caçar também.
+[0118] Não dá para desperdiçar um dia bonito
+como este. Tem que amar esse céu azul!
+[0119] Me pergunto o que o Mestre da Defesa
+acha de mim agora. Será que ele lembra
+que sou pupilo do pupilo dele?
+[0120] Espero que sim... Não quero ficar
+sem avô-mentor...
+[0121] Enfim, o que acha?
+[0122] Agora que comando os reparos do Quartel
+de Batalha, você diria que pareço mais alto?
+Talvez mais autoritário?
+[0123] ...Aonde você vai?
+[0124] E aí! Como vai essa congalangada?
+Estou ótimo. Obrigado por perguntar!
+[0125] Decidiram me deixar dar as ordens
+nos reparos do Quartel de Batalha. Está tudo
+sob controle, então cace tranquilo.
+[0126] Ei, o que foi? Não é seu estilo
+ficar de bobeira por aqui.
+[0127] ...O-o quê?! Você está CANSADO de caçar?
+[0128] Santo Ceadeus! Está doente? Está com
+febre? Sofreu recentemente
+a perda de alguém querido? Um pet favorito?
+[0129] Isso não é motivo para desistir da vida!
+Comandante! COMANDANTE!
+[0130] Precisamos de uma intervenção! Ponha juízo
+nesse pobre coitado!
+"Cansado de caçar"?! Credo!
+[0131] Você parece querer tirar um tempo
+para afiar a mente, não só
+suas habilidades de caça.
+[0132] Autodesenvolvimento -- eu entendo.
+Na verdade, conheço o professor perfeito.
+[0133] Lanceiro! Lanceeeiro! Encontrei outro
+aluno em potencial! Este aqui tem
+potencial, estou dizendo! Mão na massa!
+[0134] Puxe o material de curso bem difícil --
+este aqui aguenta!
+[0135] O que houve? Está ferido?
+Omiwrog! Não se mexa!
+[0136] Mana? Mana! Onde está? Pegue seu
+kit de primeiros socorros! Precisamos de médico!
+[0137] Mana? Alô? O paciente está com
+dor excruciante! Chorando rios,
+estou dizendo! Depressa!
+[0138] ...O quê? Quer saber se existe
+um jeito mais fácil de conseguir
+os materiais que procura?
+[0139] Hmm. Eu nunca, jamais tenho esse problema,
+então não acho que posso ajudar.
+[0140] ...Oh! Mas ouvi que existe uma refeição
+que aumenta as Recompensas de Missão.
+Talvez eu tenha sonhado? *dá de ombros*
+[0141] A faca que o Mestre da Defesa
+carrega é a mesma que todos caçadores têm.
+Prova que, no fundo, ele é dos nossos!
+[0142] Se você é caçador, fica com sua
+confiável faca de caça pela vida toda.
+[0143] Tem feito sua lição de casa
+antes das caçadas?
+[0144] Os Mercados de cada cidade vendem livros
+de Info. de Monstros que ajudam muito.
+[0145] Eu amo livros. Amo de coração. Sério.
+Leio todos de capa a capa --
+eles fazem as horas voarem.
+[0146] O Comandante fica tão lavientemente 
+bravo comigo quando saio para caçar 
+sozinho -- absolutamente furioso.
+[0147] Ele faz isso o tempo todo, então por que
+explode comigo? Não é justo.
+[0148] Acho que ele ainda não me vê como um
+caçador completo. Vou ter que
+continuar me dedicando. *suspiro*
+[0149] Qual é o próximo item na pauta de caça?
+...Sério? Legal.
+[0150] Saio em todo tipo de caçada com o
+Comandante, mas nunca caçamos uma
+Rathian juntos nem uma vez.
+[0151] Ei! Faz tempo! ...Mais ou menos.
+Na verdade, não. Heh heh.
+[0152] Me diverti muito fazendo equipe com você
+naquela missão outro dia.
+[0153] Sei que você está com a Caravana
+e não pode vir em todas as missões, mas
+aposto que seria divertido se viesse.
+[0154] Belo tempo, hein? Em dias ensolarados
+assim, só penso em sair
+correndo pela Selva Eterna.
+[0155] Agora, se eu conseguisse achar a carroça...
+[0156] Ei. Está bem confiante com
+essa arma?
+[0157] Sou confiante com qualquer arma.
+Mas o Comandante me supera quando o assunto
+é uma: as Duplas Lâminas.
+[0158] O Comandante é praticamente o melhor.
+Sim. Espero ser tipo um doze avos
+do caçador que ele é um dia.
+[0159] Ei. Como vai--
+O quê? Por que está me olhando assim?
+[0160] Oh! Você percebeu que não troco
+de equipamento faz tempo.
+[0161] Pfft. Pergunta de verdadeiro amador!
+[0162] Já maximiziei todo meu equipamento
+com Esferas de Armadura. Minha defesa é tão
+alta que quase brilho! ...Com inveja?
+[0163] Esse Felyno que você mantém como
+cozinheiro é bem espertinho.
+[0164] Quando passei na barraca dele com a
+Atiradora, ele fez EU pagar e deixou ELA comer
+de graça.
+[0165] Por que sempre sobra pra mim? 
+*resmunga*
+[0166] Esse seu mercador algum dia baixa
+os preços?
+[0167] Venho jogando dinheiro nele
+faz SÉCULOS, e ele ainda não corta um único
+zenny dos preços.
+[0168] Eu levaria meus negócios para outro lugar, mas...
+GOSTO de comprar lá. *resmunga*
+[0169] Me pergunto como o Mestre da Defesa
+está. Ele não era nada como a pessoa
+que eu esperava.
+[0170] Para começar, eu não sabia que ele era
+tão parecido com nosso Comandante.
+[0171] Fui caçar uma Rathian com
+o Comandante outro dia.
+[0172] Ele passou o tempo todo me encarando
+e dizendo que preciso trabalhar meu
+foco. ...Foi legal.
+[0173] O Comandante parou de gritar comigo por
+sair em caçadas sozinho.
+[0174] Isso quer dizer que finalmente passei de ano?
+Porque isso seria gargwástico.
+[0175] ...Muito gargwástico, na verdade.
+Heh heh. O que acha?
+[0176] Outro dia, a Guildocente me mostrou
+o caderno dela.
+[0177] Os desenhos eram... meio rabiscados,
+mas o que ela escreveu sobre monstros
+era super perspicaz.
+[0178] Fiquei bem impressionado. Em muitos
+sentidos, o material dela é melhor que
+o que foi publicado.
+[0179] Acho que é por isso que ela aceitou o trabalho.
+Para aprender mais sobre o que ama.
+E eu entendo isso, de certo modo.
+[0180] Desculpa. Falei demais! *corando*
+[0181] Oh! Caçando com amigos?
+Me leva junto! Por rathafavor?
+[0182] Não posso aceitar Missões porque gastei
+todo meu dinheiro em equipamento. Ops.
+[0183] Ei, ei! Quanto bishatempo!
+Como vão as caçadas?
+[0184] O Comandante disse que traria
+o melhor -- eu devia saber que estava
+falando de você. Sério.
+[0185] Ah, eu? Sim, heh heh. Me colocaram
+no comando de consertar o 
+[0186] Quartel de Batalha
+[0187] .
+[0188] Bem radalos, não é?
+Acho que sou um chefe bem chefe.
+[0189] O Quartel de Batalha é uma área de caça
+extraespecial que a cidade usa para deter
+ataques de monstros. Fato verdadeiro!
+[0190] Sempre que o perigo se aproxima, eles transformam
+a praça em acampamento improvisado e se preparam
+para mandar a agnaktormeaça embora.
+[0191] A entrada fica bem ali --
+passe pelo Portão de Missões e continue
+seguindo o corredor.
+[0192] Não que você precise ir lá
+agora, mas achei que gostaria
+de saber. Kirin é dividir!
+[0193] Então, talvez tenha ouvido que o
+Quartel de Batalha ficou bem destruído
+no último ataque de monstro...
+[0194] Espero conseguir remendar tudo
+antes que o Mestre da Defesa chegue.
+[0195] Preciso que você cace um 
+[0196] Hermitaur Daimyo
+[0197]  para
+os esquifes de areia entregarem os materiais
+de que preciso com segurança e pontualidade.
+[0198] Eu iria pessoalmente, mas agora sou classe chefe,
+então preciso segurar o forte aqui.
+Bem, mais tipo levantar o forte, mas...
+[0199] Enfim! Registrei uma Missão chamada
+"
+[0200] Afunda-Esquife
+[0201] " com
+a Guildocente.
+[0202] Oh! Eu ia perguntar...
+[0203] É verdade que o Mestre da Defesa foi
+o 
+[0204] mentor do Comandante
+[0205] ?
+[0206] Porque isso, tipo, faz dele meu
+mentor do mentor! Meu avô-mentor!
+[0207] Preciso garantir que não vou decepcioná-lo
+como grandepupilo. Isso seria gigginorrível
+DEMAIS!
+[0208] Psst! Posso falar com você um segundo?
+[0209] Fui perguntar algo ao Comandante,
+e ele me deu uma resposta totalmente
+meia-boca. ...Isso não é nada dele!
+[0210] Fiz algo para irritá-lo?
+Será que decepcionei ele de algum jeito?
+[0211] Sou uma cabeça de musgoíno. Devo 
+ter falhado com ele -- eu sei. Deviam 
+me arrastar para fora e me amaldiçoar.
+[0212] Agora ele está pra baixo e o sujeito
+na 
+[0213] Assembleia
+[0214]  parece
+mais "cansadão" que nunca.
+[0215] Até eu estou meio cansado.
+E embaçado. Nada animado. Que pesado.
+......
+[0216] E então? O que está esperando?
+Sofra comigo! Odeio me sentir
+hermitorto assim! Buá...
+[0217] Ufa... Depois de um copo d'água e
+uma chance de recuperar o fôlego, a situação
+não parece tão ruim...
+[0218] Parece PIOR! Estamos atolados até o pescoço
+em esterco de monstro, e nem sei
+por onde começar!
+[0219] Acalme-se, pelo amor dos dragões!
+Apenas diga o que descobriu sobre
+o Seregios.
+[0220] Não cheguei tão longe, senhor!
+Tive que voltar correndo para avisar!
+[0221] Eles VOLTARAM!
+[0222] Eles estão TÃO... wroggando... DE VOLTA!
+[0223] Eu vi um Brachydios frenético!
+[0224] E ele me viu! Oh, foi horrível!
+[0225] O quê?! Um monstro frenético?
+[0226] Não, isso não é possível.
+Shagaru Magala já foi
+resolvido!
+[0227] Monstros frenéticos, você diz...
+Nunca vi um pessoalmente.
+[0228] A única forma concebível de aparecerem
+agora é se 
+[0229] algo ALÉM de
+Shagaru Magala
+[0230]  estivesse causando isso.
+[0231] Bem, espere um momento -- ainda não podemos
+fazer afirmações tão ousadas.
+[0232] Se o Frenesi chegou tão longe,
+o que o impediria de se espalhar
+para outro lugar? Pode até chegar aqui!
+[0233] Tome um momento para se recompor,
+e então conte tudo que viu,
+Cadete. E digo tudo.
+[0234] S-s-sim, senhor!
+[0235] Tudo ficará bem logo, meu rapaz.
+[0236] Sugiro que nossa primeira prioridade seja
+conter qualquer dano potencial de
+monstros frenéticos.
+[0237] Caçador, gostaria de pedir que você cace
+aquele que conhecemos: o
+Brachydios frenético.
+[0238] Pelo que entendo, você é um dos
+poucos caçadores -- talvez o ÚNICO caçador --
+digno da tarefa.
+[0239] Os Caçadores Ás permanecerão em
+Dondruma para deter quaisquer monstros
+que se aproximem. Ergueremos duas muralhas.
+[0240] Ah, e antes de ir, Caçador, você deve
+passar pelo 
+[0241] Dracolégio
+[0242] .
+Eles fizeram um avanço recentemente.
+[0243] Deve se provar eficaz contra
+monstros frenéticos, incluindo o
+Brachydios frenético que enfrentará.
+[0244] Perfeito! Enquanto estiver no Dracolégio,
+vou registrar aquela Missão para
+derrubar o Brachydios.
+[0245] Esplêndido! Boa sorte, Caçador.
+E tome cuidado lá fora.
+[0246] Ei, o que foi? Como vão as caçadas?
+[0247] Eu? Ah, você me conhece.
+Estou sempre de bom humor...
+[0248] Mesmo quando você leva toda a honra
+e glória DE NOVO. O que está TUDO BEM.
+[0249] Então, quem foi seu mentor? É isso que
+eu gostaria de saber. ...Ah, sério?
+[0250] O meu é o Comandante, claro.
+Eu o seguiria até os confins da terra!
+Mesmo se ele dissesse para eu não ir.
+[0251] Eu só ficaria alguns passos atrás e continuaria
+sendo pupilo dele em segredo.
+[0252] Se eu algum dia tiver um pupilo, vou
+contar a ele ou ela tudo sobre como
+o Comandante é gargwástico.
+[0253] Até lá meus dentes podem estar caindo,
+então vou falar, tipo: "Ele ewa um Comandante
+muito gwande, simmm!"
+[0254] "Sawou minha vida mais de uma veff!" E meu
+pupilo nem vai ligar que eu não faço sentido,
+porque é para isso que pupilos servem.
+[0255] Sei muito bem o que você está fazendo, malandro.
+Não pense que pode puxar a carapaça
+sobre meus olhos!
+[0256] Você acha que pode ficar todo amiguinho
+do Mestre da Defesa antes de mim.
+[0257] Você concluiu aquela Missão!
+O Teste do Mestre!
+[0258] Como pôde roubar meu trovão assim?
+Eu estava a um triz de conseguir!
+Não somos mais amigos.
+[0259] Tudo que eu queria era concluir aquela Missão
+para o Mestre da Defesa dizer...
+[0260] "Bom trabalho, meu rapaz. Você é a pessoa
+mais gargwástica que já conheci
+e conhecerei." Era pedir demais?
+[0261] Pfft... Tanto faz. Eu devia saber
+que você chegaria primeiro. Não vale a pena
+wroggar uma amizade por isso.
+[0262] Mas esta é a última vez! Quero ver se
+deixo você chegar antes de mim de novo!
+Heh heh.灎っ㌸But this is the last time! See if I
+let you beat me to the punch again!
+Heh heh.灎っ㌸

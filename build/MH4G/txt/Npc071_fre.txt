@@ -1,0 +1,1422 @@
+﻿[0000] Certo, lá vêm as Missões.
+[0001] Passe aqui quando quiser!
+[0002] Desculpa, Projeto. Odeio te dar essa notícia,
+mas você não tem zenny suficiente.
+[0003] Hum, Projeto... Você está tentando me
+passar a perna? Porque você não cumpre os
+requisitos desta Missão.
+[0004] dummy
+[0005] Parece que você já aceitou
+uma Missão. Devo cancelar aquela?
+[0006] Pode deixar, Projeto. Um cancelamento
+de Missão saindo... PRONTO!
+[0007] Certo! Entendi! Sem mexer.
+Nossa. Pode ficar com a mesma Missão.
+[0008] Aqui está o cardápio de Missões.
+[0009] Uau! Uma Missão que não exige Taxa
+adiantada. Adoro coisas grátis, e você?
+[0010] Vai dar 
+[0011]  zenny.
+[0012] Boa caçada! Volte com todos os seus
+membros, por favor.
+[0013] Eu cuido do cancelamento.
+É para isso que Guildocentes servem!
+[0014] Hã? Ficou com medo?
+[0015] Oh! Oi, Projeto.
+Você poderia passar na sua casa?
+Seu Amigato está lá dentro esperando por você.
+[0016] Vou ficar por aqui e preparar o
+Balcão de Missões para você.
+[0017] dummy
+[0018] Mistérios! Enigmas! Gore Magalas!
+A vida de um caçador é cheia de emoção!
+...E perigos de soltar o intestino.
+[0019] Boa viagem, Projeto.
+Vou ficar aqui pensando coisas felizes.
+[0020] Gravios... precisa ser graviosmente espetado!
+[0021] Diga a ele que eu mandei: "Beijinho!"
+Não, espera, não diga, isso soa idiota...
+*Suspiro* Odeio o amor.
+[0022] Já passou da hora-monstro, então é melhor
+você se mexer, Projeto.
+[0023] Dê tudo de si, Projeto!
+Pelo saque!
+[0024] Ah, como eu queria poder ir junto...
+[0025] Fico imaginando que tipo de monstro é.
+Traga muitas anotações para mim!
+[0026] Vou torcer por você! Escute minha
+risada distinta levada pelo vento!
+[0027] Mostre ao chefe do que você é feito!
+Vou mantê-lo sóbrio tempo suficiente para notar.
+[0028] Eu simplesmente SEI que hoje será
+cheio de sucesso! Pelo menos acho que sei.
+[0029] Que sua Vida fique sempre no verde e
+seu Vigor nunca acabe.
+[0030] Que suas Recompensas sejam fartas e sua
+carcaça nunca seja levada ao acampamento!
+[0031] Conte-me todos os pormenores
+quando voltar!
+[0032] Traga uma lembrancinha legal para mim!
+...Não, sério, é melhor trazer.
+[0033] Aproveite o dia! E, mais importante,
+agarre aquelas Recompensas raras!
+[0034] *Psst* Posso ficar com uma parte das Recompensas?
+[0035] Vai com tudo, Projeto!
+[0036] Me leva com você! Me põe na sua Bolsa!
+[0037] Me leva com você! Me põe na sua Bolsa!
+...Como assim, "EU NÃO CAIBO"?!
+[0038] Ahh, quanta dedicação!
+[0039] Isso é tão empolgante!
+Se eu amasse caçar monstros ainda mais,
+provavelmente explodiria.
+[0040] Que seus acertos críticos sejam flamejantes.
+[0041] A vida é corrida, corrida, corrida!
+[0042] Tudo pronto? Então faça como meu caderno e
+folha... digo, vaza! Entendeu? Não? Ah...
+[0043] Você é quem vai resolver!
+[0044] Como o chefe provavelmente diria --
+você é quem vai resolver!
+[0045] Leve esta mecha do meu cabelo para protegê-lo
+de-- Ei! Aonde você vai?!
+[0046] Boa sorte! Estaremos aqui rezando para você
+voltar inteiro.
+[0047] Boa caçada! Estaremos aqui debatendo a
+melhor forma de cozinhar Carne Crua.
+[0048] Tchau! Tente voltar antes do jantar.
+[0049] Certo. Tome cuidado lá fora.
+[0050] Cuide-se.
+...Estou falando sério! Pare de me olhar com essa sobrancelha.
+[0051] Até logo, Projeto!
+[0052] Lembre-se, beba Bebidas Geladas com moderação!
+[0053] Estarei aguardando o retorno do nosso herói!
+[0054] Calma, não surta.
+...Oh! Desculpa, eu estava falando comigo mesma.
+[0055] Você é quem vai resolver!
+[0056] Fique esperto lá fora, Projeto!
+Você é nosso raio de esperança!
+[0057] Oh! Oi, Projeto. Viu o Cadete?
+Ele está uma pilha de energia hoje. Estamos
+falando de pacote deluxe, edição limitada.
+[0058] Acho que ele não vai descansar até o mundo todo
+saber o quanto ele está orgulhoso de ajudar
+nos reparos do Quartel de Batalha.
+[0059] O quê? Os reparos do Quartel de Batalha?
+Claro, eu ajudo no conserto...
+consertando uma Missão para você!
+[0060] Foi uma piada, porque "consertar" pode ser
+literal ou um jeito de arranjar algo.
+Pode rir quando estiver pronto.
+[0061] Enfim, a Missão se chama
+"Afundador de Esquifes". Não esqueça
+de levar Bebidas Geladas, Projeto!
+[0062] O Quartel de Batalha foi construído
+especialmente para afugentar monstros.
+História verdadeira!
+[0063] Quando o perigo aparece, montam um
+acampamento-base rudimentar no meio da
+praça e encaram a ameaça de frente.
+[0064] Então, Projeto -- já foi à
+Assembleia? ...Não me diga.
+[0065] A Diva de lá cantará uma bela
+melodia se você passar por lá.
+[0066] Oi, Projeto. O Comandante estava procurando
+por você.
+[0067] Ele estava fazendo aquela coisa toda de franzir
+as sobrancelhas... Isso quer dizer que ele está
+com fome? Sou péssima lendo expressões.
+[0068] Oi, Projeto. A Atiradora estava procurando
+por você.
+[0069] Ela tem um belo sorriso, não tem?
+Frio e confiante. Mas não chega aos pés
+de uma Rathian -- AQUILO é um sorriso vencedor.
+[0070] Oi, Projeto. O Comandante estava procurando
+por você.
+[0071] Ele estava fazendo aquela coisa toda de franzir
+as sobrancelhas... Isso quer dizer que ele está
+com fome? Sou péssima lendo expressões.
+[0072] Oi, Projeto. O Lanceiro estava procurando
+por você.
+[0073] Ele está sempre tão sorridente... Você
+às vezes não acha meio estranho?
+...Não diga que fui eu que disse.
+[0074] Tenho duas Missões em que você vai
+coletar materiais para o Dracolégio:
+[0075] "Facilitando as Instalações" e
+"Caça-a-tona: Nerscylla."
+Escolhas, escolhas!
+[0076] Parece que o Mestre da Defesa
+vai chegar em breve.
+[0077] Acho que ele era mentor do Comandante?
+Caramba, todo mundo na cidade chama ele
+de "Mestre".
+[0078] Espero que isso signifique que ele é legal... Seria
+de morder o Baggi se ele fosse
+super rígido e nos desse bronca.
+[0079] Desculpa, Projeto. Por mais empolgante que seja
+a chegada do Mestre da Defesa, a distribuição
+de Missões precisa continuar.
+[0080] Temos um Dracolégio para construir --
+e por "temos", quero dizer você, porque você é
+o caçador e eu sou quem faz anotações.
+[0081] Oh não, não, não! Temos os materiais do
+Dracolégio, mas o Mestre da Defesa
+está em apuros!
+[0082] Um herói lendário está prestes a nascer!
+Fale com o Comandante! ...Desculpa. Repetir
+a história toda dá muito trabalho.
+[0083] Hum, Projeto... Você não deveria falar
+com a Atiradora e fechar algum tipo
+de plano de batalha? ...Não me diga.
+[0084] Certo, Projeto.
+É hora de Missão Urgente!
+[0085] Primeiro: "Operação Transformar Projeto
+em uma Lenda da Caça!"
+[0086] E depois: "Operação Quando o Mestre da
+Defesa Chegar Poderemos Fortificar
+a Cidade de Verdade, E Como!"
+[0087] Só depois de domar um Monoblos
+sozinho... Só então poderá se chamar
+uma verdadeira lenda da caça!
+[0088] Hora de mostrar ao mundo do que você
+é feito, Projeto. Faça os queixos de Dondruma
+caírem!
+[0089] Você conseguiu, Projeto! Ou devo dizer
+"Campeão"?
+[0090] Você parecia tão legal lá fora que eu gastei,
+tipo, CINCO cadernos tentando
+fazer anotações. Seu assassino de árvores!
+[0091] Tenho que dizer, porém, que o Mestre
+da Defesa parece legal. Nada rabugento,
+nada clichê... Totalmente adorável!
+[0092] Ah, a propósito, alguém está esperando por
+você na Assembleia. Já
+passou por lá?
+[0093] Uau. Então esse é o Mestre da Defesa...
+Ele é... surpreendentemente nada resmungão!
+[0094] Ah, os pedidos do Viajante Cansado?
+Chamam-se "Esconde-esusto"
+e "Leve uma Pedra-Pólvora."
+[0095] Pode escolher qualquer um.
+Tem alguma preferência?
+[0096] A cidade inteira está animada agora que o
+Mestre da Defesa voltou. Caramba, até
+EU estou animada, e nem conheci ele!
+[0097] Tenho que dizer, porém, que a notícia sobre o
+Kushala Daora é um choque.
+[0098] Não pude ver daqui, mas
+aparentemente ele está pousado no
+Quartel de Batalha.
+[0099] Espero que o Comandante de Elite tenha sobrevivido
+ao confronto...
+[0100] Oh! Aí está você, Projeto.
+O Cozinheiro de Rua estava procurando por você.
+Já falou com ele?
+[0101] Certo -- vamos nessa!
+Hora de caçar uma Rathian Rosa e
+conseguir ingredientes de primeira!
+[0102] Ah, eu mencionei? Aparentemente, o Comandante de Elite
+tem algum bloqueio quando
+se trata de caçadas a Rathian.
+[0103] Talvez ele não goste de insultar a realeza?
+Bater em uma dama? Quem sabe...
+[0104] ...Hm? O que foi, Projeto?
+Capturar uma Rathian?
+[0105] Espere, estou verificando... Não, não
+tenho nenhuma Missão assim.
+[0106] Acho que você vai ter que esperar.
+Quer uma xícara de chá?
+[0107] Projeto! Um Seregios no
+território de uma Rathian...?!
+[0108] Isso não deveria acontecer! Como?
+O Caravaneiro foi investigar! Agh!
+...Nem consigo terminar minhas frases.
+[0109] Que tal aquela Missão Urgente?
+Cace aquele Seregios e eles poderão
+colocar os esquifes de areia de volta em operação.
+[0110] Então poderemos voltar ao evento principal:
+"Agora Você Vai Fortificar Dondruma...
+Uhul! É Isso!" Lembra dessa?
+[0111] Deveria lembrar, Projeto, porque fui eu que dei o nome.
+Gruda na cabeça, não gruda?
+[0112] Oi, Projeto! Belo trabalho caçando
+aquele Seregios!
+[0113] O Mestre da Defesa está esperando
+por você. Melhor ir vê-lo, hein?
+[0114] Uhuu! Podemos voltar a fortificar
+Dondruma agora. Os moradores estão
+felizes feito Rathian rosa!
+[0115] Mestre Ferramenta ficou especialmente
+empolgado. Estava arrebitado como a crista
+de um Congalala Esmeralda. E ISSO é arrebitado!
+[0116] Uhuu! Agora podemos voltar a fortificar.
+O povo está feliz feito Rathian rosa! Nem um dragão
+ancião estragaria esse clima.
+[0117] O que significa que é uma ótima hora para
+"Rocha Negra em Queda", se quer minha opinião.
+...Você não pediu?
+[0118] Bem-vindo de volta, Projeto.
+O Comandante de Elite queria ver você.
+Ele fez a sobrancelha patenteada dele.
+[0119] E PARECE que a Atiradora viu uma
+figura suspeita. Ooh, misterioso!
+[0120] Certo, Projeto. Hora de encarar
+"O Rugido Ecoante" e cumprir
+as esperanças da cidade. Certo?
+[0121] O Lanceiro e o Cadete vão sair
+para fazer trabalho de campo em breve.
+[0122] Espero que voltem. Você também!
+Esperança para todo mundo! Sou uma Guildocente
+de esperanç-oportunidades iguais!
+[0123] Oh! Oi, Projeto. Ótimo trabalho caçando
+aquele Tigrex Bruto.
+[0124] O Mestre da Defesa queria ver você.
+Parece que o projeto da arma defensiva
+chegou à reta final. Empolgante!
+[0125] Se você passar por "Avante, Forja",
+então o Quartel de Batalha será equipado
+com o Demolidor.
+[0126] Estamos tão perto... Já posso sentir o
+bacon da esperança... Digo, "farol".
+Mas bacon também seria bom.
+[0127] Projeto, estou passando pelo que talvez
+muito possivelmente seja culpa.
+[0128] Será que fiz minha parte para proteger a cidade
+do dragão ancião? Eu poderia ter feito
+mais? Todos os outros trabalharam tanto...
+[0129] Sabe, quando o Lanceiro e o Cadete foram
+fazer trabalho de campo... foi estranho.
+[0130] O Comandante ficou com uma expressão 
+MUITO séria o tempo todo. Foi um pouco
+desconcertante, para ser sincera...
+[0131] Uau! Projeto, o que houve? Você parece
+ter visto um fantasma!
+[0132] Bem, uh... a 
+[0133] Assistente de Pesquisa
+[0134] 
+estava procurando por você. Acha que poderia
+passar no Dracolégio?
+[0135] Um m-monstro frenético!
+O Projeto está se aproximando de--
+Ah, droga.
+[0136] Estou fazendo minha coisa de embaralhar frases
+de novo.
+[0137] Oh! Antes que eu esqueça...
+O Dracolégio!
+[0138] Projeto, você deveria passar por lá!
+Ouvi dizer que fizeram uma grande descoberta!
+[0139] Então, Projeto... O que acha disso?
+O Mestre da Defesa recebeu algum tipo de
+carta, certo?
+[0140] E depois de lê-la, começou
+a encarar as nuvens, perdido
+em pensamento.
+[0141] ...Você acha que a carta dizia que
+ia chover?
+[0142] Veio buscar um discurso motivacional antes 
+da sua grande caçada ao Deviljho? Certo!
+Pronto?
+[0143] VOCÊ É QUEM VAI RESOLVER ESSA BOSTERCO!
+...Espera. De novo, de novo. Errei
+a última palavra.
+[0144] Você está fazendo sua parte, o Lanceiro
+está fazendo a dele... Então pensei:
+"Guildocente, é sua vez!"
+[0145] Vou ficar aqui no meu posto de batalha sem sangue,
+venha o inferno ou venha dragão!
+Considere ESTE forte segurado!
+[0146] Se a natureza quiser atirar mazelas e
+ameaças na minha direção, vou pará-las do jeito
+de sempre -- atirando VOCÊ NELAS!
+[0147] Fique esperto lá fora, Projeto! Você é
+o raio de esperança de Dondruma!
+[0148] A Caravana com C maiúsculo chegou até aqui
+defendendo a cidade. Não vamos
+recuar agora.
+[0149] Isso faria o C Colossal ser de "Covarde"!
+Có-có-có! ...Por que você está fazendo
+essa cara de vergonha alheia?
+[0150] Eu costumava me ver como uma espécie de
+marm-lobo solitário: sozinha, sem ninguém
+para realmente me entender.
+[0151] Mas entrar na Caravana e agora ajudar
+o povo de Dondruma me ensinou que eu
+tenho um lugar entre os outros.
+[0152] Agora que encontrei esse lugar, nunca
+fugirei dele -- não importa qual seja
+o perigo!
+[0153] Pronto, Projeto?
+
+[0154] Fale com o Caravaneiro e a batalha
+para repelir o Kushala Daora começará
+[0155] .
+[0156] É uma Missão especial que acontecerá
+no Quartel de Batalha. Mantenha a calma
+lá fora, certo?
+[0157] Os Caçadores de Elite já estão
+no Quartel de Batalha.
+[0158] Vá mostrar do que é capaz, Projeto!
+Como equipe, sei que podemos manter
+Dondruma segura!
+[0159] As nuvens escuras cobrem Dondruma
+como uma carapaça...
+[0160] Mas, se aqueles céus puderem se abrir...
+Então talvez eu...
+[0161] Projeto... Você conseguiu!
+Os céus se abriram.
+[0162] Estão tão azuis -- cheios de
+possibilidades infinitas.
+[0163] Sabe, Projeto, estou tendo um verdadeiro
+momento de coração quentinho.
+[0164] Foi tão bom unir forças com
+o Mestre da Defesa e os moradores
+e fazer a diferença!
+[0165] Isso me fez perceber o quanto sou sortuda por ser
+parte desta Caravana.
+[0166] Projeto, este é o último favor que vou
+te pedir.
+[0167] Depois que você terminar "Avançado: Tudo em Seu Lugar"
+e eu terminar meu caderno, estou pensando
+em partir e ir para a Academia.
+[0168] Agora que você limpou os céus,
+sei que há muito mais lá fora
+para eu viver.
+[0169] Não consigo tirar da cabeça aquele momento,
+quando as nuvens escuras se abriram e eu REALMENTE
+vi o céu pela primeira vez.
+[0170] Senti que podia fazer qualquer coisa,
+Projeto -- que podia ir a qualquer lugar que
+aquele céu azul tocasse.
+[0171] Projeto, você acha que tenho isso em mim?
+Acha que consigo fazer diferença no
+mundo?
+[0172] Sempre guardei todos estes
+rabiscos só para mim, mas agora me pergunto
+se eles têm um propósito maior.
+[0173] Talvez EU seja quem vai resolver.
+Só preciso descobrir o que é "isso".
+[0174] Oh! Projeto, o Cadete me deu estes
+materiais de monstro.
+[0175] Estou usando para criar uma nova bolsa.
+Talvez você possa dar uma olhada quando eu terminar.
+O que acha?
+[0176] Projeto, tenho novas informações sobre a
+Selva Eterna.
+[0177] Alguns agentes da Guilda em campo relataram
+a descoberta de uma 
+[0178] área
+novinha em folha
+[0179] .
+[0180] Você provavelmente poderá alcançá-la da
+próxima vez que visitar.
+[0181] A propósito, Projeto -- você já
+pensou: "Puxa, eu bem que gostaria de fazer
+aquelas antigas Missões de Ranque Baixo de novo!"
+[0182] Se sim, tente apertar o 
+[0183] Botão X
+[0184]  enquanto
+estiver no Balcão de Missões.
+[0185] Isso mudará a lista para Missões de Baixo
+Rank. Muito prático!
+[0186] Então, Projeto, os reparos de Dondruma
+estão indo bem? ...Não me diga.
+[0187] Bem, *EU* digo que devemos fazer o possível para deixar
+a cidade resistente o bastante para aguentar PELO MENOS
+DOIS dragões anciãos.
+[0188] Gosto de coisa resistente. Também gosto de dragões anciãos.
+...Não estou ajudando muito, estou?
+[0189] Nossa, Projeto, sei que Missões de Alto Rank
+devem ser difíceis quando a Guilda não consegue
+entregar seus Itens de Suprimento logo.
+[0190] Mas o Cozinheiro de Rua não tinha algo
+no cardápio para acelerar a entrega dos
+Itens de Suprimento? Talvez eu tenha imaginado...
+[0191] Então, Projeto -- já foi à
+Assembleia?
+[0192] A Diva de lá cantará uma bela
+melodia se você passar por lá.
+[0193] Dizem que o poder curativo das músicas dela
+mantém os caçadores grudados nas cadeiras.
+...Isso é bom ou ruim?
+[0194] Projeto, tive um pensamento tremendo:
+[0195] E se usde Elitesemos o Caldeirão de Fusão de Cathar para
+estocar materiais de reparo da cidade?
+[0196] A pergunta de dez milhões de zenny é se
+materiais desse tamanho cabem dentro do
+caldeirão do garoto. Sério.
+[0197] Você e o Entregador estão se dando bem,
+Projeto? ...Não me diga.
+[0198] Sempre gosto das nossas conversas. Ele me ajuda
+a manter contato com uma boa amiga que
+trabalha longe. Ele é um amor!
+[0199] Já foi às Dunas durante
+o dia, Projeto? É um caldeirão de
+areias escaldantes e rocha.
+[0200] O calor de lá vai sugar suas forças
+mais rápido do que você consegue dizer "queimadura solar grave".
+Leve muitas Bebidas Geladas.
+[0201] Você nunca vai adivinhar o que acabei de ver!
+[0202] Mestre Ferramenta, o dono do Mercado,
+deu ao Entregador uma MAÇÃ...
+vermelha... brilhante... Ugh!
+[0203] Agora que vi, não consigo desver!
+[0204] Aquele Felyne afro na sua casa!
+[0205] Por que ele estava fuçando na Caixa de Itens,
+afinal? Altamente suspeito.
+[0206] Hoje é muito parecido com os dias anteriores e
+os dias que virão, Projeto.
+[0207] Você chega até mim, eu te dou Missões,
+e então você vai embora. Essa é a vida.
+[0208] Tédio, Projeto...
+Fico imaginando que ideia maluca o
+Caravaneiro está preparando agora.
+[0209] Acho que, quando ele decidir o que fazer
+em seguida, partiremos para outra aventura!
+Aposto que será cheia de perigo também!
+[0210] Mas você me conhece, Projeto. Não tenho medo
+de nada... desde que você esteja aqui
+para nos proteger!
+[0211] Projeto, tenho novas informações sobre a
+Selva Eterna.
+[0212] Alguns agentes da Guilda em campo relataram
+a descoberta de uma 
+[0213] área
+novinha em folha
+[0214] .
+[0215] Você provavelmente poderá alcançá-la da
+próxima vez que visitar.
+[0216] A propósito, Projeto -- você já
+pensou: "Puxa, eu bem que gostaria de fazer
+aquelas antigas Missões de Baixo Rank de novo!"
+[0217] Se sim, tente apertar o 
+[0218] Botão X
+[0219]  enquanto
+estiver no Balcão de Missões.
+[0220] Isso mudará a lista para Missões de Baixo
+Rank. Muito prático!
+[0221] Dá uma olhada nesta bolsa, Projeto.
+Bem estilosa, né?
+[0222] O jeito que ela se espreme e se contorce nas 
+minhas mãos, como uma entidade viva e 
+respirante! Ahh...
+[0223] Sinto que capturei suas origens monstruosas
+(como você as descreveu para mim) com 
+perfeição, uma perfeição horripilante. Sim senhor.
+[0224] Dá uma olhada nesta bolsa, Projeto.
+É uma obra feita para meu coração.
+[0225] O jeito que ela clica, claca e...
+comblobula? Não sei, estou
+ficando sem verbos. Enfim.
+[0226] Sinto que capturei suas origens monstruosas
+(como você as reencenou
+para mim) com perfeição horripilante. Definitivamente.
+[0227] Que tempo bonito, Projeto. De verdade.
+[0228] É o tipo de tempo que lembra você de como 
+as pequenas coisas são preciosas.
+[0229] Minha família está bem? Lembrei de
+pendurar a roupa? O que será que
+o amanhã trará?
+[0230] Lembra-nos de que somos apenas humanos.
+[0231] Oh. Projeto.
+...Esta carta? É de uma amiga que
+vive em uma vila-ilha.
+[0232] Ela trabalha no Balcão de Missões de lá.
+Ficamos próximas quando treinamos juntas
+na Guilda. Ela é uma figura!
+[0233] Sempre querendo atenção, sempre
+pronta com aquele sorriso desarmante dela...
+[0234] Ela foi a primeira pessoa a olhar
+meu caderno e não cair em
+crises de riso.
+[0235] Só por isso, eu a amo.
+Espero que você a conheça um dia!
+Enfim.
+[0236] Onde será que o Mestre da
+Defesa está agora, Projeto?
+[0237] Será que chegou ao local de sua próxima
+missão? O que ele está defendendo hoje?
+[0238] Talvez hoje ele esteja simplesmente andando em uma carroça
+de fazenda sob o céu azul, azul.
+A vida é maravilhosamente imprevisível.
+[0239] Encontrei o Caravaneiro enquanto ele tomava
+uma bebida outro dia.
+[0240] Ele disse que gostaria de levar o Mestre
+da Defesa para beber novamente
+em breve.
+[0241] Não tenho certeza se ele lembrava que o Mestre
+da Defesa tinha ido embora, mas o
+sentimento foi tocante, pelo menos.
+[0242] Oi, Projeto. O Comandante de Elite estava
+olhando silenciosamente para o Salão Ancião
+outro dia.
+[0243] Por algum motivo, ele me lembrou o
+Mestre da Defesa. Engraçado como passamos
+as pequenas coisas adiante, hein?
+[0244] Oh! Projeto. Olá.
+O Caravaneiro e o Lanceiro ainda jogam
+aquele jogo de tabuleiro deles.
+[0245] Da última vez que assisti a uma partida, o Lanceiro
+venceu. E deixe-me dizer, o Caravaneiro
+não ficou nada feliz com isso. Ha!
+[0246] Projeto, gostaria de um chá cortesia
+da Cooperativa dos Amantes de Chá?
+[0247] No momento, a CAC só tem quatro membros,
+mas a Atiradora demonstrou interesse em
+entrar também.
+[0248] Projeto, escuta essa!
+[0249] O Cadete, também conhecido como o único membro
+da minha Iniciativa de Apreciação de Monstros,
+avaliou meu caderno.
+[0250] E -- dá para acreditar? -- ele realmente
+pareceu gostar! A maioria das pessoas só olha
+para ele e faz barulhos de suspiro.
+[0251] O Cadete e minha amiga da ilha são as
+duas únicas pessoas que olharam para ele e NÃO
+reviraram os olhos.
+[0252] Tenho sorte de tê-lo conhecido, tagarela
+como ele é...
+[0253] Oi, Projeto! Tchau, Projeto!
+Sim, é isso mesmo. O Balcão de Missões
+está fechado por enquanto.
+[0254] Vou abrir de novo quando você terminar
+de caçar com seus amigos. ...Ei, não é como se eu
+tivesse outro tempo só para "mim"!
+[0255] Projeto! Projeto!
+Finalmente aconteceu!
+[0256] As pessoas finalmente PRECISAM da gente de novo!
+A Caravana com C maiúsculo foi mais uma vez
+chamada à ação!
+[0257] Todo aquele tempo se rebaixando com aquelas
+missões comuns deve ter provado
+algo à Guilda...
+[0258] porque esta nova Missão que deram a você
+é uma BOMBA!
+[0259] Uma bomba para o Projeto.
+Claramente isso é destino.
+[0260] Uma nova operação épica como esta precisa
+de um nome épico. Tenho um perfeito...
+[0261] "Ainda Bem que Você Ralou Pra Caramba e Ficou
+de Bem com a Guilda, Porque Agora Você
+Vai Fortificar Dondruma... Uhu! É Isso!"
+[0262] *Ofegante, ofegante*
+Todos os bons nomes terminam em "Uhu! É Isso!"
+[0263] Então você topa, Projeto?
+Você CURTE?
+[0264] Está pronto para ajudar os Caçadores de Elite
+e os moradores a proteger Dondruma de
+um dragão ancião?
+[0265] Não se preocupe. Você não precisa fazer
+isso sozinho. Só precisa fazer a maior parte
+do trabalho perigoso.
+[0266] Falando nisso! Preciso 
+[0267] dizer algo
+importante
+[0268]  antes de dar a Missão.
+[0269] As áreas ao redor de Dondruma estão abarrotadas
+até o talo de monstros muuuuito
+mais perigosos que qualquer um que você enfrentou.
+[0270] Isso significa que a Guilda 
+[0271] talvez não consiga
+levar você até o acampamento
+[0272] .
+[0273] Também significa que ela 
+[0274] talvez não consiga
+entregar todos os seus Itens de Suprimento logo no
+início da Missão
+[0275] .
+[0276] Claro, eles farão o possível para levá-los
+até você o quanto antes, mas você precisa retribuir
+o favor não estando morto ainda.
+[0277] Então vá ainda mais preparado. A
+Missão pode começar em praticamente qualquer lugar,
+então esteja pronto para tudo.
+[0278] ...Pronto. Agora você sabe, e saber é
+três dezesseis avos da batalha!
+[0279] Certo então, hora de conferir a coluna de
+
+[0280] Missões Urgentes
+[0281] .
+[0282] Você encontrará uma Missão para consertar o Quartel de Batalha
+chamada 
+[0283] "
+[0284] Afundador de Esquifes
+[0285] ."
+[0286] Seu objetivo: caçar um Carapaceon de casco duro
+chamado 
+[0287] Daimyo Hermitaur
+[0288] .
+[0289] Parece que a Guilda vai mandar você para
+as 
+[0290] Dunas
+[0291]  durante o dia.
+Uau, você vai pegar muito sol!
+[0292] Na verdade, o sol pode matar você! O lugar
+é seco como poucos. Vá
+preparado, Projeto, ou vai se arrepender.
+[0293] Posso sugerir algumas Bebidas Geladas?
+A menos que goste de suar sua
+força vital. Algumas pessoas gostam, acho.
+[0294] Se procura o sempre importante Portão de
+Missões de Dondruma...
+[0295] É bem ali.
+Não se perca, Projeto!
+[0296] Oh! Projeto. A Atiradora me contou tudo.
+Você precisa de uma Missão para energizar
+o Vidente Dragônico, certo?
+[0297] Decidi dar à Missão um nome chamativo:
+
+[0298] "
+[0299] Bobalhão de Ar Quente
+[0300] ."
+Você vai caçar um 
+[0301] Congalala Esmeralda
+[0302] .
+[0303] Já olhou para o céu
+durante uma caçada e viu o
+Vidente Dragônico?
+[0304] Se acenar para ele, ele mostrará onde
+monstros grandes estão por um curto período
+de tempo. Juro por Gypceros!
+[0305] Eu adoraria acenar para ele algum dia.
+Isso sim é viver!
+[0306] Oh! Já que estou com você, recebi uma
+carta para você por flecha de um Amigato Selvagem
+que perambula pelo campo. Vou ler para você.
+[0307] "Ultimamente, temos pesquisado muito e
+duro para miaustrear um monte de 
+[0308] novas Fortes
+[0309] 
+e habilidades.
+[0310] "Elas tornam os Ataques em Equipe de Amigato mais fortes
+e realizam todo tipo de outras funções
+úteis.
+[0311] "Ouso dizer, talvez sejamos gênios!
+Garrasmicamente abençoados, nya? Enfim, se
+nos encontrar, pode nos contratar!"
+[0312] ...Uau, Projeto! Isso parece bem
+impressionante. Novas Fortes? Se você não
+contratá-los, talvez eu pegue primeiro!
+[0313] A flecha parece ter fwushado vindo das
+
+[0314] Dunas
+[0315] .
+[0316] Será que isso significa que o Amigato Selvagem que
+a enviou está perambulando por aquela área NESTE MOMENTO?
+[0317] Enfim, vá lá e cace aquele
+Congalala Esmeralda! Isso é uma ordem!
+...Bem, não é, mas faça por mim?
+[0318] Oh, oi, Projeto. Ouviu falar do
+Dracolégio?
+[0319] O pessoal de lá estuda o Frenesi e
+investiga todo tipo de maravilha científica,
+como por que os Amarguinsetos são amargos.
+[0320] Deixe com Dondruma, hein?
+Sempre no ápice
+da intervenção monstruosa.
+[0321] Assim que a instalação estiver completa, tudo que precisamos
+fazer é chamar a Assistente de Pesquisa,
+e voilà!
+[0322] Você vai se afogar em pepitas de
+sabedoria pesquisificada que ajudarão você
+na caçada!
+[0323] Agora, quais eram aquelas duas Missões mesmo?
+Ah, sim...
+[0324] Uma é "
+[0325] Facilitando as Instalações
+[0326] ."
+A outra é "
+[0327] Caça-tatona: Nerscylla
+[0328] ."
+[0329] Pode fazê-las na ordem que
+quiser. Você decide!
+[0330] Oh, e se não se importa que eu saia pela tangente--
+Como assim, eu sempre
+faço isso mesmo?
+[0331] *Suspiro* É verdade que o 
+[0332] Mestre da Defesa
+[0333] 
+chegará em breve?
+[0334] Dizem que ele costumava ser o 
+[0335] mentor
+do Comandante de Elite
+[0336] , sabe. Como será que
+ele é?
+[0337] E se ele for do tipo sargento durão
+e fizer todos nós fazermos flexões na lama?
+Meu braço de anotações não vai aguentar...
+[0338] O Mestre da Defesa está a caminho!
+Ele é um velho caçador experiente que costumava ser
+mentor do Comandante de Elite.
+[0339] Na verdade, praticamente todo mundo por aqui
+mima ele e chama de "O Mestre."
+[0340] Infelizmente, um 
+[0341] Monoblos
+[0342]  está se aproximando
+do esquife de areia que o carrega.
+[0343] Isso, como você deve ter deduzido, é
+realmente ruim pra caramba, Projeto.
+[0344] O Monoblos é uma ameaça lendária
+que alguns dizem ter sido a
+razão pela qual a caça a monstros começou.
+[0345] Cace um desses danados e você pode
+se considerar um verdadeiro campeão.
+[0346] ...Sim, finalmente chegou a hora
+de se firmar como uma lenda, Projeto!
+[0347] Enfim, assim que o Mestre da Defesa
+chegar, poderemos começar a fortificar a cidade
+de verdade.
+[0348] Vamos torná-la a melhor cidade repelidora
+de dragões anciãos que o
+mundo já viu!
+[0349] E vamos transformar você em um campeão como
+nada que o UNIVERSO já viu!
+[0350] Não sei o que é maior que o
+universo, então vou parar por aqui
+antes que os cérebros implodam.
+[0351] Ufa! ...Agora então, Projeto, vamos dar
+uma olhada nessas Missões Urgentes.
+[0352] Oh! Projeto! Ouvi tudo sobre a
+"OP-PURR-RAÇÃO SABOR" do Cozinheiro de Rua.
+[0353] Dá uma fome só de pensar
+em um bom jantar feito com ingredientes
+de primeira fresquinhos...
+[0354] O que é bem estranho, considerando que
+NÃO FAÇO IDEIA do gosto de ingredientes
+de primeira! Alta culinária é isso.
+[0355] Enfim, tenho a Missão bem aqui:
+
+[0356] "
+[0357] No Rosa
+[0358] ."
+Você vai às 
+[0359] Dunas (noite)
+[0360] .
+[0361] Ao contrário do dia, você vai
+congelar esses seus pãezinhos de Projeto, então
+leve muitas Bebidas Quentes.
+[0362] Agora vá! Voe como um Rathalos faminto!
+[0363] Oh! Olá, Projeto. O Professor já
+me contou tudo.
+[0364] Você precisa caçar uma 
+[0365] Rainha Seltas
+[0366] , certo?
+[0367] Parece que a assistente dele desviou
+do perigo e fez um desvio
+para uma vila perto da Estepe Ancestral.
+[0368] Servem um ótimo chá lá.
+Ela está praticamente de férias.
+[0369] Enfim, a Missão se chama:
+"
+[0370] Matadora de Damas
+[0371] ."
+[0372] Uma curiosidade divertida para você: as ervas
+que crescem perto da Estepe Ancestral são
+famosas por seu uso em chá.
+[0373] Não que eu esteja pedindo para você trazer
+um pouco para mim. Eu nunca seria tão
+presunçosa. Nunca. Nunca mesmo.
+[0374] A 
+[0375] Rathian
+[0376] ...
+As chamas de uma rainha para manter a cidade segura...
+[0377] Alguém já te contou? Os prédios vermelhos e verdes
+de Dondruma simbolizam o
+Rathalos e a Rathian.
+[0378] As cores mostram a gratidão da cidade
+pelas bênçãos da natureza.
+[0379] ...Ou talvez alguém só tenha se divertido com uma
+roda de cores. Quem sabe! Enfim, o
+Mestre da Defesa deixou esta Missão para você.
+[0380] Ela se chama: 
+[0381] "
+[0382] Comissão Noturna
+[0383] ."
+Você precisa capturar uma Rathian.
+[0384] ...Meio comovente, não? As chamas da orgulhosa
+rainha protegendo a cidade tanto de
+tempestades violentas quanto de chuvas duras e geladas.
+[0385] Oh não! Depois de todo aquele trabalho para deixar a
+arma defensiva projetada, os esquifes de areia
+estão fora de serviço? Indefinidamente?!
+[0386] Entrega de materiais está *gasp* EM ESPERA?
+[0387] O que vamos Projetoar, fazer?
+Uh, quero dizer, "fazer, Projeto." Desculpa.
+[0388] Enfim, isso joga uma chave inglesa nos nossos planos
+de fortificar Dondruma. Olhe todas
+essas caras tristonhas pela cidade! *Suspiro*
+[0389] ...Não, precisamos pensar positivo.
+Acalme-se, Guildocente! *tapa*
+[0390] Projeto, a Guilda escolheu você para
+cuidar desta Missão Urgente. Ela se chama:
+
+[0391] "
+[0392] Dança de Mil Lâminas
+[0393] ."
+[0394] Você vai caçar um 
+[0395] Seregios
+[0396] .
+[0397] Meu livro diz que ele "rasga os céus
+com suas escamas afiadas e destrói a
+terra com suas asas e pernas poderosas."
+[0398] ...Hum, certo. Exagero, muito?
+[0399] Bem, seja como for, o destino da
+Operação: Fortificar Dondruma repousa
+inteiramente em suas mãos caçadoras.
+[0400] Vá lá e purgue essa
+Missão Urgente! ...Seja lá o que isso signifique!
+[0401] Oh! Olá, Projeto. Ouvi dizer que você precisa
+investigar um 
+[0402] Rathalos Lazúli
+[0403] .
+Então, tenho a Missão perfeita para você!
+[0404] Apresentando... tan tan TAAAN!
+
+[0405] "
+[0406] Presságio nos Céus
+[0407] ."
+[0408] Dizem que o Rathalos Lazúli tem uns
+padrões de movimento seriamente bizarros.
+[0409] Ah, a propósito, você sabia que a Atiradora
+tem uma visão incrível? Morro de inveja.
+[0410] Eu ficaria feliz com, tipo, 20/20, mas tenho
+quase certeza de que ela é 20/0. Ela enxerga até
+o INFINITO. Provavelmente.
+[0411] E aí tem a pobre de mim. Passo horas
+procurando meus óculos antes de lembrar
+que estou usando.
+[0412] Ou coloco sem querer um segundo par
+em cima do primeiro. Isso realmente
+aconteceu uma vez. Me chamaram de "seis-olhos".
+[0413] Então, Projeto... Ouvi dizer que Seregios
+estão aparecendo por todo lugar.
+[0414] O Lanceiro e o Cadete vão sair
+para investigar...
+[0415] Sabe, Projeto, a Guilda não saberia
+metade do que sabe sobre o Frenesi ou seus
+sintomas se não fossem os Caçadores de Elite.
+[0416] Eles nos deram uma chance de luta!
+[0417] Foram o Comandante e a Atiradora que
+descobriram que o "vírus" era causado por escamas
+espalhadas pelo Gore Magala...
+[0418] E eles ignoraram seus ferimentos e
+se arrastaram para casa só para garantir
+que recebêssemos a mensagem. Isso sim é coragem!
+[0419] Consegue imaginar a decisão difícil que tiveram
+de tomar? Eles sabiam o tamanho da descoberta
+que tinham feito.
+[0420] Mas não podiam todos virar as costas para
+o inimigo, ou teriam sido dizimados.
+[0421] O Lanceiro e o Cadete arriscaram vida e membros,
+ficando para trde Elite para ganhar tempo para que os
+outros escapassem com as informações.
+[0422] É aterrorizante enfrentar um perigo que você
+não entende. E não quero que você pense que
+não aprecio tudo que vocês fazem.
+[0423] Esteja você lá fora investigando,
+ou aqui protegendo a cidade, o que mais importa
+para mim é que você fique seguro, Projeto.
+[0424] E, nessa nota, apresento uma Missão
+que devolverá esperança às pessoas daqui.
+Ela se chama: 
+[0425] "
+[0426] O Rugido Ecoante
+[0427] ."
+[0428] Bem, Projeto... Parece que
+o farol de esperança de Dondruma está
+quase completo.
+[0429] ......
+[0430] Sabe, desde que eu era garotinha, sempre
+quis saber mais sobre monstros.
+[0431] Minha fome de conhecimento digna de Deviljho
+moveu cada uma das minhas ações. ...E sei que as pessoas
+acham isso estranho, mas tudo bem.
+[0432] Fiz essa escolha há muito tempo.
+Decidi que veria o mundo
+custe o que custasse, e o conheceria de cima a baixo.
+[0433] E sabe, Projeto, não passei
+um único segundo me arrependendo disso.
+[0434] Fico feliz por ter entrado na Caravana com C maiúsculo,
+e aprendido sobre Gore Magala, e
+Shagaru Magala...
+[0435] E por ter tido a chance de visitar
+Dondruma e fazer uma diferença real
+para as pessoas daqui.
+[0436] Meus cadernos estão lotados de anotações
+que provam que minha vida significa algo, mesmo
+que eu ainda esteja descobrindo o quê.
+[0437] ......
+[0438] Talvez seja isso. Talvez eu deva
+proteger Dondruma da tempestade que se aproxima.
+[0439] Talvez nós dois estejamos destinados a dar às pessoas
+daqui um pouco mais de luz.
+[0440] E, nessa nota, sua Missão:
+
+[0441] "
+[0442] Avante, Forja
+[0443] ."
+[0444] Prometa que terá cuidado lá fora.
+Afinal, fiz muitas anotações
+ao longo dos anos...
+[0445] Mas você é muito mais importante
+para mim do que elas, Projeto.
+[0446] D-D-Projeto!
+O Cadete me contou tudo!
+[0447] Os ajustes da conclusão ainda não estão
+arma! M-monstros frenéticos estão
+aparecendo para começar!
+[0448] ...AGH! Estou tão confusa e nervosa
+que nem consigo falar! Respira, respira...
+[0449] Nós cuidamos da ameaça Shagaru Magala!
+Por que o Frenesi voltou?!
+[0450] Seregios estão aparecendo por toda parte
+s-sem pé nem cabeça.
+Como se já não estivéssemos atolados!
+[0451] Enfim, estou surtando pra valer, mas ainda
+consigo dar suas Missões.
+[0452] A Missão em q-q-questão se chama:
+
+[0453] "
+[0454] Avançada: Ruína da Geleira
+[0455] ."
+Espero que você consiga ficar m-mais calmo que eu!
+[0456] Estamos nos afogando em Seregios,
+monstros frenéticos voltaram...
+[0457] ...E agora um 
+[0458] Deviljho frenético
+[0459]  apareceu
+durante os preciosos ajustes finais
+da arma defensiva.
+[0460] A única coisa mais bagunçada que o
+mundo agora é minha capacidade de entender
+tudo isso...
+[0461] Mas trabalho é trabalho. Hora de desembaraçar meu
+cérebro e virar Guildocente de verdade!
+[0462] Veja-me distribuir Missões sem medo!
+Só arrancarão meu caderno das minhas
+mãos Geladas e mortas!
+[0463] Aqui está sua Missão, Projeto:
+
+[0464] "
+[0465] Avançada: Mandíbula do Tirano
+[0466] ."
+Você é quem vai resolver!
+[0467] Ficarei aqui fazendo caras intimidadoras
+de jogo até você voltar! Grr!
+[0468] Muito bem, Projeto. Vamos direto
+ao assunto. Sou toda negócios. Negócios
+é meu nome do meio.
+[0469] Sua Imensidão pediu você
+especificamente para uma tarefa que registrei
+em 
+[0470] Missões Urgentes
+[0471] .
+[0472] Boa caçada. Vejo você quando voltar.
+[0473] ...O quê? Tem algo errado?
+[0474] Estou agindo estranho, você diz?
+[0475] Bem, depois da nossa última conversa, pensei que
+deveria parar de ser tão avoada e
+levar meu trabalho mais a sério.
+[0476] Não quero ser o elo fraco da
+corrente da Caravana se outro Seregios
+Apex aparecer...
+[0477] ou se o Kushala Daora voltar.
+Preciso ser destemida como uma rocha!
+Imóvel como uma poça sem ondulações!
+[0478] Composta como uma pilha de esterco de monstro na
+terra fresca e seca!
+[0479] ......
+[0480] É, você tem razão. Também gosto mais da
+eu antiga. Não fui feita
+para ser séria.
+[0481] A Caravana com C maiúsculo chegou até aqui movida
+a loucura, então por que mudar agora?
+[0482] Se a natureza quiser atirar mazelas e
+ameaças na minha direção, vou pará-las do jeito
+de sempre -- atirando VOCÊ NELAS!
+[0483] Fique esperto lá fora, Projeto! Você é
+o raio de esperança de Dondruma!
+[0484] Nuvens escuras grossas como carapaça de monstro
+fecharam-se sobre Dondruma...
+Nossa, meu coração pesa.
+[0485] Você sente medo às vezes? Às vezes me pergunto
+isso quando vejo o jeito como você entra e sai
+do perigo com tanta facilidade...
+[0486] Sabe, se essas nuvens se abrissem,
+isso me faria sentir muito melhor...
+[0487] Boa sorte lá fora, Projeto. Estamos todos
+com você em espírito.
+[0488] Projeto... Você conseguiu!
+Os céus se abriram.
+[0489] O céu está tão azul... Eu quase tinha esquecido.
+[0490] Obrigada por atravessar e quebrar a carapaça
+escura de nuvens que sufocava meu coração.
+Nada pode me deter agora!
+[0491] Grandes notícias, Projeto! Notícias felizes, alide Elite!
+[0492] Você acabou de receber permissão para encarar
+
+[0493] Missões da Guilda
+[0494] ! Bravo!
+[0495] Missões da Guilda são 
+[0496] Missões com um toque especial
+[0497] 
+emitidas pelo Escritório de Missões.
+[0498] Depois de investigar monstros durante
+Expedições e receber permissão
+para uma Missão da Guilda...
+[0499] Bem, então a Missão será temporariamente
+adicionada a 
+[0500] Missões da Guilda
+[0501]  no menu.
+[0502] Cuidado, porém. Você precisa cumprir mais
+uma etapa antes de tentar a Missão.
+[0503] Você precisa 
+[0504] registrar a Missão
+[0505]  usando
+Gerenciar Listas. Isso é importante!
+[0506] Só Missões da Guilda registradas podem ser
+
+[0507] realizadas a qualquer momento na
+Área de Encontro
+[0508] , então não esqueça!
+[0509] Quanto às Missões da Guilda em si,
+elas têm regras únicas.
+[0510] Regra nº 1: Completá-las aumenta o
+nível de dificuldade, as Recompensas e mais.
+[0511] Regra nº 2: Você pode trocar Missões da Guilda
+usando StreetPass.
+[0512] Fale com o Entregador de gorro vermelho
+se quiser mudar suas configurações de
+StreetPass.
+[0513] Além disso, lembre-se de que, quando você troca
+uma Missão da Guilda, o nível será o que
+ela tinha quando você 
+[0514] a recebeu pela primeira vez
+[0515] .
+[0516] Enfim, esse é o resumo.
+[0517] A Selva Eterna é tão linda, porém...
+Queria poder ir em Expedições.
+Fique seguro e divirta-se lá fora.
+[0518] Ei, Projeto! Parabéns!
+...O quê? Ainda não ouviu?
+Então deixe-me alegrar seu dia!
+[0519] Você recebeu permissão para encarar
+
+[0520] Expedições de Ranque G
+[0521] !
+Viva!
+[0522] Se quiser tentar, é só abrir
+o 
+[0523] Mapa-Múndi
+[0524]  e tocar no
+ícone de Expedição de Ranque G.
+[0525] Projeto! A Guilda quer que você 
+[0526] investigue
+a Selva Eterna
+[0527] .
+[0528] Um monstro raro foi avistado lá,
+e receio que não há tempo a perder.
+[0529] Como isto vem direto da Guilda, vou
+registrar em 
+[0530] Missões Urgentes
+[0531] .
+[0532] Saiba que as regras desta Missão
+são as mesmas das Missões comuns.
+[0533] Por exemplo, você falhará se sua Vida
+acabar três vezes.
+[0534] Se conseguir, porém, o mesmo
+monstro poderá aparecer durante Expedições.
+É só um palpite meu.
+[0535] Enfim, leve Antídotos e
+vamos colocar esse show na estrada!
+[0536] Projeto! A Guilda quer que você 
+[0537] investigue
+a Selva Eterna
+[0538] .
+[0539] Um monstro arruaceiro foi avistado lá
+e receio que não há tempo a perder.
+[0540] Como isto vem direto da Guilda, vou
+registrar em 
+[0541] Missões Urgentes
+[0542] .
+[0543] Saiba que as regras desta Missão
+são as mesmas das Missões comuns.
+[0544] Por exemplo, você falhará se sua Vida
+acabar três vezes.
+[0545] Se conseguir, porém, o mesmo
+monstro poderá aparecer durante Expedições.
+É só um palpite meu.
+[0546] Enfim, leve Antídotos e coloque esse
+show na estrada!
+[0547] Projeto! A Guilda quer que você 
+[0548] investigue
+a Selva Eterna
+[0549] .
+[0550] Um monstro belo, mas perigoso, foi
+avistado lá, e receio que não há
+tempo a perder.
+[0551] Como isto vem direto da Guilda, vou
+registrar em 
+[0552] Missões Urgentes
+[0553] .
+[0554] Saiba que as regras desta Missão
+são as mesmas das Missões comuns.
+[0555] Por exemplo, você falhará se sua Vida
+acabar três vezes.
+[0556] Se conseguir, porém, o mesmo
+monstro poderá aparecer durante Expedições.
+É só um palpite meu.
+[0557] Hrm hrm... Oh!
+...Oh.
+[0558] Acho que simplesmente não levo jeito.
+...Espera. O que estou dizendo? Não cheguei
+até aqui só para--
+[0559] *Gasp* D-D-D-Projeto! Que bela surpresa!
+Não notei você CHEGANDO DE FININHO.
+[0560] Esta carta? ...Q-q-que carta?
+Não vejo carta nenhuma-- EI, NÃO! ESPERA!
+DEVOLVE ISSO, SEU-- *suspiro*
+[0561] Certo... *ofega, ofega* Você venceu.
+Vou abrir o jogo!
+[0562] Toda a crise de Dondruma me fez
+pensar...
+[0563] Talvez eu possa e deva fazer mais para
+proteger as pessoas de ameaças monstruosas.
+[0564] Então decidi enviar meu Caderno Muito-
+Digno-de-Nota para o 
+[0565] Escriba nº 5
+da Academia Real
+[0566]  para avaliação.
+[0567] O Caravaneiro fez a apresentação
+por mim. Que cara.
+[0568] Enfim, acabei de receber a resposta mais
+deprimente.
+[0569] "Embora muito eruditos e elucidativos, uma
+série de omissões grosseiras desqualifica seus
+registros para submissão acadêmica, ahuhuh.
+[0570] "Um compêndio desta escala requer pelo menos
+mais alguns espécimes para ser considerado
+exaustivo. Sinto muito, ahuhuh."
+[0571] Ele não escreveu "ahuhuh" de verdade na
+carta, mas meio que imagino ele tendo
+uma daquelas risadinhas esnobes.
+[0572] Enfim, ainda não vou desistir. Escrevi uma
+Missão para um dos monstros que faltam, mas
+é tão perigosa que todos disseram não.
+[0573] ...Espere um segundo. Projeto, você concordaria que
+somos mais do que apenas associados de trabalho,
+certo? Posso te chamar de *gulp* amigo?
+[0574] Faça esta Missão para mim como um favor pessoal.
+Pretty Plesioth com cerejas por cima?
+Ela se chama: 
+[0575] "
+[0576] Golpe de Ouro
+[0577] ."
+[0578] Claro, vou garantir que você seja muito bem
+recompensado. Tenho economizado zenny
+durante nossas aventuras.
+[0579] Muito obrigada, Projeto!
+Você devia ver o número de buracos na
+minha pesquisa que me ajudou a preencher!
+[0580] Já encaminhei meu Caderno Novo-e-
+Mais-Digno-de-Nota para a Academia.
+Desta vez eles com certeza aceitarão!
+[0581] Só espero que o conhecimento que reuni
+se prove útil para alguém.
+[0582] Enfim, nem consigo dizer o quanto sou grata!
+Você será o primeiro a saber quando
+a Academia responder.
+[0583] Projeto! Projeto! A Academia Real
+
+[0584] respondeu
+[0585] ! Viu? Uma carta do
+Escriba nº 5.
+[0586] Eu estava prestes a abrir.
+Vamos olhar juntos?
+Vejamos...
+[0587] "Lamentavelmente, parece que você não conseguiu
+compreender a essência da minha comunicação
+anterior, ahuhuh.
+[0588] "Sua pesquisa continua a se mostrar
+gritantemente deficiente em relação a
+capacidade e complexidade, ahuhuh.
+[0589] "Como me dói continuar
+reduplicando estas rejeições laboriosas,
+sugiro que não submeta novamente, ahuhuh."
+[0590] ...O quê? Bem, CACILDA!
+Outra carta de reprovação.
+[0591] Suponho que terei que reforçar meu
+corpo de trabalho um pouco mais. Talvez eu
+deva mergulhar na pesquisa sobre o Frenesi.
+[0592] Com certeza não vou desistir.
+Certo, Projeto? Aqui, já rascunhei rapidinho
+uma nova Missão.
+[0593] Ela se chama: 
+[0594] "
+[0595] Avançada: Além do Limite
+[0596] ."
+Você seria gentil o bastante para fazê-la?
+[0597] Claro, vou recompensá-lo pelo
+trabalho. Meus cofres-marm ainda não
+secaram.
+[0598] Muito obrigada, Projeto!
+Você devia ver o número de buracos na
+minha pesquisa que me ajudou a preencher!
+[0599] Enviei meu Caderno Nunca-Mais-Mais-Digno-de-Nota
+para a Academia. Desta vez é batata.
+Eu garanto!
+[0600] Você será o primeiro a saber quando eles
+responderem.
+[0601] Ooh! Projeto! Olhe!
+Uma 
+[0602] resposta
+[0603]  do Escriba nº 5 da
+Academia Real!
+[0604] Eu estava prestes a abrir--
+Ei, ei, afaste-se! Eu já chamei
+dibs de ler em voz alta! *Ahem*
+[0605] "O mundo é melhor servido por fatos frios e duros
+vistos por uma lente única, ahuhuh.
+[0606] "Nem é preciso dizer que poucos são capazes de
+descobrir novidade em dados que incontáveis
+outros já vasculharam, ahuhuh.
+[0607] "Aconselho respeitosamente que você concentre sua
+mente em espécimes mais ambiciosos e
+busque ali sua descoberta, ahuhuh."
+[0608] ...Hmm. Isso não foi tão esmagador de alma quanto
+a última rejeição.
+[0609] E ele tem razão. O mundo precisa de percepção,
+não só de inundação intelectual.
+[0610] ...Acho que está na hora de eu ser
+REALMENTE honesta.
+[0611] Se o Escriba de lá aceitar minha pesquisa,
+estou pensando em deixar a Caravana
+e 
+[0612] me matricular na Academia Real
+[0613] .
+[0614] Sei que me tornar Escriba provavelmente é
+só um sonho distante, mas ainda
+acho que há um lugar lá para mim --
+[0615] não apenas ajudando os Escribas ou os
+Estudiosos, mas ajudando o mundo todo.
+[0616] ...Projeto, não há nada que eu queira mais.
+Exceto talvez aprender a falar Rathian.
+[0617] Se a Academia quer que eu foque em
+monstros mais difíceis, então que seja. Vai
+fazer esta nova Missão por mim?
+[0618] Ela se chama: 
+[0619] "
+[0620] A Lança Prateada
+[0621] ."
+[0622] Estou... meio ficando sem dinheiro,
+mas isso é importante. Vou juntar
+o que puder como recompensa.
+[0623] Muito obrigada, Projeto!
+Você devia ver o número de buracos na
+minha pesquisa que me ajudou a preencher!
+[0624] Caravaneiro? Caravaneiro! Ugh, onde ele está? Eu
+preciso do pde Elitesaro dele para enviar meu Caderno
+Mais-Digno-de-Nota-Que-Nunca para a Academia!
+[0625] Se eu entrar, acho que vou começar a dar
+mortais para trde Elite! Meus óculos PROVAVELMENTE
+VÃO CAIR DO MEU ROSTO.
+[0626] Obrigada, Projeto! Vou garantir que você seja
+o primeiro a saber quando eu receber uma resposta.
+[0627] Projeto! Recebi uma resposta do Escriba nº 5
+da Academia Real! Desta vez
+é uma 
+[0628] resposta encorajadora
+[0629] .
+[0630] "Apesar de meus protestos até agora, devo
+reconhecer seus esforços e
+entusiasmo, ahuhuh.
+[0631] "Ainda assim, vejo meus pensamentos retornarem
+ao raro e esquivo 
+[0632] Gore Magala
+[0633] ,
+ahuhuh.
+[0634] "Como se impede a fera contorcida
+de retornar ao seu covil? Como se
+amarra ela a este mundo?
+[0635] "Apenas três escreveram sobre Gore Magala.
+Se contribuir com novas informações,
+seus dados seriam inestimáveis, ahuhuh.
+[0636] "Que a sabedoria a favoreça e torne isso realidade."
+[0637] ...Ohh. Oooooh!
+Consigo sentir, Projeto. Estou perto!
+[0638] Infelizmente, isso significa que preciso pedir
+um último favor pessoal a você. Tenho
+vergonha de pedir tanto, mas...
+[0639] Esta provavelmente é a coisa mais importante
+que vou pedir a você como
+*gulp* amiga.
+[0640] Chamei esta 
+[0641] Missão Urgente
+[0642] 
+
+[0643] "
+[0644] Avançada: Tudo em Seu Lugar
+[0645] ."
+[0646] Se fizer isso por mim, vou te dar
+cada último zenny que tenho. Não tenho
+medo de arriscar tudo.
+[0647] Por favor, diga sim.
+Isso pode mudar minha vida!
+[0648] Bem-vindo de volta, Projeto. Estava ansiosa
+para ver você.
+[0649] Muito obrigada por caçar aquele
+Gore Magala.
+[0650] Registrei tudo e enviei meu Caderno 
+Mais-Digno-de-Nota de Todos os 
+Dignos-de-Nota para a Academia.
+[0651] Eles responderam imediatamente.
+Guardei a carta para ler
+com você. Lá vai...
+[0652] "Minha senhora, consumi sua mais recente
+pesquisa com grande fascínio.
+Você tem meu mais humilde respeito, ahuhuh.
+[0653] "No mundo, você soltou uma flecha
+de verdade emplumada com percepção singular.
+Você mudou nossa forma de pensar, ahuhuh.
+[0654] "Eu ficaria muito honrado em tê-la
+aqui entre nós. Considere isto minha calorosa
+boas-vindas.
+[0655] "Antes que eu me esqueça, transmita meus
+mais calorosos cumprimentos ao maior dos
+Escribas, meu antigo mestre. Viaje em segurança."
+[0656] ......
+[0657] Projeto... Eu nem sei por onde começar a
+te agradecer.
+[0658] Quero que você fique com este 
+[0659] Sapo de Pelúcia
+[0660] 
+em honra ao que conquistamos.
+[0661] Cuide bem dele por mim, certo?
+[0662] ...O que foi? Ir embora?
+Oh! Ha ha ha. Sobre isso.
+[0663] Parece que talvez eu tenha esgotado minhas
+economias de uma vida para pagar você por todas
+aquelas Missões.
+[0664] Como não posso pagar o transporte
+até a Academia nem me sustentar
+quando estiver lá...
+[0665] Bem, parece que vou ter que
+ficar com a Caravana por mais um tempo
+até conseguir economizar. Opa.
+[0666] Mas você não se importa, não é, Projeto?
+Podemos viver ainda mais aventuras
+enquanto eu me arrasto para fora da falência.
+[0667] Se tiver sorte, não vou aprender nada
+com a experiência e você poderá arrancar
+outra pequena fortuna de mim. Heh heh.
+[0668] *SUSPIRO*
+[0669] Bem, me pinte de Qurupeco!
+[0670] Eu sabia que você era uma estrela, Projeto,
+mas O Teste do Mestre?
+Você conseguiu MESMO fazer AQUILO?
+[0671] Estou começando a achar que você é uma ameaça
+maior que qualquer monstro que eu conheço.
+[0672] Talvez eu deva rabiscar "Caçador da Caravana 
+com C maiúsculo" no meu caderno. 
+Na verdade, acho que vou! PRECISA ser feito!
+[0673] Onde está minha caneta de rabisco? Fique parado
+enquanto eu imortalizo você em...
+Não, espera, aonde você vai?!

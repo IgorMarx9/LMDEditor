@@ -1,0 +1,360 @@
+﻿[0000]	Uau! Dá para ACREDITAR, Senhor?
+Essas grandes metrópoles
+não chegam nem perto daqui.
+[0001]	Acho que NUNCA vi tanta gente
+reunida num só lugar!
+[0002]	Tentei ver a cidade inteira...
+É enorme!
+Este lugar é incrível.
+[0003]	Parece que não podemos subir
+aquela escadaria enorme.
+Não sem permissão.
+[0004]	Acredite em mim, Senhor.
+Eu tentei...
+[0005]	Como acha que é o
+Mestre das Defesas, Senhor?
+[0006]	Será que ele parece o Caravaneiro...
+ou o Comandante de Elite...
+[0007]	E se ele parecer com o Papai?
+[0008]	O Mestre das Defesas chega logo!
+Ebaaa! Mas apareceu
+um monstro lendário. Oooh...
+[0009]	Mostre a esse monstro lendário
+quem manda, Senhor.
+Eu sei que consegue!
+[0010]	Muito bem, Senhor!
+Foi um ótimo trabalho!
+[0011]	O Mestre das Defesas
+finalmente chegou à cidade.
+Estou tão animada! Hii!
+[0012]	Então... o Mestre das Defesas
+vai criar algum tipo de arma
+para defender a cidade, né?
+[0013]	Eu vou ajudar. Já decidi, Senhor!
+Mesmo que seja ficando
+no caminho deles!
+[0014]	Aliás, estou trabalhando
+com a armeira para criar um
+[0015]	novo
+martelo
+[0016]	.
+[0017]	Eu e ela vamos fazer
+um ótimo trabalho.
+Tenho certeza!
+[0018]	Ufa... Tantos objetivos
+estão me deixando tonta!
+[0019]	Começou a chover enquanto
+você estava caçando, Senhor.
+Nuvens negras surgiram do nada.
+[0020]	Será que o Kushala Daora
+trouxe essas nuvens...?
+[0021]	Adivinhe, Senhor!
+Ajudei a criar os projetos!
+[0022]	Pensei: "Moça, esta cidade
+precisa de proteção e cabe
+a você protegê-la." E protegi!
+[0023]	Parece que a Assistente
+ainda não chegou.
+O Professor estava muito nervoso.
+[0024]	Será que ela se perdeu?
+Talvez a Assistente
+precise de assistência...
+[0025]	O combustível da arma!
+Os esquifes!
+O ânimo dos moradores!
+[0026]	Tudo está dando errado, Senhor.
+Buuu! Não estou chorando.
+Faço "Buuu" quando estou decidida.
+[0027]	Conseguiu, Senhor!
+Os moradores recuperaram
+o bom humor de sempre.
+[0028]	Certo. Agora, contra o Dragão Ancião!
+Vamos preparar esta cidade
+para resistir a TUDO!
+[0029]	Ah, não!
+A cidade está em perigo!
+[0030]	Seregios estão surgindo por toda parte!
+...Não. Vai ficar tudo bem.
+[0031]	Vamos trabalhar juntos
+para resolver isso.
+E você está aqui, Senhor!
+[0032]	O Lanceiro e o Cadete?
+Foram para o campo, Senhor.
+[0033]	O Comandante de Elite
+estava muito sério.
+Até um pouco assustador...
+[0034]	Prometi ao Lanceiro e ao Cadete
+que terminaria o Demolidor
+antes que voltassem.
+[0035]	Vou avisando, Senhor:
+não vai ser fácil!
+Mas não vou decepcioná-los.
+[0036]	Ótimo. Quando íamos terminar
+a arma, os Monstros Hiper
+decidem voltar.
+[0037]	Precisamos nos apressar.
+EU preciso me apressar!
+[0038]	Espero que o Lanceiro esteja bem.
+Já devia ter voltado da expedição...
+Queria que ele voltasse.
+[0039]	Olá, Senhor.
+O pássaro do Mestre das Defesas
+trouxe uma carta para ele.
+[0040]	Como ele sabia onde estava?
+Parece que esse pássaro
+não tem cérebro de passarinho!
+[0041]	Todos da Caravana dizem
+que devo fugir
+se a situação piorar.
+[0042]	Mas não vou, Senhor.
+Não. De jeito nenhum. NUNCA!
+Não vou abandonar os moradores!
+[0043]	Ah, não! A cidade está em perigo!
+É agora?
+Estamos perdidos?!
+[0044]	Não. Vai ficar tudo bem.
+[0045]	Vamos trabalhar juntos
+para resolver tudo.
+Os Ases da Caça estão conosco.
+[0046]	E-E, acima de tudo,
+você também está aqui, Senhor!
+[0047]	Todos da Caravana querem
+que eu fuja. Mulheres e crianças
+primeiro, como dizem. Nem pensar!
+[0048]	Uma mulher também pode lutar!
+Eu vou dar conta da situação!
+[0049]	De onde vem a coragem, Senhor?
+Talvez ela apareça quando você
+decide parar de fugir.
+[0050]	Prepare-se, Senhor!
+[0051]	Vou equipá-lo tão bem
+que o Kushala Daora dirá:
+"Desisto, vou para casa!"
+[0052]	O Mestre das Defesas disse:
+o jeito mais rápido de chegar
+é dar um passo de cada vez.
+[0053]	Não há atalhos
+no caminho certo.
+[0054]	Dei tudo de mim para ajudá-lo,
+Senhor, mas todo mundo
+tem seus limites.
+[0055]	De onde vem a determinação, Senhor?
+[0056]	Talvez ela apareça
+quando percebemos
+que ainda há esperança.
+[0057]	Nossa, adoro quando faz sol, Senhor.
+Ainda mais quando está
+TÃO bonito assim!
+[0058]	E então, como fui?
+Eu ajudei?
+Nossa! Obrigada, Senhor.
+[0059]	O Mestre das Defesas foi embora...
+Mas tenho certeza de que voltará.
+Buuu!
+[0060]	Acho que desta vez "Buuu"
+é o som que faço
+quando estou triste...
+[0061]	Quando chegarmos a Harth,
+vou contar ao Papai tudo que fizemos
+com a ajuda dos moradores.
+[0062]	Quero que ele saiba que fez bem
+em me confiar à Caravana.
+[0063]	Olá, Senhor!
+O que posso fazer
+por você hoje?
+[0064]	É só pedir!
+Meu objetivo é sua satisfação!
+[0065]	O que será que estudam
+no Wyceum, Senhor?
+[0066]	Seja o que for,
+aposto que é muito útil
+para um caçador como você!
+[0067]	Senhor, não consigo acreditar
+no tamanho de Dundorma!
+[0068]	Nunca tinha visto tanta gente
+reunida num só lugar.
+[0069]	Quando fui me apresentar,
+todos me chamaram
+de "animadora"...
+[0070]	Tive que explicar que, na verdade,
+vim junto com a Caravana.
+[0071]	*Suspiro* Esse mecanismo maldito
+se recusa a funcionar.
+[0072]	Se o Artesão queria me desafiar,
+conseguiu. Estou quase lá,
+mas os detalhes me enlouquecem.
+[0073]	Alguma parte do seu trabalho
+também o enlouquece?
+Vamos ter que aguentar firme...
+[0074]	Olhe, Senhor!
+São os projetos dos novos
+equipamentos que estou criando.
+[0075]	Prefere listras ou entalhes?
+Argh, não consigo decidir!
+[0076]	Talvez eu peça
+a opinião da Guilda.
+[0077]	Sabe, Senhor, eu queria pedir
+ao Comandante de Elite para
+examinar o equipamento dele.
+[0078]	Mas, quando fui falar com ele,
+ficou sério e disse:
+"Não sabia que faziam tão pequeno."
+[0079]	...O que isso quer dizer?
+Devo me sentir ofendida? Com medo?
+Nem consegui fazer a pergunta.
+[0080]	Tenho certeza de que perdi
+o Mestre das Defesas.
+Mas sei que vou revê-lo...
+[0081]	Bem, vou fazer o possível
+para acreditar nisso.
+[0082]	Voltei ao Comandante de Elite
+e pedi permissão para
+examinar seu equipamento.
+[0083]	Ele ficou sério de novo e disse:
+"Você cresceu ou está
+na ponta dos pés?"
+[0084]	Depois ele me deixou olhar!
+Ainda bem que insisti.
+[0085]	Criei coragem para perguntar
+ao Lanceiro se podia ver
+seu equipamento. Minhas pernas tremiam!
+[0086]	Também estudei o equipamento
+da Artilheira. Ela foi muito gentil.
+E o equipamento? *suspiro* Incrível!
+[0087]	Outro dia passei pelo Anfiteatro.
+Conhece a Diva?
+[0088]	Ela tem uma voz tão linda!
+Quando eu canto, pareço
+um Jaggi peidando...
+[0089]	Senhor! Ainda estou trabalhando
+nos projetos de novos equipamentos.
+[0090]	Dei a este um estilo misterioso,
+com vinhas entrelaçadas,
+seguindo o conselho da Guilda.
+[0091]	Sexy, né?
+Ah, espere...
+Não era essa a palavra.
+[0092]	Senhor! Ainda estou trabalhando
+em novos equipamentos.
+[0093]	Neste usei flores em tons pastéis,
+seguindo o conselho da Guilda.
+[0094]	Quem não quer parecer
+ter saído de um conto de fadas?
+[0095]	Senhor! Ainda estou trabalhando
+em novos equipamentos.
+[0096]	Segui o conselho da Guilda
+e fiz um tão brilhante
+que nem dá para olhar direto.
+[0097]	Na verdade... Ai!
+Nem sei... Aii!
+Como ficou... Ah, meus olhos!
+[0098]	Às vezes, um Felyno aparece
+na margem do rio.
+Devem cair na água enquanto pescam.
+[0099]	Quando se ama tanto uma coisa,
+talvez até valha engolir água!
+[0100]	O pássaro do Caravaneiro adora
+carinho atrás da cabeça.
+[0101]	Ele fecha os olhos de felicidade.
+É FOFO DEMAIS, Senhor.
+Sério.
+[0102]	Se for caçar com amigos,
+recomendo a habilidade Suporte!
+[0103]	Seus efeitos de recuperação
+também alcançarão
+caçadores próximos!
+[0104]	Senhor, você sempre nos protege...
+Sei que ainda tenho muito a aprender,
+mas queria poder fazer mais.
+[0105]	O Mestre das Defesas disse:
+o jeito mais rápido de chegar
+é dar um passo de cada vez.
+[0106]	Sei que ele tem razão.
+Olhe até onde chegamos,
+uma Missão de cada vez!
+[0107]	Enfim... Avise se eu puder
+fazer algo por você, certo?
+Nem que seja algo pequeno pela cidade.
+[0108]	Para começar, vou cobri-lo
+de tantos Adornos que até
+um Troveriano ficará ofuscado!
+[0109]	Conseguimos, Senhor!
+Dá para acreditar?
+O tempo abriu!
+[0110]	Nunca subestime a força das pessoas
+quando trabalham juntas
+por um objetivo comum!
+[0111]	Choramos, reclamamos da má sorte,
+mas no fim sempre
+fazemos o trabalho.
+[0112]	Com o Papai e os mineiros
+era diferente. Quando havia problema,
+esperavam que ele sumisse.
+[0113]	"A tempestade vai passar", dizia Papai.
+"Até o Deviljho mais furioso dorme."
+Ele é uma máquina de provérbios.
+[0114]	Gosto do jeito dos humanos.
+É divertido atacar os problemas
+de frente.
+[0115]	Vou contar isso a todo mundo
+na próxima vez que passar
+pela minha vila.
+[0116]	Depois podemos fazer um martelo
+todos juntos... Vai ser incrível!
+[0117]	Senhor, queria saber
+se posso pedir
+um pequeno favor.
+[0118]	Nos últimos dias, estive
+[0119]	trabalhando em
+um novo martelo
+[0120]	com a Bela Armeira.
+[0121]	Você já sabe disso, certo?
+Afinal, teve a gentileza
+de nos ajudar.
+[0122]	Enfim. Fiz um protótipo da arma
+antes de chegar a Dundorma.
+Ele se chama "Arluq".
+[0123]	Para terminá-lo,
+preciso de materiais de
+[0124]	Ônix de Gravios
+[0125]	.
+[0126]	É aí que preciso de você.
+Registrei um pedido
+com a Guilda,
+[0127]	"
+[0128]	Avançado: Martelo Cetáceo
+[0129]	".
+[0130]	Faça isso por mim, por favor!
+Se conseguir, vou trabalhar ainda mais
+para terminar o martelo!
+[0131]	Ele será igualzinho ao Arluq.
+Voará rumo ao perigo, reto e leal!
+Sem limites!
+[0132]	Prometo que será muito útil.
+Quero cuidar de você, Senhor!
+Diga que sim!
+[0133]	Senhor! Ah, obrigada, obrigada!
+[0134]	Desde que concluiu
+"Avançado: Martelo Cetáceo",
+consegui
+[0135]	terminar o martelo
+[0136]	!
+[0137]	Pegue. É todo seu,
+e prometo que é único.
+[0138]	Coloquei nele sangue,
+suor e lágrimas.
+Acima de tudo, coloquei meu coração!
+[0139]	Vá ao campo e fique alerta!
+Como a Guilda diria? Ah, sim.
+Você é nossa única esperança!
+[0140]	Parabéns, Senhor!
+Nem acredito que concluiu
+"Avançado: Prova do Mestre".
+[0141]	Essa Missão era digna
+de uma lenda. Agora,
+você é essa lenda!
+[0142]	Hip hip hip, viva!
+Hip hip hip, viva!
+[0143]	Hip hip *snif* Buuu!
+Não estou chorando. Faço "Buuu"
+quando estou impressionada.

@@ -140,6 +140,8 @@ namespace LMDTool
             QuestFilter filter
         )
         {
+            if (info.GuildSubtype == 3) return filter.IncludeGuildTraining;
+
             if (info.Stars < filter.MinStars || info.Stars > filter.MaxStars)
                 return false;
 
@@ -174,7 +176,7 @@ namespace LMDTool
         public QuestColumn Pub = new QuestColumn(4);
         public QuestColumn Special = new QuestColumn(18) { Prowler = false };
         public bool Valid => Village.Min <= Village.Max && Hub.Min <= Hub.Max && Pub.Min <= Pub.Max && Special.Min <= Special.Max;
-        public bool Any => Village.Any || Hub.Any || Pub.Any || Special.Regular;
+        public bool Any => Village.Any || Hub.Any || Pub.Any || Special.Regular || IncludeGuildTraining;
         public bool IncludeVillage = true;
         public bool IncludeGuildRegular = true;
         public bool IncludeGuildArena = true;

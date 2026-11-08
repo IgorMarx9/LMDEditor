@@ -1,0 +1,10 @@
+[0000]	Treino de Gatuno ≪Fundamentos≫
+[0001]	Instrutor Calista
+[0002]	Sou eu, o instrutor! Vou ensinar o básico
+dos Gatunos! Primeiro, talhe Carne Crua
+de Larinoth e leve-a à Caixa de Entrega!
+[0003]	Larinoth
+[0004]	Entregue 1 Carne Crua
+[0005]	Recompensa chega a 0, ou
+o tempo acaba
+[0006]	Nenhuma

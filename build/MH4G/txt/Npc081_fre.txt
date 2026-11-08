@@ -1,0 +1,676 @@
+﻿[0000] Bom dia. Parece que nos encontramos
+de novo. Já falou com nosso comandante?
+[0001] Será um grande prazer trabalhar
+com você outra vez. Sei que podemos contar com você.
+[0002] O Mestre da Defesa e eu demos
+nossos primeiros passos na caça na mesma época.
+[0003] Ele é um homem que realiza o que precisa
+ser realizado e segue em frente um
+passo firme de cada vez.
+[0004] Ouço dizer que pouco disso mudou,
+mesmo após ele se aposentar da caça.
+[0005] De todo modo, mal posso esperar
+para vê-lo de novo. Faz muito, muito
+tempo.
+[0006] Viu o estudioso Dragonês perto
+da entrada da cidade?
+[0007] Ele é autoridade em pesquisas do Frenesi.
+Temos planos de construir um centro de pesquisa,
+o Dracolégio, aqui na cidade.
+[0008] Como ciência é um assunto de
+meu interesse, estou bastante ansioso para
+ajudar a concluir a tarefa.
+[0009] Bom dia. Ouvi dizer que ajudou a resolver
+os problemas de reparo do Quartel de Batalha.
+[0010] O Cadete praticamente dava cambalhotas.
+Ele pode ficar bem empolgado quando as coisas
+dão certo.
+[0011] Agora que ele já está bem encaminhado, sua tarefa
+deve ser reforçar o Dragonseer.
+Fale com a Atiradora para saber mais.
+[0012] A construção do Dracolégio, da qual estou
+cuidando, apresenta alguns problemas complicados.
+[0013] A própria natureza do lugar exige
+materiais que resistam a vários
+derramamentos químicos e acidentes medicinais.
+[0014] Estamos quase terminando nossas escolhas;
+quando terminarmos, talvez peça sua ajuda.
+[0015] O Mestre da Defesa e eu demos
+nossos primeiros passos na caça na mesma época.
+[0016] Ele é um homem que realiza o que precisa
+ser realizado e segue em frente um
+passo firme de cada vez.
+[0017] Ouço dizer que pouco disso mudou,
+mesmo após ele se aposentar da caça.
+[0018] De todo modo, mal posso esperar
+para vê-lo de novo. Faz muito, muito
+tempo.
+[0019] Bom dia. Parece que as melhorias
+do Dragonseer têm
+progredido bem.
+[0020] Quanto ao Dracolégio, finalmente conseguimos
+reduzir a lista dos
+materiais de que precisamos.
+[0021] Porém, você deve falar com nosso comandante
+antes de começarmos.
+[0022] Precisaremos de dois tipos de materiais
+para construir o Dracolégio.
+[0023] As duas Missões em que os encontrará
+são "Facilitando as Instalações" e
+"Caça-a-tona: Nerscylla."
+[0024] Pode concluí-las na ordem que
+funcionar melhor para você. Confio
+em seu julgamento.
+[0025] O Dracolégio é especializado na
+pesquisa de anomalias de monstros como
+o Frenesi.
+[0026] Assim, deve beneficiar não apenas
+a cidade, mas caçadores como você e
+eu também.
+[0027] Precisaremos de dois tipos de materiais
+para construir o Dracolégio.
+[0028] As duas Missões em que os encontrará
+são "Facilitando as Instalações" e
+"Caça-a-tona: Nerscylla."
+[0029] Pode concluí-las na ordem que
+funcionar melhor para você. Confio
+em seu julgamento.
+[0030] Espero que o Mestre da Defesa
+chegue quando você terminar de coletar
+os materiais do Dracolégio.
+[0031] Ele assumirá o comando das
+defesas da cidade.
+[0032] Devo dizer, anseio por ver
+meu velho amigo. Espero que o tempo
+tenha sido gentil com ele.
+[0033] Graças a você, temos todos os materiais
+de que precisamos para concluir o Dracolégio.
+[0034] Começaremos imediatamente.
+Espero que fique satisfeito com os resultados.
+[0035] Porém, surgiu uma questão mais urgente.
+Já se atualizou com nosso
+comandante?
+[0036] Graças a você, obtivemos os materiais
+de que precisamos para concluir o Dracolégio.
+[0037] Porém, a instalação pouco adianta
+sem equipe. Teremos que esperar
+até a Assistente de Pesquisa chegar.
+[0038] O Monoblos é um alvo extremamente
+poderoso que muitos em nossa profissão
+aspiram caçar.
+[0039] Muitos tentaram caçá-lo, e a maioria
+falhou. Os sortudos voltaram para casa
+com o crânio ainda virado para frente...
+[0040] Naturalmente, a cidade inteira estará
+observando para ver como você se sai.
+Cuide-se lá fora.
+[0041] Nosso comandante é o eixo central
+da defesa de Dondruma. Ele não pode
+simplesmente ir embora quando quiser.
+[0042] Ainda assim, até um homem tão dedicado
+deve ter momentos em que quer largar tudo
+e avançar para a luta.
+[0043] Consigo entender isso. Por outro lado,
+porém, estas nuvens escuras...
+[0044] Elas não me parecem certas.
+Terei que falar com nosso comandante
+sobre elas depois.
+[0045] Ah, bom dia, Caçador.
+Belo trabalho caçando aquele Monoblos.
+[0046] Graças a você, meu velho amigo, o Mestre
+da Defesa, chegou aqui são e salvo.
+[0047] Mas temos coisas demais pela frente
+para celebrar agora.
+[0048] O Dragão Ancião ainda está lá fora --
+o Kushala Daora com a cicatriz
+atravessando o rosto.
+[0049] Este clima deve ser tomado como aviso.
+A tempestade VIRÁ.
+[0050] Conversei longamente com meu velho amigo.
+Trocamos histórias do passado e falamos
+da tarefa diante de nós.
+[0051] Ele não mudou nada -- e digo isso
+apenas no melhor dos sentidos.
+[0052] Nossos caminhos de vida mudaram desde
+que começamos como caçadores,
+mas eu não gostaria que fosse diferente.
+[0053] Bom dia. Viu o Dracolégio?
+Finalmente, ele está pronto.
+[0054] Infelizmente, porém, a chegada da
+assistente que trabalhará lá
+foi atrasada por uma Rainha Seltas.
+[0055] O Professor queria pedir especificamente
+que você caçasse a criatura.
+Importa-se de ouvi-lo?
+[0056] Já soube? Os projetos da arma defensiva
+estão prontos. O Mestre da
+Defesa me contou com olhos cansados.
+[0057] E não é de se admirar. Toda noite de vigia,
+vi o pobre homem trabalhando nela
+sem dormir.
+[0058] Ele deve estar tão orgulhoso.
+Agora só falta construí-la.
+[0059] A assistente finalmente chegou.
+Ela levou seu tempo! Ha ha.
+[0060] Ainda assim, anima-me podermos finalmente
+dar o próximo passo. Espero grandes
+coisas desses pesquisadores.
+[0061] ...Hmm? O que foi?
+Ah, quer saber mais sobre o
+Mestre da Defesa? Muito bem.
+[0062] Muito tempo atrás, a Guilda pediu que ele
+se tornasse um Caçador de Elite, mas ele
+recusou terminantemente.
+[0063] Acho que ele receava deixar o
+povo simples. Sentia que pertencia entre
+eles, não acima deles.
+[0064] Acho que ele sentia que, quanto mais alto
+você sobe, menos perspectiva
+realmente tem. É um homem interessante.
+[0065] ...Hmm? O que foi?
+Quer saber o que penso do
+Comandante de Elite?
+[0066] Acho que ele merece minha ajuda,
+e gosto de oferecê-la. Muitas vezes me pergunto
+o que ele pensa de mim, porém.
+[0067] De muitas formas, ele me lembra seu mentor.
+[0068] Talvez não veja a semelhança de
+relance, mas prometo, ela está lá!
+Ha ha.
+[0069] Que alívio vê-lo voltar em segurança!
+Você teve uma sorte péssima ao topar com aquele
+Seregios.
+[0070] Já disse ao Caravaneiro e ao Cadete
+o mesmo, mas para mim é impensável
+um deles aparecer neste clima.
+[0071] Seu empregador e eu temos suspeitas
+sobre O QUE pode ter acontecido, mas estamos
+totalmente perdidos quanto ao PORQUÊ...
+[0072] O monstro voando rumo a Dondruma
+pode ser uma ameaça, mas também é
+a cidade ficar sem comida e suprimentos.
+[0073] Nada me aterroriza mais do que a
+cidade desabar sob o próprio peso
+antes mesmo de lutar.
+[0074] Eu devia saber que você devolveria algum ânimo
+ao passo da cidade. Muito bem!
+[0075] Ainda assim, problemas costumam atacar quando as coisas
+parecem ir melhor... Você e eu, ao
+menos, devemos seguir vigilantes como sempre.
+[0076] O que pode ter levado à
+aparição do Seregios?
+O que isso significa?
+[0077] O Caravaneiro e eu trocamos
+teorias, mas isso não passa de
+especulação.
+[0078] Já ouviu? O Cadete e eu
+partiremos para conduzir trabalho de campo.
+[0079] O mistério da aparição do Seregios
+precisa ser resolvido. Se descobrirmos
+algo, enviaremos um pássaro.
+[0080] Cuide da cidade enquanto estivermos fora,
+e cuide do Comandante Ás.
+[0081] Ele tem o mau hábito de tentar
+administrar tudo sozinho.
+[0082] Nossos deveres aqui foram cumpridos;
+logo receberemos outras missões.
+[0083] Considerando a variedade do trabalho que fazemos,
+não há garantia de que nós quatro
+seremos designados ao mesmo posto novamente.
+[0084] Espero que o Comandante e eu,
+ao menos, continuemos uma equipe... Quero
+seguir oferecendo toda ajuda que puder.
+[0085] Já vai embora? Isso FOI rápido.
+Eu gostaria de ter passado mais
+tempo falando com meu bom amigo...
+[0086] Sobre as velhas caçadas, e os novos caçadores
+que um dia tomarão nossos lugares.
+[0087] Então continuará viajando?
+Para onde irá agora?
+[0088] Preciso visitar a Guilda e o
+Salão Ancião antes de partir para
+minha próxima missão.
+[0089] Se eu não o vir de novo, cuide-se,
+amigo. Cuide dessa sua Caravana.
+[0090] Um 
+[0091] monstro que ninguém viu
+[0092] ...
+Uma história tão estranha; embora o dano
+que causou seja bem real.
+[0093] Importa-se de investigar se for
+em uma Missão onde se sabe que o monstro
+atacou?
+[0094] Fantasma ou não, o monstro está causando
+dano genuíno e sério. Não podemos
+simplesmente ignorá-lo.
+[0095] Tendo escrito antes sobre monstros
+"clandestinos", tenho uma teoria sobre
+que criatura talvez enfrentemos.
+[0096] Mas até a Atiradora fazer contato
+visual, recuso-me a tirar
+conclusões.
+[0097] Precisamos confiar na intuição dela e
+esperar que ela o encontre em breve.
+[0098] Que surpresa. Eu estava prestes a dizer
+à Atiradora que o monstro atacara
+de novo quando ela se antecipou.
+[0099] Ela não só sabia ONDE ele
+atacaria, como estava lá para ver.
+Não sei como ela faz isso.
+[0100] Enfim, ela sugeriu que eu buscasse você
+imediatamente. Com o conselho dela, acho que você tem
+boa chance de caçar aquele monstro.
+[0101] Acredito nesses palpites dela tanto
+quanto acredito em você.
+[0102] Os sentidos aguçados da Atiradora me assustam
+às vezes.
+[0103] Sem nem ir verificar, ela
+sabia que aquele monstro não estaria onde
+eu disse.
+[0104] Às vezes, quando caçamos juntos,
+ela se guia por estrelas que imagino
+se outro caçador sequer consegue ver.
+[0105] Esse tipo de percepção vem de
+outro plano. Desisti de tentar
+explicá-la com ciência há muito.
+[0106] O que eu não daria por um fragmento
+dos talentos dela! Ha ha.
+[0107] Bom dia. Você costuma usar Lança ou
+Lançarma?
+[0108] Ambas as armas facilitam ataques precisos
+e uma defesa sólida, baseada em escudo.
+Você tem o melhor dos dois mundos.
+[0109] Se ainda não as usou, recomendo muito
+que experimente.
+[0110] Aqueles sentinelas perto do Salão Ancião
+também usam Lanças.
+[0111] Melhor eu me cuidar, caso eles
+decidam roubar meu título! Ha ha.
+[0112] Bom dia. Já se acostumou com
+Dondruma?
+[0113] Espero que talvez precisemos da ajuda sua
+e da sua Caravana para resolver nossa atual
+situação, então não suma.
+[0114] Que sorte sua Caravana ter vindo à cidade!
+Seus talentos são bem-vindos, claro,
+mas sentimos falta sobretudo de sua companhia.
+[0115] Eu esperava que você emprestasse ao nosso
+comandante parte de sua considerável
+força e sabedoria.
+[0116] Ele tenta lidar com tudo sozinho, e
+nunca reclama -- mas suspeito que precisa
+de um ombro fora dos de Elite para se apoiar.
+[0117] O Professor do Dracolégio é uma
+das grandes mentes do mundo quando se trata
+de pesquisa do Frenesi.
+[0118] É verdade, é um campo novo, mas
+exatamente por isso grandes avanços
+já foram feitos.
+[0119] Você devia falar com ele. Ele é meio
+Qurupeco esquisito, mas fascinante de
+ouvir mesmo assim.
+[0120] Já se perguntou de onde os Dragões
+Anciãos vieram? Eu sei que sim.
+Muitas vezes.
+[0121] Talvez nós, mortais, não devamos
+saber -- mas então por que nós, mortais,
+ganhamos cérebros para pensar nisso?
+[0122] Perseguir um mistério leva a outro,
+e logo estou ponderando o sentido da
+vida -- ponto em que devo desistir.
+[0123] A sua foi uma caçada ao Monoblos tão boa
+quanto qualquer uma que ouvi contar. Muito bem.
+[0124] Sente-se mais lendário agora? Ha ha.
+Talvez sua lenda esteja apenas
+começando.
+[0125] O dano causado por Dragões Anciãos
+assolava o velho mundo do mesmo modo
+que hoje. Eles são calamidades vivas.
+[0126] A história deixou muitos registros do
+Kushala Daora, envolto em vento, enquanto
+devastava cidades e vilas.
+[0127] Em seu estado atual, até a grande
+Dondruma tem pouca chance
+contra uma força dessa magnitude.
+[0128] Como nossa missão designada é
+defender a cidade, não podemos
+deixá-la com tanta facilidade.
+[0129] Precisamos usar contratados externos como
+você para caçar monstros em nosso nome.
+[0130] Peço desculpas pela carga de trabalho imensa,
+mas sei que você dará conta por nós.
+[0131] O pessoal do Salão Ancião
+escolheu você especificamente por um motivo.
+[0132] Bom dia. Você costuma usar Lança ou
+Lançarma?
+[0133] Ambas as armas facilitam ataques precisos
+e uma defesa sólida, baseada em escudo.
+Você tem o melhor dos dois mundos.
+[0134] Se ainda não as usou, recomendo muito
+que experimente.
+[0135] Aqueles sentinelas perto do Salão Ancião
+também usam Lanças.
+[0136] Melhor eu me cuidar, caso eles
+decidam roubar meu título! Ha ha.
+[0137] Bom dia. Diga-me, você aguenta
+bem suas bebidas? O Caravaneiro
+e o Mestre da Defesa certamente aguentam.
+[0138] Um barril e meio depois, nenhum deles
+parece corado.
+[0139] O Caravaneiro esperava brindar ao sucesso do
+Mestre da Defesa, então imagino que seu 
+único lamento seja ter perdido a chance.
+[0140] Bom dia. Você parece o mesmo de sempre.
+[0141] A propósito, parece que você causou
+efeito no Cadete. Ele tem encarado
+o trabalho com ferocidade indomável.
+[0142] Suspeito que ele ainda sonhe que pode
+superar você. ...Como é que dizem?
+"Sonho é caça que o coração faz"?
+[0143] Entre a chegada do Dragão Ancião
+e os monstros frenéticos, não consigo
+entender como conseguimos.
+[0144] Suspeito que você tenha sido a chave.
+Poucos caçadores têm seu talento, e menos
+ainda têm sua determinação.
+[0145] Um dia, terá que me contar
+seu segredo!
+[0146] Para onde você e a Caravana C
+Colossal irão agora, então? Vão 
+seguir viagem?
+[0147] Ha ha. Não precisa explicar.
+[0148] Você poderia pregar os pés do Caravaneiro
+no chão e ele ainda acharia
+um jeito de partir em alguma aventura.
+[0149] Ele é um falcão, aquele lá --
+um pacote incontível de curiosidade.
+[0150] Bom dia. Como tem passado?
+Eu e os outros estamos como sempre.
+[0151] Dondruma virou uma base temporária
+de operações enquanto cuidamos de
+nossas novas missões respectivas.
+[0152] Nosso comandante tem atravessado as dele
+sem dificuldade; parece que nenhuma tarefa
+é desafiadora demais para ele.
+[0153] Muitos cadetes mais jovens que foram
+colocados com ele se maravilham com a rapidez
+com que o trabalho é feito.
+[0154] Conheço bem demais essa sensação.
+O homem às vezes é sobre-humano. Ha ha!
+[0155] Bom dia. A cidade certamente
+ficou bem animada.
+[0156] Ainda assim, sensação de segurança pode ser
+perigosa. Restam incontáveis
+monstros cruéis lá fora.
+[0157] A menos que você já tenha dado conta
+deles? Ha ha.
+[0158] Os eventos em Dondruma mudaram
+nosso comandante. Ele...
+[0159] Tornou-se um homem de menos palavras,
+suponho. Ha ha!
+[0160] As pessoas costumam falar da "calma antes
+da tempestade"; pessoalmente, acredito que é preciso
+uma tempestade para saber o que é "calma".
+[0161] Aqui em Dondruma, esse ciclo talvez
+se repita para sempre, mas pretendo desfrutar esta
+paz conquistada com esforço, como espero que eles façam.
+[0162] Quando a cidade for ameaçada de novo,
+os caçadores responderão ao chamado. ...E
+o Mestre da Defesa, espero! Ha ha.
+[0163] Ah, vejo que hoje está com amigos?
+Tenha cuidado extra em campo,
+e cace até seu coração se fartar!
+[0164] Estaremos esperando aqui na cidade por
+seu retorno triunfante.
+[0165] Aha! Justo o caçador que eu procurava.
+Nosso comandante já o informou?
+[0166] Então sabe que fui colocado no comando de
+construir o 
+[0167] Dracolégio
+[0168] , e preciso
+da sua ajuda.
+[0169] A comunidade acadêmica aqui em Dondruma
+fez enormes avanços na pesquisa
+do Frenesi.
+[0170] Já faz algum tempo que há
+discussões sobre estabelecer uma instalação adequada
+para conduzir tais estudos.
+[0171] Infelizmente, o ataque recente de monstros forçou
+a construção a ficar de lado.
+[0172] E de lado ela permaneceu,
+até agora.
+[0173] O Professor aqui sugeriu
+que encaremos a dificuldade e terminemos
+a instalação.
+[0174] Para começar, precisamos de 
+[0175] dois
+materiais especializados
+[0176] .
+[0177] Um material precisa ser resistente ao calor.
+Após muita tentativa e erro, concluímos que
+
+[0178] materiais de Cephadrome
+[0179]  funcionam melhor.
+[0180] A outra coisa de que precisamos é madeira
+resistente a produtos químicos.
+[0181] A Floresta Primitiva está cheia dela,
+mas todas as 
+[0182] Nerscyllas
+[0183]  rondando
+lá dificultam a colheita.
+[0184] É aqui que você entra. Gostaria
+da sua ajuda para 
+[0185] caçar os
+monstros problemáticos
+[0186] .
+[0187] Sua Guildmarm deve ter duas Missões
+para você: "
+[0188] Facilitando as Instalações
+[0189] "
+e "
+[0190] Caça-tatona: Nerscylla
+[0191] ."
+[0192] Boa sorte. A ajuda é apreciada.
+[0193] Ah, você voltou!
+Eu estava preocupado com você.
+[0194] Acontece que acabei de voltar
+do campo também.
+[0195] Surgiu uma 
+[0196] questão urgente
+[0197]  que
+preciso relatar à Sua Imensidão
+imediatamente.
+[0198] Sei que deve estar exausto, mas
+se importaria de vir comigo?
+[0199] A verdade que encarei talvez seja demais
+para Sua Imensidão lidar
+sozinho.
+[0200] Devemos visitar o 
+[0201] Salão Ancião
+[0202] 
+imediatamente.
+[0203] Obrigado. Não poderíamos ter feito nada
+disso sem você.
+[0204] Você e sua Caravana têm meus
+sinceros agradecimentos.
+[0205] Meu velho amigo, o Mestre da Defesa, já deve
+estar em seu novo posto agora. Ele nunca foi
+de ficar parado.
+[0206] Eu o invejo. Ele pode entrar em qualquer cidade
+com nada além da camisa do corpo,
+e virar parte da casa um dia depois.
+[0207] Eu, por minha vez, estou ocupado demais com
+minha caça e ciência para aceitar um pupilo.
+Mas ele...
+[0208] Acho que ele foi posto neste mundo para ser
+um pastor. Para reunir pessoas,
+cuidar delas e nutri-las.
+[0209] Ele é um sujeito admirável.
+Espero vê-lo de novo em breve.
+[0210] Enquanto isso, porém, ocuparei
+a mim mesmo com meus próprios deveres.
+[0211] Bom dia. Que timing impecável!
+Tenho uma questão repentina que esperava
+discutir com você.
+[0212] Veja, a Guilda foi inundada por
+relatos estranhos ultimamente.
+[0213] Parece que um monstro anda
+assediando caravanas por toda a terra.
+[0214] Especificamente, ele vem devastando as
+cargas delas no momento em que ninguém olha.
+[0215] A parte mais estranha deve ser esta:
+
+[0216] nenhuma vítima chegou a ver o
+monstro
+[0217]  fazendo isso.
+[0218] Tudo isso é tão fora do comum que
+a Guilda entrou em contato comigo.
+[0219] E, aliás, a situação
+soa familiar. Afinal, escrevi um livro
+sobre tais monstros "clandestinos".
+[0220] Mas teorias são apenas teorias. Antes
+de tirar conclusões, procurei a
+
+[0221] ajuda da Atiradora Ás
+[0222] .
+[0223] Eu esperava que sua intuição incomum e
+visão tremenda me ajudassem a determinar
+com que culpado eu lidava.
+[0224] Infelizmente, porém, quando pedi a ela,
+ela só riu e disse casualmente:
+"Não vai estar lá."
+[0225] Como ela sabe? Seja de onde vierem
+esses palpites dela, devem estar
+fora dos limites da ciência.
+[0226] De todo modo, ela raramente se engana.
+Mas prefiro apoiar palpites com fatos.
+É aí que você entra.
+[0227] Há uma Missão chamada
+
+[0228] "
+[0229] Diabo no Portão do Céu
+[0230] ."
+[0231] Se vir o monstro estranho em
+questão, por favor, volte e me informe.
+[0232] A Atiradora disse que dará conselhos
+quando você estiver na área.
+Obrigado, amigo.
+[0233] Bom dia. Eu esperava que você passasse.
+Então, como foi em campo?
+[0234] Nenhum sinal do monstro estranho, diz?
+...Hmm, que assim seja. Ainda agradeço
+a ajuda.
+[0235] Se eu pensar em mais alguma coisa, avisarei.
+Afinal, você sempre dá conta
+por mim.
+[0236] Ah! Caçador! Eu estava procurando você. Sim,
+infelizmente, a Guilda recebeu 
+[0237] mais
+queixas sobre aquele monstro estranho
+[0238] .
+[0239] Queixas, sim, mas ainda sem nenhum
+avistamento confirmado de fato...
+[0240] Desta vez, o relato diz respeito a uma
+Missão chamada 
+[0241] "
+[0242] Sombra Gélida
+[0243] ."
+[0244] A Atiradora riu de novo. Ela ainda
+insiste que ele não estará lá.
+[0245] Mas a ameaça deve ser enfrentada.
+Importa-se de ir a campo
+por mim novamente?
+[0246] Volte e informe se vir o monstro.
+A Atiradora prometeu dar conselhos
+quando você estiver na área.
+[0247] Bom dia. Eu esperava que você passasse.
+Então, como foi em campo?
+[0248] Ainda sem sinal do monstro estranho?!
+...Hmm, que assim seja. Ainda agradeço
+a ajuda.
+[0249] A Atiradora disse que continuaria
+de olho. Certamente nos dirá
+se algo mudar...
+[0250] Se eu pensar em mais alguma coisa, avisarei.
+Afinal, você sempre dá conta
+por mim.
+[0251] Ah! Caçador! Eu estava procurando você. Sim,
+infelizmente, a Guilda recebeu 
+[0252] mais
+queixas sobre aquele monstro estranho
+[0253] .
+[0254] Queixas, sim, mas ainda sem nenhum
+avistamento confirmado de fato...
+[0255] Desta vez, o relato diz respeito a uma
+Missão chamada 
+[0256] "
+[0257] Envolto em Mistério
+[0258] ."
+[0259] O monstro deve ser rápido se consegue
+ir de um lugar a outro tão
+depressa...
+[0260] A Atiradora insiste que ele não estará lá,
+mas tenho o dever de rastreá-lo.
+[0261] Importa-se de ir a campo
+por mim novamente?
+[0262] Volte e informe se vir o monstro.
+A Atiradora prometeu dar conselhos
+quando você estiver na área.
+[0263] Bom dia. Eu esperava que você passasse.
+Então, como foi em campo?
+[0264] AINDA sem sinal do monstro estranho?
+...Hmm, que assim seja.
+[0265] Mas vi o olhar grave nos olhos da Atiradora
+enquanto ela continuava sua vigia.
+Devemos estar perto de uma resposta...
+[0266] Se eu pensar em mais alguma coisa,
+avisarei.
+[0267] Ah! Caçador! Eu estava procurando você.
+Finalmente o encontramos! Bem, a Atiradora
+o encontrou, para ser preciso.
+[0268] O monstro estranho...
+O Dragão Ancião 
+[0269] Chameleos
+[0270] .
+[0271] Ninguém sabia se ele estava realmente lá ou
+não, mas a Atiradora o encontrou nas profundezas
+da Selva Eterna.
+[0272] Você verá o quão estranho ele é
+quando o encontrar... E pretende
+ir, não pretende?
+[0273] Registrei uma 
+[0274] Missão Urgente
+[0275] :
+
+[0276] "
+[0277] Dentro da Névoa
+[0278] ."
+[0279] A Atiradora prometeu dar conselhos
+quando você estiver na área.
+Boa sorte, amigo.
+[0280] Muito bem! A Atiradora me contou tudo
+sobre você e o Chameleos.
+[0281] Ela disse que você deu a ela um vislumbre de
+intuição real -- que viu o trabalho de um
+caçador experiente lá fora.
+[0282] Parece uma caçada para ficar na história.
+Uma pena eu ter perdido! Ha ha.
+[0283] Obrigado novamente por toda sua ajuda com
+este mistério. Considero-me sortudo por
+conhecer você.
+[0284] Olá. Ouvi notícias impressionantes!
+É verdade que você concluiu
+O Teste do Mestre? Incrível.
+[0285] É estranho; como você é diferente
+de qualquer outro caçador que conheci.
+[0286] Décadas no futuro, terei dificuldade para
+descrevê-lo às futuras gerações
+de caçadores, como será meu dever.
+[0287] Alguém tão singular simplesmente não pode ser
+resumido em palavras, mas posso falar
+dos grandes feitos que você realizou.
+[0288] Aguardo ansioso esse dia, quando tiver
+terminado minhas obrigações atuais e puder
+refletir sobre os melhores tempos.灎っㄸI look forward to that day, when I have
+finished my present obligations and can
+reflect on the best of times.灎っㄸ
